@@ -300,3 +300,66 @@ Thus, the generic LOM-RDM remains a stable reference framework for the creation 
   - Der Textinhalt des Panels „Learning Objectives for this course“ trägt den H5P-Standardtitel „Unbenannt: Text“. Die Zuordnung erfolgt über den Panel-Titel.
   - Ein leerer Listenpunkt im Beispiel („&nbsp;“) wurde nicht übernommen.
 - **Randomisierung:** nicht zutreffend, da keine Quizze in diesem Kapitel vorhanden sind.
+
+<!--
+author: [PLATZHALTER: Autor]
+version: 1.0
+language: en
+narrator: [PLATZHALTER: Narrator]
+comment: Topic and Setting. Part of the course "Searching for object-related research data" in the series "Research, reuse, and publication of object-related data according to the FAIR principles".
+license: CC BY 4.0
+-->
+
+# Topic and Setting:  RRP - Searching for object-related research data.
+## Protagonists
+Let's introduce our protagonists. Their questions and answers will guide you through this course.
+
+![A brick toy minifigure of the WiNoDa persona Anita with reddish hair in a ponytail and an orange jacket. Anita is introduced as a 2nd year PhD student in archeobotany with deep theoretical knowledge but limited practical experience.](images/Anita_protagonist.PNG) **Anita** is a graduate student in archaeobotany. She would like to re-use published data - e.g. from museum collections - for her thesis work. Alas, she does not quite know how to go about it.
+
+![A brick toy minifigure of the WiNoDa persona Susan with wavy white hair and a green cardigan. Susan is introduced as a Senior Scientist. She is renowned for her expertise in Biology, especially Dragonflies. but has gaps in digital methods and technologies](images/Susan_protagonist.PNG) **Susan** is a distinguished entomologist and Senior Scientist. Aside from data that she collects herself, she also re-uses collection data and other published datasets for her research. She shares valuable advice on data research with Anita.
+
+![A brick toy minifigure of the WiNoDa Helpdesk persona Winnie with curly black hair and a pink sweater. Winnie is introduced as a Data Steward with a background in marine biology and expertise in Research Data Management](images/Winnie_protagonist.PNG) **Winnie** works at the helpdesk of a data competency centre. There is little she doesn't know about finding reusable research data and she is always happy to help with any questions.
+
+![A brick toy minifigure of the WiNoDa persona Kai with blond hair, a beard and a brown cardigan. Kai is introduced as a Curator in a Natural History museum, with experience in digitising object collections who wants to stay up-to-date in his field.](images/Kai_protagonist.PNG) **Kai** works as collection curator at the Natural History Museum. He works on digitising their collections and is interested in making them available for researchers and other interested parties. He tries to keep up to date with the work being done by other museums.
+
+![A brick toy minifigure of the WiNoDa persona Dave with spiky brown hair and a blue hoody. Dave is introduced as a Data Scientist with expertise in data analysis, but moved only recently to the Museum and has little knowledge of collection-related data.](images/Dave_protagonist.PNG) **Dave**, a Data Scientist at the museum, has a lot of expertise in digital workflows, but the field of natural history collections is still new to him.
+
+Once a week, our protagonists meet at the museum café...
+
+
+---
+
+### Hinweisliste
+
+- **Platzhalter:**
+  - Autor und Narrator sind in der Quelle nicht angegeben und wurden als Platzhalter im Header gesetzt.
+- **Fehlende Alt-Texte:** keine. Alle fünf Bilder haben Alt-Texte.
+- **Unvollständige Texte:**
+  - „Once a week, our protagonists meet at the museum café...“ endet mit „...“ und wirkt abgeschnitten. Die Stelle ist als [TEXT UNVOLLSTÄNDIG IN QUELLE] markiert.
+- **Korrekturen (Vorschläge, nicht übernommen):**
+  - „archeobotany“ (zweimal, im Text und im Alt-Text von Anita) könnte als „archaeobotany“ geschrieben werden, da das Kapitel britisches Englisch verwendet. Die Schreibweise wurde unverändert übernommen.
+  - Im Alt-Text von Susan steht „especially Dragonflies. but has gaps“. Hier sind Punkt und Großschreibung inkonsistent.
+  - Im Alt-Text von Kai fehlt nach „who wants to stay up-to-date in his field“ ein Satzzeichen, und „Curator in a Natural History museum“ ist uneinheitlich geschrieben.
+  - Doppelte Leerzeichen in „but  limited“ (Anita-Alt-Text) und „Introducing  Anita“ (Slide-Titel) wurden nicht übernommen.
+- **Unklare Zuordnungen:**
+  - Die Persona-Vorstellungen im Bildkarussell sind als Bilder mit Alt-Text übernommen, nicht als Persona-Makros. Bitte bestätigen, ob diese Folien als Bilder bleiben oder als Persona-Makros umgesetzt werden sollen.
+  - Die Captions „Untitled Image“ und „Image unbenannt“ sind H5P-Standardtitel. Bitte prüfen, ob sie als Caption bleiben sollen.
+  - Der Überschriftentext „RRP - Searching for object-related research data.“ stammt aus einem fett formatierten Absatz im Textfeld und wurde als Überschrift übernommen.
+  - Das Karussell trägt den Titel „Protagonists“ aus den H5P-Metadaten. Dieser wurde als Zwischenüberschrift übernommen.
+- **Randomisierung:** nicht zutreffend, da keine Quizze in diesem Kapitel vorhanden sind.
+
+
+# 1 - Orientation in the research data landscape
+
+<section>
+
+## Recently, in the cafeteria of the Natural History Museum…
+
+</section>
+
+![Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries.](images/1_Coffee-Round_Anita.png)
+@Anita(```<p>Hi guys! Can I ask you something?</p><p>I really need to find some additional data for my research project, but I am a bit overwhelmed.</p><p>I know how to search literature and how to use a library –</p><p class="persona__heading">but how do I go about searching for data?</p>```)
+
+@Susan_(```<p>That’s an excellent question!</p><p>Just as with literature searches, there are <strong>search strategies for data</strong> too.</p><p>And just as literature can be found in libraries and library catalogues, research data can be found in <strong>repositories and aggregators</strong>.</p><p>Don‘t worry, we can help you.</p>```)
+
+
