@@ -1,6 +1,6 @@
 # WiNoDa_L2.2-2_DataSearch
 
-Teil 5 wiederholt größtenteils Inhalte aus Teil 4, neu ist nur der Übergang zum Kapitel mit den Figuren. Ich habe jetzt genug, um das Dokument mit dem bisherigen Stand zusammenzustellen. Die Kapiteltitel für die Figuren-Sektion fehlen noch, und falls danach weitere Kapitel kommen, schicke sie mir bitte in einem Teil, der direkt nach dem letzten Ende beginnt.
+
 
 ## Kapitel 1: About this course
 
