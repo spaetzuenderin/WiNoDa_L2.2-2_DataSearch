@@ -1940,8 +1940,6 @@ To do this, she needs data on the current geographical distribution of this spec
 </div>
 </div>
 
-
-
 <div class="persona--susan">
 <h3>Match each search task with the most suitable resource.</h3>
 
@@ -1980,21 +1978,74 @@ You can find open data through many of the same repositories, aggregators, and p
 <p>
 Why don't we give it a go?</p>```)
 
+## 3.1 Exercise: Finding Open Research Data
+
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
+
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+
+<div style="flex: 0 0 30%; min-width: 0;">
+
+![Winnie standing](images/Winnie_standing.png)<!--
+width="100%"-->
+
+</div>
+<div class="persona--winnie">
+In the following tasks, you will work with **three short research scenarios** from different disciplines. 
+
+Each scenario shows a researcher trying to find or evaluate research data for reuse.
+For each case, select the options that best describe how the researcher can identify **open and reusable data**.
+
+There may be more than one correct answer per question.
+
+**Feel free to open the respective search portals in a separate browser window to evaluate the available options.**
+</div>
+</div>
 
 ## 3.2 Scenario 1: Open Archaeology Data
 
-<section>
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
 
-<!-- question 1: 01_008_0149_Multiple-Choice_2 -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+<div style="display: flex; align-items: flex-start; gap: 1em;">
 
-@AnitaH(```https://portal.ariadne-infrastructure.eu
+<div style="flex: 0 0 30%; min-width: 0;">
 
-Anita is searching the ARIADNE Portal for archaeobotanical datasets that she can reuse in her PhD project.
+![Anita standing under a large question mark](images/Quiz-Anita.PNG)<!--
+width="100%"-->
 
-**Which information should she check to determine whether a dataset is openly available and reusable?**
+</div>
+<div class="persona--anita">
+<h3>Scenario 1: Archaeology</h3>
+Anita is searching the ARIADNE Portal 
+>>[https://portal.ariadne-infrastructure.eu](https://portal.ariadne-infrastructure.eu)
+for archaeobotanical datasets that she can reuse in her PhD project.
 
-*(Select all that apply.)*```)
+</div>
+</div>
+
+<!--- question 1: 01_008_0149_Multiple-Choice_2 | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice --->
+
+<div class="persona--anita">
+
+<h3>Which information should she check to determine whether a dataset is openly available and reusable?</h3>
+
+*(Select all that apply.)*
 
 ![Screenshot ARIADNE search](images/image-7EagVg9D.png "Untitled Image")
 
@@ -2020,7 +2071,8 @@ data-text-failed="Use citation counts to decide reuse rights: Incorrect. Citatio
 Open data are not always identified through a dedicated search filter. Portals such as ARIADNE aggregate metadata from multiple sources. To confirm reusability, users must check access conditions and licences in the dataset record and the original reposit[TEXT UNVOLLSTÄNDIG IN QUELLE]
 ***
 
-</section>
+</div>
+
 
 ---
 
