@@ -733,27 +733,45 @@ Understanding these different types helps researchers identify suitable places t
 
 ### 1.3.3 Quiz: Repository types
 
-![Anita standing under a green question mark](images/file-699897ee8561b.PNG "Image unbenannt")
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
 
-<!-- Image license: U -->
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+<div style="flex: 0 0 30%; min-width: 0;">
 
-<!-- Quiz: L2.2_1.3.3_Quiz -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Question Set -->
+![Anita standing under a large question mark](images/Quiz-Anita.PNG)<!--
 
-{{1}}
+width="100%"-->
+
+</div>
+
+<div class="persona--winnie">
+
+Let's repeat what we have learned.<br>
+Klick the arrows on the green button to proceed.
+
+</div>
+</div>
+
+{{1-2}}
 <section>
 
-<!-- question 1: WiNoDa_04_004_0862a_Multiple-Choice_1 -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+<!--- question 1: WiNoDa_04_004_0862a_Multiple-Choice_1 |
+license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice --->
 
 **Why do different types of repositories and aggregators exist?**
 
 <!--
 data-randomize
 data-text-solved="Correct. Different disciplines and communities require different standards, services, and discovery tools."
-data-text-failed="Because every institution wants to use their own branding and metadata.: No. While institutions may have their own branding and metadata practices, this is not the main reason different repository and aggregator types exist.
-Because every country requires its own repository.: No. Repositories and aggregators can operate at local, national, regional, or international levels.
-Because each data type can only be stored in one format, so we need different repositories for each data type.: No. Most repositories can store multiple file formats."
+data-text-failed="Incorrect. Institutional branding and metadata practices, national boundaries, and file formats are not the main reasons for different types of repositories and aggregators. Repositories and aggregators can operate at local, national, regional, or international levels, and most repositories can store multiple file formats."
 -->
 
 [(X)] Because research communities have different needs.
@@ -764,26 +782,20 @@ Because each data type can only be stored in one format, so we need different re
 
 [( )] Because each data type can only be stored in one format, so we need different repositories for each data type.
 
-***
-Different research communities have different requirements for managing and discovering data.
-***
 
 </section>
 
-{{2}}
+{{2-3}}
 <section>
 
-<!-- question 2: WiNoDa_04_004_0862a_Multiple-Choice_2 -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+<!--- question 2: WiNoDa_04_004_0862a_Multiple-Choice_2 | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice --->
 
 **Which statement is correct?**
 
 <!--
 data-randomize
 data-text-solved="Correct — many repositories are maintained by a specific institution while also serving a particular research discipline."
-data-text-failed="Institutional and disciplinary repositories are always different categories.: A repository may be both institutional and disciplinary.
-A repository can only belong to one category.: Repository categories are not mutually exclusive, and a repository may fit more than one category.
-General-purpose repositories are actually aggregators.: General-purpose repositories store and provide access to data, whereas aggregators primarily help users discover data from multiple sources."
+data-text-failed="Incorrect. Repository categories are not mutually exclusive. A repository may be both institutional and disciplinary. General-purpose repositories store and provide access to research data, whereas aggregators primarily help users discover data from multiple sources."
 -->
 
 [( )] Institutional and disciplinary repositories are always different categories.
@@ -794,22 +806,22 @@ General-purpose repositories are actually aggregators.: General-purpose reposito
 
 [( )] General-purpose repositories are actually aggregators.
 
-***
-Repository types are not always distinct categories; understanding that repositories can serve multiple roles helps researchers choose appropriate places to deposit and discover data.
-***
+
 
 </section>
 
-{{3}}
+{{3-4}}
 <section>
 
-<!-- question 3: WiNoDa_04_004_0862a_Multiple-Choice_3 -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+<!--- question 3: WiNoDa_04_004_0862a_Multiple-Choice_3 |
+ license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice --->
 
 **A museum stores its collection data in its own repository and also contributes metadata to GBIF. Which statement best describes this situation?**
 
 <!--
 data-randomize
+data-text-solved="Correct. The museum maintains its collection data in its own institutional repository while contributing metadata to GBIF, a disciplinary aggregator for biodiversity data. This allows the data to remain in the museum's repository while becoming discoverable through GBIF."
+data-text-failed="Not quite. The museum uses both its own institutional repository and GBIF, a disciplinary aggregator. GBIF primarily aggregates metadata from multiple data providers rather than storing all original museum data. Institutional repositories can contribute metadata to aggregators such as GBIF, increasing the discoverability of their collections."
 -->
 
 [( )] The museum uses only one repository.
@@ -825,42 +837,67 @@ data-randomize
 {{4}}
 <section>
 
-<!-- question 4: WiNoDa_04_004_0862a_Drag-the-Words -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the Words -->
+<!--- question 4: WiNoDa_04_004_0862a_Drag-the-Words | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the Words --->
 
-Match the examples to the most appropriate category by dropping the words into the correct boxes.
-
-| Example | Category |
-|---|---|
-| *Zenodo* | [[ (General-purpose repository) | Institutional repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
-| *iDAI.repo* | [[ (Institutional repository) | General-purpose repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
-| *PANGAEA* | [[ (Disciplinary repository) | General-purpose repository | Institutional repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
-| *GBIF* | [[ (Disciplinary aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Cross-disciplinary aggregator | Thematic aggregator ]] |
-| *OpenAIRE* | [[ (Cross-disciplinary aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Disciplinary aggregator | Thematic aggregator ]] |
-| *Europeana* | [[ (Thematic aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator ]] |
+### Match the follwing examples to the most appropriate category by dropping the words into the correct boxes.
 
 </section>
 
----
+{{5-6}}
+<section>
 
-## Hinweisliste
+<!-- data-randomize -->
 
-- **Kapitelnummerierung:** Kapitelüberschrift als `###` umgesetzt, entsprechend der vorgegebenen Nummerierung.
-- **Bildlizenz:** Für Anita ist im Quelldatensatz die Lizenz `U` angegeben. Eine genauere Lizenzbezeichnung fehlt.
-- **Quiz 1–3:** Randomisierung übernommen (`randomAnswers: true`).
-- **Quiz 4:** Keine Randomisierung übernommen. Die sechs Zuordnungen sind fest miteinander verknüpft; eine zufällige Reihenfolge der Antwortmöglichkeiten wurde nicht ausdrücklich aus der Quelle vorgegeben.
-- **Quiz 3:** Kein individuelles Feedback und kein Gesamtfeedback in der Quelle vorhanden.
-- **Quiz 4:** Kein Gesamtfeedback in der Quelle vorhanden.
-- **Persona-Zuordnung:** Das Bild zeigt Anita, enthält aber keinen Persona-Fragetext. Daher wurde kein Persona-Makro anstelle eines Fragetextes eingesetzt.
-- **Metadaten:** Die Kurslizenz wurde entsprechend deiner Vorgabe auf CC BY 4.0 gesetzt. Die Quiz-Metadaten wurden separat übernommen.
-- **Korrekturvorschläge:** Keine offensichtlichen Rechtschreib- oder Grammatikfehler festgestellt.
-- **Platzhalter / unvollständige Texte:** Keine festgestellt.
+| **Zenodo** | [->[ (General-purpose repository) | Institutional repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
 
-## Bildverzeichnis
+</section>
 
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | Image unbenannt | U |
+{{6-7}}
+<section>
+
+<!-- data-randomize -->
+
+| **iDAI.repo** | [->[ (Institutional repository) | General-purpose repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
+
+</section>
+
+{{7-8}}
+<section>
+
+<!-- data-randomize -->
+
+| **PANGAEA** | [->[ (Disciplinary repository) | General-purpose repository | Institutional repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
+
+</section>
+
+{{8-9}}
+<section>
+
+<!-- data-randomize -->
+
+| **GBIF** | [->[ (Disciplinary aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Cross-disciplinary aggregator | Thematic aggregator ]] |
+
+</section>
+
+{{9-10}}
+<section>
+
+<!-- data-randomize -->
+
+| **OpenAIRE** | [->[ (Cross-disciplinary aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Disciplinary aggregator | Thematic aggregator ]] |
+
+</section>
+
+{{10-11}}
+<section>
+
+<!-- data-randomize -->
+
+| **Europeana** | [->[ (Thematic aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator ]] |
+
+</section>
+
+
 
 
 
