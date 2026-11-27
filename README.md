@@ -2645,3 +2645,81 @@ Persona-Bilder werden entsprechend deiner Vorgabe nicht separat eingebunden.
 - Keine Quizfragen oder Antwortoptionen vorhanden.
 - Keine Randomisierung erforderlich.
 - LiaScript-Skill-Datei nicht abrufbar; Umsetzung nach den vorgegebenen Regeln.
+
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+email:
+version: 1.0
+language: en
+narrator:
+comment: 2.2.8 Quiz: Archaeological data sources
+license: CC BY 4.0
+-->
+
+# 2.2.8 Quiz: Archaeological data sources
+
+@Winnie_(```**Summary**
+
+I prepared a **table overview of the archaeological data sources** for you to download.
+
+Download
+
+[PLATZHALTER: todo - add link]```)
+
+---
+
+<!-- question 1: WiNoDa_04_004_0865a_Drag-the-words -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the Words -->
+
+@WinnieH(```Match each search task with the most suitable resource. Drag the words into the correct boxes```)
+
+<!--
+data-randomize
+-->
+
+- To search across many European archaeological repositories and datasets, use [[(ARIADNE Portal)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+
+- To find archaeological literature and bibliographic references, use [[(Zenon)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+
+- To discover datasets, publications, and software across disciplines, use [[(DataCite Commons)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+
+- To explore linked information about archaeological objects, places, and collections from open sources all over the world use [[(Wikidata)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+
+- To search digitised cultural heritage collections from European institutions, use [[(Europeana)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+
+---
+
+## Hinweise und Korrekturvorschläge
+
+### Platzhalter
+- `todo - add link`: Der Download-Link zur Tabelle mit der Übersicht der archäologischen Datenquellen fehlt.
+- Die Beschriftung `Download` ist vorhanden, aber ohne funktionierenden Link.
+
+### Bilder
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+| images/file-69989815a8b84.PNG | Winnie standing under a green question mark | Nicht angegeben | U |
+
+### Quiz
+- Ursprünglicher Titel: `WiNoDa_04_004_0865a_Drag-the-words`
+- Inhaltstyp: Drag the Words
+- Lizenz: CC BY 4.0
+- Autorin: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab
+- Jahr: 2026
+- Alle fünf richtigen Zuordnungen wurden übernommen.
+- Die drei Distraktoren wurden als falsche Antwortmöglichkeiten berücksichtigt.
+- Randomisierung wurde nicht übernommen: Die fünf Zuordnungen sind jeweils an eine konkrete Suchaufgabe gebunden. Eine zufällige Reihenfolge der Aufgaben ist nicht erforderlich.
+- Keine Tipps oder individuelles Feedback vorhanden.
+- Kein Gesamtfeedbacktext vorhanden.
+
+### Unklare Zuordnungen
+- Die Zusammenfassung wurde aufgrund des H5P-Titels `Winnie Answer / Explanation` dem Makro `@Winnie_` zugeordnet.
+- Die Quiz-Anweisung wurde aufgrund des H5P-Titels `Winnie Quiz` dem Makro `@WinnieH` zugeordnet.
+- Die drei Distraktoren sind im Original nicht einzelnen Aufgaben zugeordnet. Sie wurden deshalb als allgemeine falsche Antwortmöglichkeiten behandelt.
+
+### Korrekturvorschläge
+Keine eindeutigen Rechtschreib- oder Grammatikfehler festgestellt.
