@@ -512,33 +512,53 @@ Thus, they form an essential part of the infrastructure that enables effective r
 
 ### 1.2.4 Quiz: Repositories and aggregator benefits
 
-![Anita standing under a green question mark](images/file-699897ee8561b.PNG "Image unbenannt")
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
 
-<!-- Bildlizenz: U (nicht näher angegeben) -->
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+<div style="flex: 0 0 30%; min-width: 0;">
 
-<section>
+![Anita standing under a large question mark](images/Quiz-Anita.PNG)<!--
 
-<!-- question 1: WiNoDa_04_004_0864a_Single-Choice-Set -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+width="100%"-->
+
+</div>
+
+<div class="persona--winnie">
+
+Let's repeat what we have learned.<br>
+Klick the arrows on the green button to proceed.
+
+</div>
+</div>
 
 {{1-2}}
+<section>
+
+<!--- WiNoDa_04_004_0864a_Single-Choice-Set 
+license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set ---> 
 
 **A researcher deposits a dataset and receives a DOI.**
 
-[(X)] Repository
-
 [( )] Aggregator
+
+[(X)] Repository
 
 [( )] both
 
 </section>
 
-<section>
-
-<!-- question 2: WiNoDa_04_004_0864a_Single-Choice-Set -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
 
 {{2-3}}
+<section>
+
 
 **A user searches millions of biodiversity records from hundreds of institutions through one portal.**
 
@@ -550,12 +570,12 @@ Thus, they form an essential part of the infrastructure that enables effective r
 
 </section>
 
-<section>
-
-<!-- question 3: WiNoDa_04_004_0864a_Single-Choice-Set -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
 
 {{3-4}}
+<section>
+
+
+
 
 **Metadata are harvested from many collections.**
 
@@ -567,71 +587,47 @@ Thus, they form an essential part of the infrastructure that enables effective r
 
 </section>
 
-<section>
-
-<!-- question 4: WiNoDa_04_004_0864a_Single-Choice-Set -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
 
 {{4-5}}
+<section>
 
 **Data are preserved for long-term access.**
 
-[(X)] Repository
-
 [( )] Aggregator
+
+[(X)] Repository
 
 [( )] both
 
 </section>
 
-<section>
-
-<!-- question 5: WiNoDa_04_004_0864a_Single-Choice-Set -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
-
 {{5-6}}
+<section>
 
 **A dataset becomes easier for researchers worldwide to discover.**
 
-[(X)] both
+[( )] Aggregator
 
 [( )] Repository
 
-[( )] Aggregator
+[(X)] both
 
 </section>
 
+{{6}}
 <section>
 
-<!-- question 6: WiNoDa_04_004_0864a_Single-Choice-Set -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
 
-{{6}}
 
 **FAIR data practices are supported.**
 
-[(X)] both
+[( )] Aggregator
 
 [( )] Repository
 
-[( )] Aggregator
+[(X)] both
 
 </section>
-
-### Bilder
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | Image unbenannt | U (nicht näher angegeben) |
-
-### Hinweise
-
-- Platzhalter: author, version, language-unabhängige Header-Felder email, narrator, comment und logo sowie die Lizenzangabe zum Bild sind in der Quelle nicht angegeben. „U“ wurde als nicht näher angegebene Lizenz übernommen.
-- Unklare Quiz-Zuordnung: Die Quelle enthält keinen separaten Titel oder Feedback pro Frage; der gemeinsame Quiz-Titel und die gemeinsamen Metadaten wurden für alle sechs Fragen verwendet.
-- Randomisierung: `data-randomize` wurde ausgelassen, da die Quelle keine Randomisierung angibt.
-- Die vorliegende Quelle enthält keine Angaben zu weiteren Kapitelüberschriften oder Korrekturvorschlägen.
-
-
 
 
 
