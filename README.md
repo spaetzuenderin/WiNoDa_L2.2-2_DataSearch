@@ -1154,71 +1154,38 @@ Common starting points for finding research data include:
 </section>
 
 
-
-
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 2.1 Data sources - general
-license: CC BY 4.0
--->
-
 ## 2.1 Data sources - general
-
-![Anita's head in an orange circle. Anita asks](images/file-699888b3b742a.png "Anita")
 
 @AnitaH(```What sources can I use to find object-related data?```)
 
-![Winnie's head in a square frame. Winnie answers](images/file-6a4bcd1fcc57b.png "Winnie answers")
-
-@Winnie_(```Research data can be discovered through
-
-- repositories,
-- aggregators,
-- literature databases,
-- knowledge graphs, and
-- cross-disciplinary research infrastructures.
-
+@Winnie_(```<p>Research data can be discovered through</p>
+<ul>
+  <li>repositories,</li>
+  <li>aggregators,</li>
+  <li>literature databases,</li>
+  <li>knowledge graphs, and</li>
+  <li>cross-disciplinary research infrastructures.</li>
+</ul>
+<p>
 **The choice of tools depends on your search needs.**
+</p><p>
+In the following pages we will talk about the most common sources and their benefits for data research in the field of archaeology, biodiversity, and natural history collections.</p>```)
 
-In the following pages we will talk about the most common sources for archaeology data research and their benefits.```)
+>[!NOTE]
+>The categories in the following overviews are not mutually exclusive. 
+>Indeed, some services fulfil several roles. 
+>
+>For example, Open Context functions both as a repository and as a provider of linked open data, while iDAI.objects/Arachne can be considered both a repository and a collection portal.
+>
+>Also, the lists are not meant to be complete, and all sources are listed in alphabetical order within their respective categories.
+>
+>**Again – it depends on your individual search needs to determine which tool will serve you best.**
 
-<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
-Note:
 
-<!-- style="color: #2581C4" -->
-<section>
 
-The categories in this table are not mutually exclusive. Some services fulfil several roles. For example, Open Context functions both as a repository and as a provider of linked open data, while iDAI.objects/Arachne can be considered both a repository and a collection portal.
 
-Also, the list is not meant to be complete, and the sources are listed in alphabetical order within their respective categories.
-
-**Again – it depends on your individual search needs to determine which tool will serve you best.**
-
-</section>
-
----
-
-## Hinweisliste
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Korrekturvorschläge:** Keine offensichtlichen Tippfehler festgestellt.
-- **Persona-Zuordnung:**
-  - Anita Question → `@AnitaH` (eindeutig).
-  - Winnie Answer / Explanation → `@Winnie_` (eindeutig).
-- **Stilzuordnung:** „Note“ wurde als hervorgehobene lokale Zwischenüberschrift umgesetzt.
-- **Randomisierung:** Nicht relevant (kein Quiz).
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+##### klären
+Zielgruppenbeschreibung nochmal prüfen
 
 
 
