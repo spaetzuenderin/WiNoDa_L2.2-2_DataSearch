@@ -293,60 +293,15 @@ Once a week, our protagonists meet at the museum café...
 
 @AnitaH(```What is a repository?```)
 
-@Winnie_(```<p>A <strong>repository</strong> is a system that stores and manages digital research outputs, such as datasets, images, 3D models, specimen records, excavation documentation, or publications.</p><p>Repositories are usually operated by universities, research institutions, museums, government agencies, or disciplinary communities. They are responsible for the long-term management and accessibility of the data they hold.</p><p>In addition to storing data, repositories often provide metadata, persistent identifiers, and information about licences and conditions of use.</p>```)
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-
-## Hinweisliste
-
-- **Metadaten nicht angegeben:** Author, Version und Narrator fehlen im Export; ein Logo und eine E-Mail-Adresse sind ebenfalls nicht enthalten.
-- **Lizenzangaben:** Die Bildlizenzen sind im Export als „U“ ausgewiesen und nicht näher spezifiziert. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine erkennbar.
-- **Korrekturen:** Keine vorgenommen.
-- **Unklare Persona- oder Stilzuordnungen:** Keine.
-- **Quizzes:** Keine vorhanden.
-
+@Winnie_(```<p>A **repository** is a system that stores and manages digital research outputs, such as datasets, images, 3D models, specimen records, excavation documentation, or publications.</p><p>Repositories are usually operated by universities, research institutions, museums, government agencies, or disciplinary communities. They are responsible for the long-term management and accessibility of the data they hold.</p><p>In addition to storing data, repositories often provide metadata, persistent identifiers, and information about licences and conditions of use.</p>```)
 
 
 ### 1.1.2 Aggregators
 
 @AnitaH(```What is an aggregator?```)
 
-@Winnie_(```<p>An <strong>aggregator</strong> collects metadata from multiple repositories and data providers and makes these records searchable through a single interface.</p><p>Aggregators help users discover relevant data across many collections and institutions.</p><p>They therefore play an important role in improving the visibility and accessibility of research data.</p>```)
+@Winnie_(```<p>An **aggregator** collects metadata from multiple repositories and data providers and makes these records searchable through a single interface.</p><p>Aggregators help users discover relevant data across many collections and institutions.</p><p>They therefore play an important role in improving the visibility and accessibility of research data.</p>```)
 
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-
-## Hinweisliste
-
-- **Metadaten nicht angegeben:** Author, Version und Narrator fehlen im Export; ein Logo und eine E-Mail-Adresse sind ebenfalls nicht enthalten.
-- **Lizenzangaben:** Die Bildlizenzen sind im Export als „U“ ausgewiesen und nicht näher spezifiziert. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine erkennbar.
-- **Korrekturen:** Keine vorgenommen.
-- **Unklare Persona- oder Stilzuordnungen:** Keine.
-- **Quizzes:** Keine vorhanden.
-
-<!--
-author: not specified
-version: not specified
-language: en
-narrator: not specified
-comment: 1.1.3 Repository and aggregator operators
-license: CC BY 4.0
--->
 
 ### 1.1.3 Repository and aggregator operators
 
@@ -367,26 +322,6 @@ Both are essential for making research data visible and reusable.
 
 Different organisations operate repositories and aggregators and may define different access conditions for their data.
 </section>
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-
-## Hinweisliste
-
-- **Metadaten nicht angegeben:** Author, Version und Narrator fehlen im Export; ein Logo und eine E-Mail-Adresse sind ebenfalls nicht enthalten.
-- **Lizenzangaben:** Die Bildlizenzen sind im Export als „U“ ausgewiesen und nicht näher spezifiziert. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine erkennbar.
-- **Korrekturen:** Keine vorgenommen.
-- **Unklare Persona- oder Stilzuordnungen:** Keine.
-- **Quizzes:** Keine vorhanden.
-
-
 
 ### 1.1.4 Quiz: Repositories and aggregators
 
