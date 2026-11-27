@@ -1334,14 +1334,7 @@ Starting with a repository registry helps Kai gain an overview of the available 
 | `images/file-69eb20b57cd8d.PNG` | Kai standing under a green magnifying glass | Image unbenannt | U |
 
 
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 1.4.4 Quiz: Data sources
-license: CC BY 4.0
--->
+
 
 ### 1.4.4 Quiz: Data sources
 
@@ -1421,3 +1414,152 @@ license: CC BY 4.0
 | Dateiname | Alt-Text | Caption | Lizenz |
 |---|---|---|---|
 | `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | Image unbenannt | U |
+
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 2 – Where to find data
+license: CC BY 4.0
+-->
+
+# 2 – Where to find data
+
+![Anita's head in an orange circle. Anita asks](images/file-699888b3b742a.png "Anita")
+
+![Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries.](images/file-6a719c313afe6.png "Image Unbenannt")
+
+@AnitaH(```Where do I start my search for research data?```)
+
+![Susan's head in a square frame. Susan explains](images/file-69989fc2600f2.png "Susan explains")
+
+@Susan_(```As we have already seen, you can find research data through many different sources.
+
+You can start with institutional or disciplinary repositories, aggregators, or research portals. Some focus on specific disciplines, while others cover multiple research domains. They may also operate at regional, national, or international levels.
+
+If you don't yet know the infrastructure for a certain field, you can use an additional source: **repository registries like re3data**. These services do neither store nor aggregate research data. Instead, they help users identify suitable repositories and infrastructures.
+
+In short:
+
+**Repository → stores data**
+
+**Aggregator → helps find data**
+
+**Repository registry → helps find repositories**
+
+But there is no universally correct starting point for finding research data.
+
+The most effective starting point for you specifically depends on your research question and the type of data you are looking for.```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+
+Effective data searches often combine multiple sources and may start at different points, depending on the research question.
+
+Common starting points for finding research data include:
+
+- Institutional repositories
+- Disciplinary repositories
+- Aggregators
+- Research portals
+- Repository registries (e.g. re3data)
+
+</section>
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:**
+  - „These services do neither store nor aggregate research data.“ – mögliche grammatikalische Korrektur: „These services neither store nor aggregate research data.“ Original unverändert übernommen.
+- **Persona-Zuordnung:**
+  - Anita Question → `@AnitaH` (eindeutig).
+  - Susan Answer / Explanation → `@Susan_` (eindeutig).
+- **Stilzuordnung:**
+  - „In a Nutshell“ wurde entsprechend den vorgegebenen Formatierungsregeln umgesetzt.
+  - Die Kapitelüberschrift wurde als Hauptüberschrift `#` übernommen.
+- **Randomisierung:** Nicht relevant (kein Quiz).
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-6a719c313afe6.png` | Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries. | Image Unbenannt | U |
+| `images/file-69989fc2600f2.png` | Susan's head in a square frame. Susan explains | Susan explains | U |
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 2.1 Data sources - general
+license: CC BY 4.0
+-->
+
+## 2.1 Data sources - general
+
+![Anita's head in an orange circle. Anita asks](images/file-699888b3b742a.png "Anita")
+
+@AnitaH(```What sources can I use to find object-related data?```)
+
+![Winnie's head in a square frame. Winnie answers](images/file-6a4bcd1fcc57b.png "Winnie answers")
+
+@Winnie_(```Research data can be discovered through
+
+- repositories,
+- aggregators,
+- literature databases,
+- knowledge graphs, and
+- cross-disciplinary research infrastructures.
+
+**The choice of tools depends on your search needs.**
+
+In the following pages we will talk about the most common sources for archaeology data research and their benefits.```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+Note:
+
+<!-- style="color: #2581C4" -->
+<section>
+
+The categories in this table are not mutually exclusive. Some services fulfil several roles. For example, Open Context functions both as a repository and as a provider of linked open data, while iDAI.objects/Arachne can be considered both a repository and a collection portal.
+
+Also, the list is not meant to be complete, and the sources are listed in alphabetical order within their respective categories.
+
+**Again – it depends on your individual search needs to determine which tool will serve you best.**
+
+</section>
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:** Keine offensichtlichen Tippfehler festgestellt.
+- **Persona-Zuordnung:**
+  - Anita Question → `@AnitaH` (eindeutig).
+  - Winnie Answer / Explanation → `@Winnie_` (eindeutig).
+- **Stilzuordnung:** „Note“ wurde als hervorgehobene lokale Zwischenüberschrift umgesetzt.
+- **Randomisierung:** Nicht relevant (kein Quiz).
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+
