@@ -2278,3 +2278,114 @@ OpenAIRE supports cross-disciplinary discovery of research outputs and has a str
 - **Randomisierung:** Nicht zutreffend.
 - **Metadaten:** Autor, E-Mail, Narrator und Logo waren in der Quelle nicht angegeben.
 - **Lizenz:** Kurslizenz gemäss Vorgabe CC BY 4.0; die Bildmetadaten weisen jeweils `U` aus.
+
+
+
+<!--
+author: 
+email: 
+version: 1.0
+language: en-GB
+narrator: 
+comment: 2.1.6 Knowledge graphs and linked-data services
+logo: 
+license: CC BY 4.0
+-->
+
+# 2.1.6 Knowledge graphs and linked-data services
+
+@AnitaH(```Which knowledge graphs and linked-data services are useful for my data research?```)
+
+@Winnie_(``` 
+<details>
+<summary>GNA (Geoportale Nazionale per l'Archeologia) - Italian map of archaeological sites and ressources</summary>
+
+**URL:** https://gna.cultura.gov.it/
+
+**What you can find:** Information about archaeological sites, monuments, and cultural heritage resources in Italy.
+
+**Why is it useful?**
+
+GNA connects heritage information through linked data approaches. It can help researchers discover relationships between places, objects, institutions, and heritage records.
+
+</details>
+
+<details>
+<summary>NFDI4Objects Knowledge Graph - SPARQL endpoint for cultural heritage data</summary>
+
+**URL:** https://graph.nfdi4objects.net/
+
+**What you can find:** Linked information about objects, places, actors, collections, datasets, and research activities.
+
+**Why is it useful?**
+
+The NFDI4Objects Knowledge Graph helps users explore connections between different kinds of archaeological and cultural heritage information. It supports the discovery of related resources that may be distributed across multiple repositories and databases.
+
+</details>
+
+<details>
+<summary>Open Context - Linked Open archaeology Data</summary>
+
+**URL:** https://opencontext.org/
+
+**What you can find:** Archaeological datasets linked to places, objects, publications, and other resources.
+
+**Why is it useful?**
+
+In addition to serving as a repository, Open Context uses linked open data technologies to connect information across projects and datasets. This makes it particularly useful for exploring relationships and contexts beyond individual records.
+
+</details>
+
+<details>
+<summary>Wikidata - Central hub for Linked Open Data</summary>
+
+**URL:** https://www.wikidata.org/
+
+**What you can find:** Structured information about places, people, organisations, objects, concepts, and many other entities.
+
+**Why is it useful?**
+
+Wikidata can help researchers discover connections between archaeological resources and related information from other domains. It is often used as a hub for linking data across institutions and disciplines.
+
+</details>
+```)
+
+![Winnie's head in a square frame. Winnie answers](images/file-6a4bcd1fcc57b.png "Winnie answers")
+<!-- License: U -->
+
+![Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle](images/file-69989c72f2355.PNG "Winnie")
+<!-- License: U -->
+
+**The difference between knowledge graphs and other knowledge portals**
+
+Whilst data can be searched for in knowledge graphs, other services with similar names (base, hub, etc.) merely provide access to knowledge resources.
+
+These may include documentation, guides, FAQs or short informative articles on specific topics.
+
+The GFBio Knowledge Base for Information and Services around Biodiversity Data, for example, contains articles for the WiNoDa community:
+
+https://kb.gfbio.org/label/KB/winoda
+
+---
+
+## Image list
+
+| Filename | Alt-text | Caption | License |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+| images/file-69989c72f2355.PNG | Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle | Winnie | U |
+
+## Hinweisliste
+
+- **Korrekturvorschlag:** „ressources“ in der Überschrift „GNA ... ressources“ sollte vermutlich „resources“ heißen.
+- **Korrekturvorschlag:** „Linked Open archaeology Data“ enthält eine uneinheitliche Gross-/Kleinschreibung.
+- **Persona-Zuordnung:** Die erste Frage wurde als `@AnitaH` umgesetzt.
+- **Persona-Zuordnung:** Die Akkordeon-Erklärungen wurden unter `@Winnie_` zusammengefasst.
+- **Stilzuordnung:** Die Infoseite „The difference between knowledge graphs and other knowledge portals“ wurde als regulärer Informationstext übernommen.
+- **Bildlizenzen:** In der Quelle ist für alle drei Bilder die Lizenz „U“ angegeben.
+- **Quizzes:** Keine Quiz-Inhalte im Kapitel vorhanden.
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Randomisierung:** Nicht zutreffend.
