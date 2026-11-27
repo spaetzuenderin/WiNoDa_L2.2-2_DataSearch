@@ -3530,3 +3530,66 @@ In a Nutshell:
 - **Quizze:** Keine.
 - **Randomisierung:** Nicht relevant.
 - **Bildlizenzen:** Beide Bilder haben die Lizenzangabe `U` in der Quelle.
+
+
+<!--
+author:
+email:
+version: 1.0
+language: en-GB
+narrator:
+comment: Chapter 4.5 – Summary - Search strategies
+logo:
+license: CC BY 4.0
+-->
+
+# 4.5 Summary - Search strategies
+
+@Winnie_(```
+**Summary - Search strategies**
+
+A typical research data search might involve the following steps:
+
+1. **Identify key concepts** from your research question.
+
+2. **Search** using keywords and phrases.
+
+3. **Expand the search** using synonyms and controlled vocabularies.
+
+4. **Combine or exclude concepts** using search operators.
+
+5. **Refine results** using metadata fields and filters.
+
+6. **Adapt the strategy** as new information becomes available.
+```)
+
+![Susan standing](images/file-6a4cecc5f1b38.png "Susan")
+
+![Five arrows with matching icons in lighter blue forming a circle, inscribed: Identify, search, expand, combine and refine](images/file-6a6a291e37f7f.png "Iterative search strategy")
+
+<text></text>
+
+*Iterative search strategy. Asta v. Schröder (ORCID: [https://orcid.org/0009-0007-5852-771X](https://orcid.org/0009-0007-5852-771X)) as part of WiNoDa Knowledge Lab, 2026. CC-BY 4.0 [https://creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0)*
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-6a4cecc5f1b38.png` | Susan standing | Susan | U |
+| `images/file-6a6a291e37f7f.png` | Five arrows with matching icons in lighter blue forming a circle, inscribed: Identify, search, expand, combine and refine | [Kein Titel angegeben] | U |
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine erkennbar.
+- **Korrekturvorschläge:** Keine offensichtlichen Rechtschreib- oder Grammatikfehler festgestellt.
+- **Unklare Persona-Zuordnungen:** Der H5P-Platzhaltertitel lautet „Winnie“. Daher wurde das Makro `@Winnie_` verwendet.
+- **Quizze:** Keine.
+- **Randomisierung:** Nicht relevant.
+- **Bildlizenzen:** Beide Bilder haben die Lizenzangabe `U`.
+- **Abweichende Lizenzangabe:** Die Bildbeschreibung nennt für die iterative Suchstrategie zusätzlich CC-BY 4.0. Die ursprüngliche H5P-Bildmetadaten-Lizenz lautet jedoch `U`.
