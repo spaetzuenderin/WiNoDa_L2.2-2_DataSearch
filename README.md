@@ -4716,3 +4716,77 @@ Keine Bilder im Kapitel vorhanden.
 3. **Fehlende Metadaten:** Autor, E-Mail und Narrator sind in der Quelle nicht angegeben.
 4. **Korrekturen:** Keine sprachlichen Korrekturen vorgenommen.
 5. **Unklare Zuordnungen:** Keine.
+
+
+
+<!--
+version: 1.0
+language: en
+comment: Chapter 6.1 Quiz – Practical exercises
+license: CC BY 4.0
+-->
+
+# 6.1 Quiz
+
+## Historical occurrence data from Bavaria
+
+@Winnie(```Historical occurrence data from Bavaria
+
+In the 19th century, the Bavarian government carried out a survey of selected vertebrates. To do this, a pre-printed questionnaire was sent to all forestry offices in existence at the time, asking them to record the relevant species on it.
+
+Many of the forestry offices complied with the request, and the hand-completed forms have been preserved in the Bavarian State Archives. The information has been transferred to a dataset and is now available to researchers.```)
+
+![A scan of a document containing a table and handwritten notes.](images/file-6afef93733dd2.png "A scan of a document containing a table and handwritten notes.")
+
+ill.1 Meles meles (Linnaeus, 1758) observed in Germany (licensed under CC BY 4.0).
+
+---
+
+[PLATZHALTER: Source: to find out / make the quiz]
+
+## 6.1.1 Quiz
+
+{{1}}
+
+<section>
+
+<!-- question 1: Unbenannt: Single Choice Set -->
+<!-- license: U | authors: [keine Angaben in den Quiz-Metadaten] | yearFrom: [keine Angabe] | contentType: Single Choice Set -->
+
+@SusanH(```As well as dragonflies, Susan is a big fan of brown bears and also grew up in southern Germany. She would therefore like to know where brown bears were found in Bavaria in the mid-19th century.
+
+**Which forestry office (location according to GADM) reported the brown bear (Ursus arctos)?**```)
+
+<!-- data-randomize -->
+
+[(X)] Tegernsee
+
+[( )] Rosenheim
+
+[( )] Würzburg
+
+[( )] Zwiesel
+
+</section>
+
+---
+
+## Bilderverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-6afef93733dd2.png` | A scan of a document containing a table and handwritten notes. | A scan of a document containing a table and handwritten notes. | U |
+
+*Das Winnie- und Susan-Persona-Bild wird nicht separat eingebunden, da die Persona-Makros verwendet werden.*
+
+---
+
+## Hinweisliste
+
+1. **Platzhalter:** `Source: to find out / make the quiz` – Quelle noch zu ergänzen.
+2. **Korrekturvorschlag:** `therefound` wurde zu `therefore` korrigiert.
+3. **Quiz-Metadaten:** Autoren und `yearFrom` sind im ursprünglichen Single Choice Set nicht angegeben.
+4. **Quiz-Randomisierung:** Die Antwortreihenfolge wurde als randomisierbar behandelt, da keine sachlich vorgegebene Reihenfolge erkennbar ist.
+5. **Quiz-Lizenz:** Im ursprünglichen Quiz ist `U` angegeben. Keine Umdeutung zu CC BY 4.0.
+6. **Persona-Zuordnung:** Winnie wurde als erklärende Persona (@Winnie) und Susan als fragende Persona (@SusanH) zugeordnet.
+7. **Kursmetadaten:** Autor, E-Mail, Narrator und Logo sind in den übermittelten Kapiteldaten nicht enthalten.
