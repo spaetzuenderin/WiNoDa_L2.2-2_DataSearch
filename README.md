@@ -1401,7 +1401,7 @@ The data is compiled from open sources such as monitoring programmes, citizen sc
 
 
 
-# 2.1.3 Image and collection databases
+### 2.1.3 Image and collection databases
 
 @AnitaH(```Which image and collection repositories are useful for my data research?```)
 
@@ -1446,26 +1446,7 @@ Propylaeum_IMAGES offers access to image-based resources from various providers.
 
 </details>
 
----
 
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
-| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-
-## Hinweise und Korrekturvorschläge
-
-- **Persona-Zuordnung:** Die Frage wurde @AnitaH zugeordnet, die Erklärung @Winnie_.
-- **Leere Textfelder:** Keine.
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Korrekturen:** Keine.
-- **Unklare Zuordnungen:** Keine.
-- **Quizze:** Keine Quiz-Inhalte vorhanden.
-- **Randomisierung:** Nicht zutreffend.
 
 
 
