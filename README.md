@@ -3026,3 +3026,79 @@ Open data in aggregators such as GBIF is typically identified through licence in
 - **Lizenz:** Die Bildlizenzen sind im Export mit `U` angegeben (unbekannt). Die Quiz-Metadaten nennen CC BY 4.0.
 
 **Kapitel 2.3.3 abgeschlossen.** Ich warte auf das nächste Kapitel.
+
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+email:
+version: 1.0
+language: en
+narrator:
+comment: Converted from H5P Portfolio chapter 2.3.4
+logo:
+license: CC BY 4.0
+-->
+
+# 2.3.4 Scenario 3: Collection Management
+
+{{1}}
+
+<section>
+
+<!-- question 1: 01_008_0149_Multiple-Choice_3 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+@KaiH(```https://www.re3data.org
+
+Kai is preparing a new exhibition on Arctic mammals. He uses re3data to identify repositories that contain natural history collection data.
+
+How can he identify which of these repositories are likely to provide openly available data?
+
+(Select all that apply.)```)
+
+![ALT-TEXT FEHLT](images/image-P9yB04Y6.png "Untitled Image")
+
+<!--
+data-randomize
+data-text-solved="Correct. This filter helps narrow down repositories based on their general access policies. | Correct. Licence information in re3data can help identify repositories that are more likely to provide reusable data. | Correct. Detailed information about openness is often only available at repository level."
+data-text-failed="Download individual datasets directly from re3data to test whether they are open: Incorrect. re3data does not provide direct dataset downloads. | Use the number of repositories listed per country to infer data openness: Incorrect. Geographic distribution does not indicate whether data are open or reusable. | Rely only on repository names to determine whether data are open access: Incorrect. Repository names alone do not provide reliable information about access conditions."
+-->
+
+[[X]] Use the **“Data access” filter** in re3data to identify repositories that provide open or partially open access
+
+[[X]] Use the **“Data licenses” filter** in re3data to find repositories that support open licensing models
+
+[[X]] Check repository descriptions and **follow links to evaluate access conditions in the original repositories**
+
+[[ ]] **Download individual datasets** directly from re3data to test whether they are open
+
+[[ ]] Use the **number of repositories listed per country** to infer data openness
+
+[[ ]] Rely only on **repository names** to determine whether data are open access
+
+***
+re3data filters can be used to identify repositories with open or partially open access policies. However, determining whether specific datasets are openly available requires checking access and licence conditions within the individual repositories.
+***
+
+</section>
+
+---
+
+## Bilderverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699897c4d9937.PNG` | Kai standing under a green question mark | Image unbenannt | U |
+| `images/image-P9yB04Y6.png` | [ALT-TEXT FEHLT] | Untitled Image | U |
+
+## Hinweise und Prüfbedarf
+
+- **Fehlender Alt-Text:** Für `images/image-P9yB04Y6.png` ist im H5P-Export kein Alt-Text angegeben.
+- **Persona-Zuordnung:** `@KaiH` verwendet, da der H5P-Platzhalter den Titel „Kai Quiz“ trägt.
+- **Randomisierung:** `data-randomize` übernommen, da `randomAnswers: true` eingestellt ist.
+- **Feedback:** Alle sechs Antwortoptionen enthalten individuelles Feedback. Die Texte wurden den jeweiligen Optionen zugeordnet.
+- **Unklare Bildzuordnung:** Der Screenshot ist als Quiz-Medium eingebettet. Seine Caption lautet „Untitled Image“ und wurde unverändert übernommen.
+- **Lizenz:** Die Bilder haben im Export die Lizenzangabe `U` (unbekannt). Die Quiz-Metadaten nennen CC BY 4.0.
+
+**Kapitel 2.3.4 abgeschlossen.** Ich warte auf das nächste Kapitel.
