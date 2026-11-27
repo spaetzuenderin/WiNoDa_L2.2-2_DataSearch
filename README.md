@@ -898,94 +898,66 @@ data-text-failed="Not quite. The museum uses both its own institutional reposito
 </section>
 
 
+## 1.4 Portals and Platforms
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+
+<div style="flex: 0 0 30%; min-width: 0;">
+
+![Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle](images/Info-Winnie.PNG)<!--
+width="100%"-->
+
+</div>
+
+<div style="flex: 1; min-width: 0;">
+
+>[!TIP] **Good to know**
+> When searching for data, we are often told to use a "**platform**" or "**portal**" instead of an "aggregator" or "repository". 
+>These terms primarily describe how users access a service and therefore tell you less about its underlying technical function.
+
+>[!TIP] **A portal may:**
+>>- search one repository,
+>>- search many repositories,
+>>- provide additional services,
+>>- act as an aggregator interface.
+>>
+>>In practice, many aggregators are accessed through a portal.
+>
+>>**For example,** the ARIADNE Portal serves as the user interface through which users access the ARIADNE infrastructure and its aggregated resources.
 
 
 
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 1.4 Portals and Platforms
-license: CC BY 4.0
--->
+>[!TIP] ** A platform can be:**
+>>- a repository,
+>>- an aggregator,
+>>- a portal,
+>>- or a combination of these.
+>>
+>>In fact, "platform" is the broadest and least precise term, as it does not by itself indicate whether the service is a repository, an aggregator, a portal, or a combination of these.
+>
+>>**For example,** Zenodo, GBIF and OpenAIRE are often called platforms.
 
-# 1.4 Portals and Platforms
-
-![Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle](images/file-69989c72f2355.PNG "Winnie")
-
-<!-- Image license: U -->
-
-<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
-In a Nutshell:
-
-<section>
-
-<!-- style="color: #2581C4" -->
-<section>
-
-**Good to know**
-
-When searching for data, we often told to use a "**platform**" or "**portal**" instead of an "aggregator" or "repository". These terms primarily describe how users access a service and therefore tell you less about its underlying technical function.
-
-</section>
-
-=== Portals
-
-A **portal** may:
-
-- search one repository,
-- search many repositories,
-- provide additional services,
-- act as an aggregator interface.
-
-In practice, many aggregators are accessed through a portal.
-
-**For example,** the ARIADNE Portal serves as the user interface through which users access the ARIADNE infrastructure and its aggregated resources.
-
-=== Platforms
-
-A **platform** can be:
-
-- a repository,
-- an aggregator,
-- a portal,
-- or a combination of these.
-
-In fact, "platform" is the broadest and least precise term, as it does not by itself indicate whether the service is a repository, an aggregator, a portal, or a combination of these.
-
-**For example,** Zenodo, GBIF and OpenAIRE are often called platforms.
+</div>
+</div>
 
 <!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
 In a Nutshell:
 
 <!-- style="color: #2581C4" -->
 <section>
-
 - **Repository**, **aggregator**, and **repository registry** describe a service's function.
 - **Portal** usually refers to the user interface through which a service is accessed.
 - **Platform** is a broad, generic term that may refer to many different kinds of data infrastructure.
-
 </section>
 
----
-
-## Hinweisliste
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Korrekturvorschlag:** „When searching for data, we often told to use ...“ – grammatikalisch fehlt vermutlich „are“ oder „are told“. Original unverändert übernommen.
-- **Persona-Zuordnung:** Winnie ist durch das Bild eindeutig zugeordnet. Der Informationstext wurde nicht als Persona-Makro ausgegeben, da er keine direkte Frage oder Antwort im Sinne der Makroregeln enthält.
-- **Stilzuordnung:** „Good to know“ wurde als lokale Zwischenüberschrift behandelt. „Portals“ und „Platforms“ ebenfalls, damit sie nicht als eigenständige Kapitelüberschriften im Inhaltsverzeichnis erscheinen.
-- **In a Nutshell:** Beide Vorkommen wurden entsprechend den vorgegebenen Formatierungsregeln umgesetzt.
-- **Randomisierung:** Nicht relevant (kein Quiz).
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-69989c72f2355.PNG` | Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle | Winnie | U |
 
 
 
