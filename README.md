@@ -2440,3 +2440,65 @@ LLM-based assistants can help formulate search queries, identify relevant resour
 - **Unvollständige Texte:** Keine.
 - **Quizzes:** Keine.
 - **Randomisierung:** Nicht zutreffend.
+
+
+
+<!--
+author: 
+email: 
+version: 1.0
+language: en-GB
+narrator: 
+comment: TODO 3 – Evaluating platforms and results
+logo: 
+license: CC BY 4.0
+-->
+
+# TODO 3 – Evaluating platforms and results
+
+**Chapter 3 – Scenario Based Quiz**
+
+WiNoDa_04_004_0866a
+
+This will be a scenario based exercise, where the feedback options deliver the information necessary to evaluate (pro/con) the benefits named in [WiNoDa_04_004_0865a](http://WiNoDa_04_004_0865a) (disciplinary search tools).
+
+**TO DO**
+
+Quality criteria (coverage, curation, access rights, licensing)
+
+- Differences between repositories and aggregators
+- Domain-specific considerations (archaeology vs biodiversity vs museums)
+
+**Focus:** Critical comparison and judgement
+
+**Learning objectives**
+
+- **WiNoDa_04_004_0866a** – Evaluate benefit of repositories & aggregators (archaeology)
+- **WiNoDa_04_004_0866b** – Evaluate benefit of repositories & aggregators (biodiversity)
+- *(based on)* **WiNoDa_04_004_0865a / 0865b / 0865c** – Name benefits (foundation for evaluation) --> Chapter 2 disciplinary tools
+
+**Core role in course**
+
+This module develops **critical assessment skills**:
+
+- fit-for-purpose selection
+- disciplinary differences
+- access, metadata quality, scope
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** „TO DO“ und die dazugehörigen Arbeitsaufträge sind redaktionelle Hinweise und wurden unverändert übernommen.
+- **Platzhalter:** „This will be a scenario based exercise“ beschreibt eine noch ausstehende Umsetzung.
+- **Unvollständigkeit:** Das angekündigte scenario based quiz mit den zugehörigen Fragen und Feedbackoptionen ist in der Quelle nicht enthalten.
+- **Unklare Zuordnung:** Der Verweis auf `WiNoDa_04_004_0865a` wurde als externer Link übernommen. Die angegebene URL entspricht nicht einer vollständigen Webadresse.
+- **Korrekturvorschlag:** „Scenario Based Quiz“ könnte stilistisch als „Scenario-based Quiz“ geschrieben werden.
+- **Korrekturvorschlag:** „scenario based exercise“ könnte als „scenario-based exercise“ geschrieben werden.
+- **Korrekturvorschlag:** „Evaluate benefit“ könnte grammatikalisch „Evaluate the benefits“ lauten.
+- **Korrekturvorschlag:** „Name benefits“ könnte „Identify benefits“ lauten.
+- **Bilder:** Keine Bilder vorhanden.
+- **Quizzes:** Keine tatsächlich ausgearbeiteten Quizfragen vorhanden.
+- **Randomisierung:** Nicht zutreffend.
+
+
