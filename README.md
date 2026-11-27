@@ -3158,3 +3158,57 @@ At the **infrastructure level** (e.g. repository registries such as re3data), us
 - **Stilzuordnung:** Die Überschrift „In a Nutshell“ wurde entsprechend der vorgegebenen Formatierung umgesetzt.
  
 **Kapitel 2.3.5 abgeschlossen.** Ich warte auf das nächste Kapitel.
+
+
+<!--
+language: en
+license: CC BY 4.0
+-->
+
+# 4 – How to find object-related research data: Search strategies
+
+@AnitaH(```How do I create a solid search strategy for research data?```)
+
+![Kai, Winnie, Anita, Dave and Susan sitting around a table with drinks and food](images/file-6a719c51af6f6.png " ")
+<!-- license: U -->
+
+@Susan_(```Once you have identified a suitable repository, aggregator, portal, or research platform, the next step is deciding **how to search effectively**.
+
+Successful data searches require more than entering a single keyword. Researchers often combine different search techniques, including **keyword or phrase searches**, **controlled vocabularies**, **Boolean operators**, **metadata searches**, and **filters**.
+
+And they **continuously refine their searches** as they learn more about the available data.```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+A good **search strategy** helps you:
+
+- find relevant datasets more efficiently,
+- reduce irrelevant results,
+- discover data described using different terminology,
+- identify additional sources and related datasets.
+</section>
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-6a719c51af6f6.png` | Kai, Winnie, Anita, Dave and Susan sitting around a table with drinks and food | [Keine Caption vorhanden] | U |
+| `images/file-69989fc2600f2.png` | Susan's head in a square frame. Susan explains | Susan explains | U |
+| [Dateiname fehlt] | Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries. | [Keine Caption vorhanden] | U |
+
+## Hinweise und Korrekturvorschläge
+
+- **Fehlende Bilddatei:** Für das Bild mit Susan, Kai, Winnie, Anita und Dave (sitting around a table with mugs and pastries) ist kein Dateipfad angegeben. Daher wurde es nicht eingebunden.
+- **Persona-Zuordnung:** Die Frage wurde @AnitaH und die Erklärung @Susan_ zugeordnet.
+- **Bilddarstellung:** Die Anita- und Susan-Persona-Bilder werden durch die entsprechenden Makros repräsentiert und nicht separat eingebunden.
+- **Lizenz:** Die Bildlizenz ist in den Quelldaten jeweils mit `U` angegeben.
+- **Korrekturen:** Keine vorgenommen.
+- **Platzhalter:** Keine.
+- **Unvollständige Texte:** Keine.
+
