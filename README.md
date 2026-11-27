@@ -270,18 +270,16 @@ Once a week, our protagonists meet at the museum café...
 
 # 1 - Orientation in the research data landscape
 
-<section>
+<article>
 
 ## Recently, in the cafeteria of the Natural History Museum…
-
-</section>
 
 ![Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries.](images/1_Coffee-Round_Anita.png)
 @Anita(```<p>Hi guys! Can I ask you something?</p><p>I really need to find some additional data for my research project, but I am a bit overwhelmed.</p><p>I know how to search literature and how to use a library –</p><p class="persona__heading">but how do I go about searching for data?</p>```)
 
 @Susan_(```<p>That’s an excellent question!</p><p>Just as with literature searches, there are <strong>search strategies for data</strong> too.</p><p>And just as literature can be found in libraries and library catalogues, research data can be found in <strong>repositories and aggregators</strong>.</p><p>Don‘t worry, we can help you.</p>```)
 
-
+</article>
 
 
 ## 1.1 Repositories and aggregators
@@ -289,25 +287,6 @@ Once a week, our protagonists meet at the museum café...
 @AnitaH(```What are repositories and aggregators?```)
 
 @Winnie_(```<p>Repositories and aggregators are key components of the research data landscape.</p><p>In many disciplines and institutions, increasing amounts of data are created or reused both by institutions and individual researchers or research teams. To ensure that these data can be found, accessed, shared, and reused, they are often deposited in <strong>repositories</strong> and made more easily discoverable through <strong>aggregators</strong>.</p><p>By providing structured metadata, persistent identifiers, and mechanisms for discovery and access, repositories and aggregators contribute to the implementation of the FAIR principles.</p>```)
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | Nicht angegeben (U); Persona-Bild, daher nicht separat eingebunden |
-
-## Hinweisliste
-
-- **Metadaten nicht angegeben:** Author, Version und Narrator fehlen im Export; ein Logo und eine E-Mail-Adresse sind ebenfalls nicht enthalten.
-- **Lizenzangaben:** Die Bildlizenzen sind im Export als „U“ ausgewiesen und nicht näher spezifiziert. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine erkennbar.
-- **Korrekturen:** Keine vorgenommen.
-- **Unklare Persona- oder Stilzuordnungen:** Keine.
-- **Quizzes:** Keine vorhanden.
-
 
 
 ### 1.1.1 Repositories
