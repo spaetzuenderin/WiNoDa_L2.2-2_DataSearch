@@ -3856,3 +3856,135 @@ By combining keywords, phrases, controlled vocabularies, Boolean operators, meta
 - **Randomisierung:** Nicht zutreffend.
 - **Bildlizenzen:** Alle sieben Bilder weisen in den Quelldaten die Lizenzangabe `U` auf. Diese wurde unverändert übernommen.
 
+
+<!--
+author:
+email:
+version: 1.0
+language: en
+narrator:
+comment: 4.5.3 Example 3: Collection Management
+logo:
+license: CC BY 4.0
+-->
+
+# 4.5.3 Example 3: Collection Management
+
+![Kai standing under a green magnifying glass](images/file-69eb20b57cd8d.PNG "Image unbenannt")
+<!-- license: U -->
+
+Kai is working to make his museum's insect collection more accessible and reusable. The collection has already been digitised, and he now wants to connect it with other collections using Linked Open Data. To do this, he looks for examples of how other museums publish their collection data, which standards they use, and how they make their collections interoperable. Rather than relying on a single search query, he gradually refines his search strategy.
+
+## Step 1: Identify key concepts
+
+![list icon (bullet points)](images/file-6a6a1599e4c35.jpg "Image Unbenannt")
+<!-- license: U -->
+
+Kai starts by identifying the main concepts for his project:
+
+- insect collection
+- Linked Open Data
+- specimen identifiers
+
+These become his initial search terms.
+
+## Step 2: Search using keywords and phrases
+
+![search icon (magnifying glass)](images/file-6a6a158d697f1.jpg "Image Unbenannt")
+<!-- license: U -->
+
+He begins with a simple keyword search:
+
+**"Linked Open Data".**
+
+To increase precision, he also searches for an exact phrase:
+
+**"natural history collection".**
+
+This helps him find projects, documentation, and collection records that describe how museums publish and connect their data.
+
+## Step 3: Expand the search using synonyms and controlled vocabularies
+
+![almost-equal icon (wavey equal sign)](images/file-6a6a15a6b02af.jpg "Image Unbenannt")
+<!-- license: U -->
+
+While reviewing results, Kai notices that institutions use different terminology to describe their collections and data. He therefore broadens his search using additional terms:
+
+- "Linked Open Data" OR **"LOD"**
+- "natural history collection" OR **"biological collection"**
+- "identifier" OR **"PID"**
+
+As he explores further, he discovers additional terms such as **"Darwin Core"**, **"GBIF"**, **"DiSSCo"**, and **"Wikidata"**. He incorporates these into later searches to find examples of museums using common metadata standards, persistent identifiers, and Linked Open Data.
+
+## Step 4: Combine concepts using Boolean operators
+
+![icon of venn diagramm ("AND")](images/file-6a6a15afada9b.jpg "Image Unbenannt")
+<!-- license: U -->
+
+To focus on resources relevant to his project, Kai combines concepts:
+
+- **("natural history collection" OR "biological collection") AND "Linked Open Data".**
+
+He may further refine the search by adding another concept:
+
+- **("natural history collection" OR "biological collection") AND "Linked Open Data" AND "insects".**
+
+As he discovers relevant infrastructures and standards, he also incorporates them into his searches:
+
+- **("natural history collection" OR "biological collection") AND ("GBIF" OR "DiSSCo" OR "Wikidata").**
+
+If unwanted results appear, he can exclude them:
+
+- "Linked Open Data" **NOT "archaeology".**
+
+## Step 5: Use metadata searches and filters
+
+![filter icon (a funnel)](images/file-6a6a15bbae885.jpg "Image Unbenannt")
+<!-- license: U -->
+
+The search still returns many results. Kai therefore applies metadata filters such as:
+
+- **Resource type:** Dataset or Documentation
+- **Collection type:** Natural history
+- **Access**: Openly available
+- **Licence**: Reuse permitted
+
+Instead of adding more search terms, he uses the available **metadata to identify** relevant examples and documentation.
+
+## Step 6: Refine and repeat
+
+![repetition icon (five arrows in a circle)](images/file-6a6a28c087d05.png "Image Unbenannt")
+<!-- license: U -->
+
+As Kai explores collections and documentation, he discovers additional standards, repositories, and tools, including Darwin Core, GBIF, DiSSCo, Wikidata, and OpenRefine.
+
+He uses these as new search terms to refine his searches, compare how different museums publish their collections, and learn approaches for improving interoperability and reuse.
+
+By combining keywords, phrases, controlled vocabularies, Boolean operators, metadata searches, and filters, Kai gradually identifies examples, standards, and resources that help make his collection easier to discover, connect, and reuse.
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-69eb20b57cd8d.PNG` | Kai standing under a green magnifying glass | Image unbenannt | U |
+| `images/file-6a6a1599e4c35.jpg` | list icon (bullet points) | Image Unbenannt | U |
+| `images/file-6a6a158d697f1.jpg` | search icon (magnifying glass) | Image Unbenannt | U |
+| `images/file-6a6a15a6b02af.jpg` | almost-equal icon (wavey equal sign) | Image Unbenannt | U |
+| `images/file-6a6a15afada9b.jpg` | icon of venn diagramm ("AND") | Image Unbenannt | U |
+| `images/file-6a6a15bbae885.jpg` | filter icon (a funnel) | Image Unbenannt | U |
+| `images/file-6a6a28c087d05.png` | repetition icon (five arrows in a circle) | Image Unbenannt | U |
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine erkennbar.
+- **Korrekturen:** Keine vorgenommen.
+- **Unklare Persona-Zuordnungen:** Keine. Kai wird im Text namentlich genannt, aber nicht durch ein H5P-Persona-Makro ausgezeichnet.
+- **Quizze:** Keine enthalten.
+- **Randomisierung:** Nicht zutreffend.
+- **Bildlizenzen:** Alle sieben Bilder haben in den Quelldaten die Lizenzangabe `U`. Diese wurde unverändert übernommen.
