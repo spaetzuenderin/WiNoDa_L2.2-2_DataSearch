@@ -638,49 +638,51 @@ license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0
 @Winnie_(```<p>Yes.</p><p><strong>Repositories and aggregators differ in their scope, purpose, and the communities they serve.</strong></p><p>This diversity reflects the different needs of research communities. <br>A biodiversity researcher may require specialised standards and search functions that differ from those needed in archaeology or museum documentation. <br>At the same time, researchers often need to discover data beyond their own discipline.</p>```)
 
 
-<!--
-author: [PLATZHALTER: nicht angegeben]
-email:
-version: [PLATZHALTER: nicht angegeben]
-language: en
-narrator:
-comment:
-logo:
-license: CC BY 4.0
--->
 
 ### 1.3.1 Repository types
 
 @AnitaH(```What types of repositories are there?```)
 
-@Winnie_(```Repositories can be classified according to the organisation that maintains them, the community they serve, or the purpose for which they were created.<br>Some are designed for a specific discipline, while others accept data from many research fields. They may also be operated by different types of organisations, such as research institutions, museums, universities, or international infrastructures.<br>Common types of repositories include:
+@Winnie_(```<p>Repositories can be classified according to the organisation that maintains them, the community they serve, or the purpose for which they were created.</p>
 
-- **Institutional repositories**, which are maintained by a specific organisation and often serve its researchers and collections e.g. [iDAI.repo](https://repo.dainst.org/) (DAI - German Archaeological Institute), ~~[GFBio submissions](https://submissions.gfbio.org/) (German Federation for Biological Data),~~ [Tierstimmenarchiv](https://suche.tierstimmenarchiv.de/?language=english) (MfN - Museum für Naturkunde Berlin ).
-- **Disciplinary repositories**, which focus on a particular research domain and often use community-specific standards, e.g. [iDAI.objects/arachne](https://arachne.dainst.org/) (archaeology), [PANGAEA](https://www.pangaea.de/) (earth and environmental sciences), or [Dryad](https://datadryad.org/) (life sciences).
-- **General-purpose repositories**, which accept data from many disciplines and research areas, e.g. [Zenodo](https://zenodo.org/).
-- **Project repositories**, which are created for a specific project or initiative and may have a limited lifespan. They are often hosted on institutional servers or deposited in broader infrastructures such as [Zenodo](https://zenodo.org/search?q=project%20data&f=access\_status%3Aopen&f=resource\_type%3Adataset&f=subject%3ABiodiversity&f=publication\_date%3A2025-12-18..2026-06-18&l=list&p=1&s=10&sort=bestmatch)). Project-related software, documentation, and occasionally data, may also be shared through platforms such as [GitHub](https://github.com/dainst/Olympia-Excavation-Diaries)).
+<p>Some are designed for a specific discipline, while others accept data from many research fields. They may also be operated by different types of organisations, such as research institutions, museums, universities, or international infrastructures.</p>
+
+<p>Common types of repositories include:</p>
+<ul>
+<li>**Institutional repositories**, which are maintained by a specific organisation and often serve its researchers and collections, e.g.:
+  <ul>
+    <li>iDAI.repo (DAI - German Archaeological Institute): [https://repo.dainst.org/](https://repo.dainst.org/) </li>
+    <li>Tierstimmenarchiv (MfN - Museum für Naturkunde Berlin): [https://suche.tierstimmenarchiv.de/](https://suche.tierstimmenarchiv.de/?language=english)</li>
+  </ul>
+</li>
+</ul>
+<ul>
+<li>**Disciplinary repositories**, which focus on a particular research domain and often use community-specific standards, e.g.:
+  <ul>
+<li>iDAI.objects/arachne (Archaeology): [https://arachne.dainst.org/](https://arachne.dainst.org/)</li>
+<li>PANGAEA (Earth and environmental sciences): [https://www.pangaea.de/](https://www.pangaea.de/)</li>
+<li>Dryad (Life sciences): [https://datadryad.org/](https://datadryad.org/)</li>
+  </ul>
+</li>
+</ul>
+<ul>
+<li>**General-purpose repositories**, which accept data from many disciplines and research areas, e.g. Zenodo [https://zenodo.org/](https://zenodo.org/).</li>
+</ul>
+<ul>
+<li>**Project repositories**, which are created for a specific project or initiative and may have a limited lifespan. They are often hosted on institutional servers or deposited in broader infrastructures such as Zenodo, e.g. if you search there for [project data](https://zenodo.org/search?q=project%20data&f=access\_status%3Aopen&f=resource\_type%3Adataset&f=subject%3ABiodiversity&f=publication\_date%3A2025-12-18..2026-06-18&l=list&p=1&s=10&sort=bestmatch). </li>
+<li>**Project-related software, documentation, and occasionally data**, may also be shared through platforms such as GitHub, e.g. the Olympia Excavation Diaries [https://github.com/dainst/Olympia-Excavation-Diaries](https://github.com/dainst/Olympia-Excavation-Diaries).</li>
+</ul>
 ```)
 
-Note
-----
+>[!NOTE]
+>These categories are not mutually exclusive. 
+>Many institutional repositories also focus on a particular discipline, and many disciplinary repositories are maintained by specific institutions.
+>At the same time, different repository types can coexist within the same research workflow.
+>For example, a museum may manage collection data in an institutional repository while also contributing data to a disciplinary repository used by a broader research community.
 
-These categories are not mutually exclusive. Many institutional repositories also focus on a particular discipline, and many disciplinary repositories are maintained by specific institutions.<br>At the same time, different repository types can coexist within the same research workflow.<br>For example, a museum may manage collection data in an institutional repository while also contributing data to a disciplinary repository used by a broader research community.
+##### klären
 
-### Bilder
-
-Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht separat eingebunden.
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U (nicht näher angegeben) |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U (nicht näher angegeben) |
-
-### Hinweise
-
-- Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
-- Bildlizenzen sind in der Quelle mit „U“ angegeben und nicht näher bestimmbar.
-- Mögliche Korrekturvorschläge, unverändert im Kurstext belassen: „collections e.g.“ könnte eine Zeichensetzung vor „e.g.“ benötigen; in „Museum für Naturkunde Berlin ).“ steht ein Leerzeichen vor der schließenden Klammer; im Projekt-Repositories-Abschnitt erscheinen zusätzliche schließende Klammern nach den Zenodo- und GitHub-Links.
-- Persona-Zuordnung: Die Frage ist Anita, die Erklärung Winnie zugeordnet.
+wohin mit     <li>~~GFBio submissions [https://submissions.gfbio.org/](https://submissions.gfbio.org/) (German Federation for Biological Data)~~</li>
 
 <!--
 author: [PLATZHALTER: nicht angegeben]
