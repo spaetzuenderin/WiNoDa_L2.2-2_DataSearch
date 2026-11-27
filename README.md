@@ -3102,3 +3102,59 @@ re3data filters can be used to identify repositories with open or partially open
 - **Lizenz:** Die Bilder haben im Export die Lizenzangabe `U` (unbekannt). Die Quiz-Metadaten nennen CC BY 4.0.
 
 **Kapitel 2.3.4 abgeschlossen.** Ich warte auf das nächste Kapitel.
+
+
+<!--
+author:
+email:
+version: 1.0
+language: en
+narrator:
+comment: Converted from H5P Portfolio chapter 2.3.5
+logo:
+license: CC BY 4.0
+-->
+
+# 2.3.5 Summary - Finding Open Research Data
+
+![Winnie standing](images/file-6a4cd927559a8.png "Winnie")
+<!-- style="width: 35.575%;" -->
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+
+@Winnie_(```Across the three scenarios, different search environments require different ways of identifying open and reusable research data.
+
+At the **data level** (e.g. aggregators such as GBIF), openness can often be assessed directly through filters such as licences, access rights, and download options.
+
+At the **metadata level** (e.g. portals such as ARIADNE), users must interpret dataset records and follow links to original repositories to verify access conditions and licences.
+
+At the **infrastructure level** (e.g. repository registries such as re3data), users first identify suitable repositories using filters and descriptive information, and then check openness in the linked repositories themselves.
+
+**In all cases, determining whether data are open and reusable requires moving beyond search results and examining access and licensing information at the appropriate level.**```)
+
+</section>
+
+---
+
+## Bilderverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-6a4cd927559a8.png` | Winnie standing | Winnie | U |
+
+## Hinweise und Prüfbedarf
+
+- **Persona-Zuordnung:** `@Winnie_` verwendet, da es sich um eine Zusammenfassung bzw. Erklärung von Winnie handelt.
+- **Lizenz:** Die Bildlizenz ist im Export mit `U` (unbekannt) angegeben.
+- **Kurslizenz:** CC BY 4.0 gemäß Konvertierungsvorgabe.
+- **Korrekturen:** Keine.
+- **Platzhalter:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Quiz:** Keines enthalten.
+- **Stilzuordnung:** Die Überschrift „In a Nutshell“ wurde entsprechend der vorgegebenen Formatierung umgesetzt.
+ 
+**Kapitel 2.3.5 abgeschlossen.** Ich warte auf das nächste Kapitel.
