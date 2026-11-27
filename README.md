@@ -4667,3 +4667,52 @@ Persistent identifiers help create links between many different types of researc
 5. **Korrekturen:** Keine sprachlichen Korrekturen vorgenommen.
 6. **Persona-Zuordnung:** Keine Persona-Makros erforderlich, da die Quizfragen nicht als Persona-Texte gekennzeichnet sind.
 7. **Metadaten:** Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 angegeben. Die Bildlizenz bleibt entsprechend der Quelle `U`.
+
+
+<!--
+author:
+email:
+version: 1.0.0
+language: en
+narrator:
+comment: TODO 6 – Practical exercises
+license: CC BY 4.0
+-->
+
+# TODO 6 – Practical exercises
+
+- Independent search tasks
+- Reflection + comparison across systems
+
+**Focus:**
+
+Independent search and real-world application
+
+**Learning objectives**
+
+- **WiNoDa_04_005_0889a** – Carry out a search for archaeological research data independently (incl. aggregators like re3data)
+- **WiNoDa_04_004_0873a** – Carry out a search for archaeological data in a relevant repository
+- **WiNoDa_04_005_0889b** – Carry out a search for biodiversity research data independently
+- **WiNoDa_04_004_0873b** – Carry out a search for biodiversity data in a relevant repository
+
+**Core role in course**
+
+This is the **performance / transfer module**:
+
+- real search tasks
+- domain-specific application
+- integration of all previous modules
+
+---
+
+## Bilderverzeichnis
+
+Keine Bilder im Kapitel vorhanden.
+
+## Hinweise und Korrekturvorschläge
+
+1. **Platzhalter:** Der Kapitelinhalt enthält den Titel „ToDo“ im H5P-Platzhalter. Dieser wurde nicht als zusätzliche Überschrift übernommen.
+2. **Unvollständige Inhalte:** Keine erkennbar.
+3. **Fehlende Metadaten:** Autor, E-Mail und Narrator sind in der Quelle nicht angegeben.
+4. **Korrekturen:** Keine sprachlichen Korrekturen vorgenommen.
+5. **Unklare Zuordnungen:** Keine.
