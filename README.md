@@ -606,12 +606,7 @@ data-text-failed="Any researcher who uses the repository or aggregator.: Users c
 - Keine unvollständigen Texte oder unklaren Persona-Zuordnungen erkannt.
 
 
-<!--
-author: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab
-version:
-language: en
-license: CC BY 4.0
--->
+
 
 ### 1.2.1 RDM benefitting from repositories
 
@@ -632,6 +627,36 @@ Additionally, many repositories support key RDM requirements by:
 - facilitating data citation and acknowledgement.
 
 By ensuring that data remain accessible and understandable over time, repositories help researchers comply with institutional, funder, and community requirements.```)
+
+### Bilder
+
+- Dateiname: `images/file-699888b3b742a.png`
+  - Alt-Text: Anita's head in an orange circle. Anita asks
+  - Caption: Anita
+  - Lizenz: U
+- Dateiname: `images/file-6a4bcd1fcc57b.png`
+  - Alt-Text: Winnie's head in a square frame. Winnie answers
+  - Caption: Winnie answers
+  - Lizenz: U
+
+### Hinweise
+
+- Metadaten zu Version, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben.
+- Die Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
+- Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte, Korrekturvorschläge oder unklaren Zuordnungen erkannt.
+
+
+
+
+### 1.2.2 RDM benefitting from aggregators
+
+@AnitaH(```How do aggregators contribute to research data management?```)
+
+@Winnie_(```**Aggregators** collect and combine metadata from multiple repositories and data providers, thus increasing the visibility of research outputs and helping connect datasets that would otherwise remain difficult to find.
+
+For researchers, aggregators reduce the effort required to search across many individual repositories.
+
+For data providers, they broaden the reach of their collections without requiring duplicate data storage.```)
 
 ### Bilder
 
