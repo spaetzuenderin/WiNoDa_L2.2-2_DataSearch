@@ -1010,19 +1010,45 @@ Starting with a repository registry helps Kai gain an overview of the available 
 
 
 ### 1.4.4 Quiz: Data sources
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
 
-![Anita standing under a green question mark](images/file-699897ee8561b.PNG "Image unbenannt")
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+<div style="flex: 0 0 30%; min-width: 0;">
 
-<!-- Image license: U -->
+![Anita standing under a large question mark](images/Quiz-Anita.PNG)<!--
 
-<!-- Quiz: 04_005_0887_Single-Choice-Set -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+width="100%"-->
 
-{{1}}
+</div>
+
+<div class="persona--winnie">
+
+Let's repeat what we have learned.<br>
+Klick the arrows on the green button to proceed.
+
+</div>
+</div>
+
+{{1-2}}
 <section>
+
+<!--- Quiz: 04_005_0887_Single-Choice-Set | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set --->
 
 **Which of the following is a common source for finding research data?**
 
+<!--
+data-randomize
+data-text-solved="Correct. Repositories store, manage, and provide access to research data and related metadata. They are therefore an important starting point when searching for research data."
+data-text-failed="Not quite. Repositories are a common source for finding research data because they store and provide access to datasets. Textbooks are primarily sources of published knowledge, while social media profiles are not designed to systematically manage or provide access to research datasets."
+-->
 [(X)] Repository
 
 [( )] Textbook
@@ -1031,11 +1057,16 @@ Starting with a repository registry helps Kai gain an overview of the available 
 
 </section>
 
-{{2}}
+{{2-3}}
 <section>
 
 **What is the role of an aggregator?**
 
+<!--
+data-randomize
+data-text-solved="Correct. Aggregators collect metadata from multiple repositories and other data sources, making research data easier to discover through a central search interface. The original data usually remain in their respective source systems."
+data-text-failed="Not quite. Aggregators primarily collect and connect metadata from multiple sources to improve the discoverability of research data. They do not replace repositories, which store and manage the original data. DOIs are generally assigned by repositories or other registration agencies, not automatically by aggregators."
+-->
 [(X)] Collect metadata from multiple sources and support discovery
 
 [( )] Replace repositories
@@ -1044,11 +1075,16 @@ Starting with a repository registry helps Kai gain an overview of the available 
 
 </section>
 
-{{3}}
+{{3-4}}
 <section>
 
 **Why is it often useful to search multiple sources?**
 
+<!--
+data-randomize=true
+data-text-solved="Correct. Different repositories and aggregators cover different disciplines, communities, collections, and data providers. Searching multiple sources can therefore help you discover datasets that are not available or indexed elsewhere."
+data-text-failed="Not quite. Different sources may contain different datasets because they vary in their scope, disciplinary focus, participating institutions, and metadata coverage. Repositories can store many datasets, and aggregators may provide access to metadata from different sources, although their coverage is not necessarily complete."
+-->
 [(X)] Because different sources may contain different datasets
 
 [( )] Because repositories can store only one dataset at a time
@@ -1057,47 +1093,22 @@ Starting with a repository registry helps Kai gain an overview of the available 
 
 </section>
 
-{{4}}
+{{4-5}}
 <section>
 
 **Research data can only be found in repositories.**
 
+<!--
+data-text-solved="Correct. Research data can also be discovered through aggregators, institutional websites, project platforms, data portals, publications, and other sources. Aggregators can help identify datasets held in different repositories and systems."
+data-text-failed="Not quite. Research data can be found in many places beyond repositories. Aggregators, project platforms, institutional websites, data portals, and publications can also help researchers discover relevant datasets."
+-->
 [( )] True
 
 [(X)] False
 
 </section>
 
----
 
-## Hinweisliste
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Korrekturvorschläge:** Keine offensichtlichen Tipp- oder Grammatikfehler festgestellt.
-- **Persona-Zuordnung:** Anita ist durch das Bild eindeutig zugeordnet. Die Quizfragen sind nicht als Persona-Text gekennzeichnet. Daher keine Persona-Makros.
-- **Quizformat:** Single Choice Set mit vier Fragen; alle Fragen wurden in der vorgegebenen Reihenfolge übernommen.
-- **Randomisierung:** Nicht übernommen. Die Quelle enthält keine explizite Konfiguration zur zufälligen Antwortreihenfolge.
-- **Feedback:** Keine individuellen Feedbacktexte und kein Gesamtfeedback in der Quelle vorhanden.
-- **Hinweise:** Keine Tipps in der Quelle vorhanden.
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | Image unbenannt | U |
-
-
-
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 2 – Where to find data
-license: CC BY 4.0
--->
 
 # 2 – Where to find data
 
