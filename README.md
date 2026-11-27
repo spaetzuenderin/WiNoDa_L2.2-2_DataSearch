@@ -147,8 +147,8 @@ We also aimed to make the course engaging by including interactive material and 
 
 # Learning Objectives
 
-![](images/file-6a7afec33a363.png "Title slide")
-*Quelle/Lizenz: U (laut H5P-Metadaten; in H5P steht „U“ für „undisclosed“, also nicht eindeutig lizenziert)*
+![Title slide for this course, containing the WiNoDa-Logo, the course title "RRP - Searching for object-related research data, and an AI-generated image of our protagonists as brick toy minifigures in a museum workspace. Shelves with archive boxes, several laptops and a poster with boolean search operators on the wall](images/L2.2-2_Title-slide.png)
+
 
 <details>
 <summary>Learning Objective Matrix on the Topic of Research Data Management (RDM)</summary>
@@ -158,7 +158,7 @@ The course creators of WiNoDa Knowledge lab used the **Learning Objective Matrix
 Learning objectives from the LOM-RDM can be identified by their unique identifier: Subject-ID_Topic-ID-sequential-number.
 
 
->Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … [TEXT UNVOLLSTÄNDIG IN QUELLE] Zollitsch, L. (2025). Learning Objectives Matrix on the Topic of Research Data Management (RDM). Zenodo. https://doi.org/10.5281/zenodo.15846806
+>Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Learning Objectives Matrix on the Topic of Research Data Management (RDM). Zenodo. https://doi.org/10.5281/zenodo.15846806
 
 </details>
 
@@ -235,39 +235,15 @@ Thus, the generic LOM-RDM remains a stable reference framework for the creation 
 - WiNoDa_04_004_0873c | Learners are able to carry out a search for collection data in a relevant repository independently.
 </details>
 
-### Bilder in diesem Kapitel
 
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-6a7afec33a363.png | (leer, dekorativ) | Title slide | U (undisclosed) |
-
----
-
-### Hinweisliste
+##### Hinweisliste
 
 - **Platzhalter:**
   - [PLATZHALTER: XXXX hier unsere LZM zitieren.]
-  - Autor und Narrator sind in der Quelle nicht angegeben und wurden als Platzhalter im Header gesetzt.
-- **Fehlende Alt-Texte:** keine. Das Titelbild ist als dekorativ markiert und hat daher einen leeren Alt-Text.
-- **Unvollständige Texte:**
-  - Die Autorenliste der Quellenangabe ist im Original mit „…“ abgekürzt. Diese Stelle ist als [TEXT UNVOLLSTÄNDIG IN QUELLE] markiert.
+
 - **Korrekturen:**
 - geänderte Kapitelüberschriften in Lernzielliste angleichen
-  - „as a basis the for the creation“ → „as a basis for the creation“
-  - „unique identfier“ → „unique identifier“
-  - „where adapted“ → „were adapted“
-  - „LOM-ROM“ → „LOM-RDM“
-  - „WiNoDa specific adaptions“ → „WiNoDa specific adaptations“ (Überschrift)
-  - „Chapter 3 - Evaluationg platforms“ → „Chapter 3 - Evaluating platforms“
-  - „disciplinary adaptions“ → „disciplinary adaptations“
-  - Die Schreibweise „count up“ und „the sequential number was counted up“ sowie „e.g.“ wurde unverändert übernommen.
-  - Die gelbe Hervorhebung im Platzhalter wurde entfernt (Inline-Styles).
-- **Unklare Zuordnungen:**
-  - Die Caption „Title slide“ stammt aus dem H5P-Titel. Bitte prüfen, ob eine Caption für das dekorative Bild gewünscht ist.
-  - Der Panel-Inhalt „LO-ID | Complete Learning Objective“ wiederholt den Akkordeon-Titel. Er wurde als Überschrift übernommen und nicht doppelt ausgegeben.
-  - Der Textinhalt des Panels „Learning Objectives for this course“ trägt den H5P-Standardtitel „Unbenannt: Text“. Die Zuordnung erfolgt über den Panel-Titel.
-  - Ein leerer Listenpunkt im Beispiel („&nbsp;“) wurde nicht übernommen.
-- **Randomisierung:** nicht zutreffend, da keine Quizze in diesem Kapitel vorhanden sind.
+
 
 <!--
 author: [PLATZHALTER: Autor]
