@@ -4219,3 +4219,86 @@ or
   - Die abschliessende Informationsseite wurde als Winnie-Information übernommen, da sie im H5P-Inhalt den Titel "Winnie Infopage" trägt.
 - **Quiz-Randomisierung:** Nicht zutreffend.
 - **Bildlizenzen:** Die Bildlizenzen sind im Export jeweils mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+email:
+version: 1.0
+language: en-GB
+narrator: UK English Female
+comment: Chapter 5.2 – Benefits of PIDs
+logo:
+license: CC BY 4.0
+-->
+
+## 5.2 Benefits of PIDs
+
+@AnitaH(```How can identifiers help me follow connections between resources?```)
+
+@Winnie_(```**Searching by a PID can help you locate a specific resource**. More importantly, it can also help you discover **related resources** connected through persistent identifiers.
+
+This can be particularly useful in archaeology, where publications, excavation sites, datasets, objects, images, collections, and researchers are often closely linked.
+
+PIDs also **support linked-data approaches** by creating machine-readable connections between related resources.
+
+Therefore, many archaeological repositories, aggregators, and research infrastructures use persistent identifiers to connect:```)
+
+- publications
+- datasets
+- objects
+- images
+- excavations
+- researchers
+
+@Winnie_(```through persistent identifiers.
+
+**For example,** you could start with:
+
+🔎 a publication DOI
+
+which links to:
+
+➡️ dataset DOI
+
+which may link to:
+
+➡️excavation archive or repository record or collection record or project record...
+
+which links to:
+
+➡️object records in Arachne
+
+which link to:
+
+➡️related publications```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+
+PIDs create a network of connected resources that researchers can navigate to discover additional data and contextual information.
+
+</section>
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:**
+  - "➡️excavation" → Vorschlag: "➡️ excavation" (fehlendes Leerzeichen).
+  - "or repository record or collection record or project record" → stilistischer Korrekturvorschlag: Aufzählung mit Kommas.
+- **Unklare Zuordnungen:** Keine.
+- **Quiz-Randomisierung:** Nicht zutreffend.
+- **Bildlizenzen:** Beide Bildlizenzen sind im Export mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
