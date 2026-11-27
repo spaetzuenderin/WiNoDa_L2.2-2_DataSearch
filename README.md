@@ -684,30 +684,38 @@ license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0
 
 wohin mit     <li>~~GFBio submissions [https://submissions.gfbio.org/](https://submissions.gfbio.org/) (German Federation for Biological Data)~~</li>
 
-<!--
-author: [PLATZHALTER: nicht angegeben]
-email:
-version:
-language: en
-narrator:
-comment:
-logo:
-license: CC BY 4.0
--->
 
 ### 1.3.2 Aggregator types
 
 @AnitaH(```What types of aggregators are there?```)
 
-@Winnie_(```Some aggregators focus on a particular discipline, while others combine information from many research domains. They may also operate at national, regional, or international levels.
+@Winnie_(```<p>Some aggregators focus on a particular discipline, while others combine information from many research domains. They may also operate at national, regional, or international levels.</p>
 
-Common types of aggregators include:
+<p>Common types of aggregators include:</p>
 
-- **Disciplinary aggregators**, which bring together information from a specific research field, e.g. [Ariadne](https://www.ariadne-research-infrastructure.eu/) for archaeology or [GBIF](https://www.gbif.org/) for biodiversity data.
-- **Cross-disciplinary aggregators**, which allow users to search across multiple research domains, e.g. [OpenAIRE](https://www.openaire.eu/), [DataCite Commons](https://commons.datacite.org/).
-- **Thematic aggregators**, which focus on a particular topic, resource type, or community, e.g. [Europeana](https://www.europeana.eu/en) for European cultural heritage.
+<ul>
+  <li>**Disciplinary aggregators**, which bring together information from a specific research field, e.g.:
+    <ul>
+      <li>Ariadne for archaeology: [https://www.ariadne-research-infrastructure.eu/](https://www.ariadne-research-infrastructure.eu/)</li>
+      <li>GBIF for biodiversity data: [https://www.gbif.org/](https://www.gbif.org/)</li>
+    </ul>
+  </li>
+  <li>**Cross-disciplinary aggregators**, which allow users to search across multiple research domains, e.g.:
+    <ul>
+      <li>OpenAIRE: [https://www.openaire.eu/](https://www.openaire.eu/)</li>
+      <li>DataCite Commons: [https://commons.datacite.org/](https://commons.datacite.org/)</li>
+    </ul>
+  </li>
+  <li>**Thematic aggregators**, which focus on a particular topic, resource type, or community, e.g.:
+    <ul>
+      <li>Europeana for European cultural heritage: [https://www.europeana.eu/en](https://www.europeana.eu/en)</li>
+    </ul>
+  </li>
+</ul>
 
-Aggregators can also differ in their geographic scope. Some operate at regional or national levels, while others connect data providers across multiple countries or even worldwide.<br>By bringing together metadata from multiple sources, aggregators enable users to discover relevant data through a single search interface. Although aggregators may differ in scope, they share the common goal of improving the discoverability of research data and collections.```)
+<p>Aggregators can also differ in their geographic scope. Some operate at regional or national levels, while others connect data providers across multiple countries or even worldwide.</p>
+
+<p>By bringing together metadata from multiple sources, aggregators enable users to discover relevant data through a single search interface. Although aggregators may differ in scope, they share the common goal of improving the discoverability of research data and collections.</p>```)
 
 <!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
 In a Nutshell:
@@ -722,30 +730,6 @@ Repositories and aggregators can be classified according to their scope, purpose
 Understanding these different types helps researchers identify suitable places to deposit data and effective tools for finding existing data.
 </section>
 
-### Bilder
-
-Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht separat eingebunden.
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U (nicht näher angegeben) |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U (nicht näher angegeben) |
-
-### Hinweise
-
-- Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
-- Bildlizenzen sind in der Quelle mit „U“ angegeben und nicht näher bestimmbar.
-- Keine offensichtlichen Tippfehler oder unklaren Persona- und Stilzuordnungen erkannt.
-
-
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 1.3.3 Quiz: Repository types
-license: CC BY 4.0
--->
 
 ### 1.3.3 Quiz: Repository types
 
