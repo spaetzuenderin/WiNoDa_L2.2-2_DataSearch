@@ -963,41 +963,24 @@ In a Nutshell:
 
 @ExampleA(```
 ### Disciplinary search - Archaeology
-<p>
+
 Anita is searching for archaeobotanical datasets to compare with material from her own research project.
-</p>
-<p>
+
 She begins with repositories and data portals maintained by her university and project partners because she is already familiar with these resources and their data standards.
-</p>
-<p>
+
 To identify additional datasets beyond her immediate network, she expands her search to the ARIADNE Portal, which provides access to archaeological resources from many institutions and countries.
-</p>
-<p>
+
 When she finds references to relevant datasets, she follows links to the repositories where the data are stored and documented in more detail.
-</p>
-<p>
+
 Starting locally and then broadening the search helps her find both familiar and previously unknown sources of data.
-</p>
+
 ```)
 
 
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 1.4.2 Example search: Biodiversity
-license: CC BY 4.0
--->
-
 ### 1.4.2 Example search: Biodiversity
 
-![Susan standing under a green magnifying glass](images/file-69eb2086bf569.PNG "Image unbenannt")
-
-<!-- Image license: U -->
-
-<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
-Example search - Biodiversity
+@ExampleB(```
+### Example search - Biodiversity
 
 Susan is looking for occurrence records of dragonfly species across Europe.
 
@@ -1007,23 +990,8 @@ Once she identifies particularly relevant datasets, she visits the original repo
 
 Starting with a disciplinary aggregator allows Susan to search broadly across many institutions before focusing on the most relevant datasets and their original sources.
 
----
+```)
 
-## Hinweisliste
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Korrekturvorschläge:** Keine offensichtlichen Tipp- oder Grammatikfehler festgestellt.
-- **Persona-Zuordnung:** Susan ist durch das Bild und den Text eindeutig zugeordnet. Da es sich um eine Erzählung und nicht um eine direkte Frage oder Antwort handelt, wurde kein Persona-Makro verwendet.
-- **Stilzuordnung:** „Example search - Biodiversity“ wurde als lokale Zwischenüberschrift umgesetzt.
-- **Randomisierung:** Nicht relevant (kein Quiz).
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-69eb2086bf569.PNG` | Susan standing under a green magnifying glass | Image unbenannt | U |
 
 
 <!--
