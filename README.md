@@ -3988,3 +3988,110 @@ By combining keywords, phrases, controlled vocabularies, Boolean operators, meta
 - **Quizze:** Keine enthalten.
 - **Randomisierung:** Nicht zutreffend.
 - **Bildlizenzen:** Alle sieben Bilder haben in den Quelldaten die Lizenzangabe `U`. Diese wurde unverändert übernommen.
+
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+comment: 4.5.4 Quiz
+license: CC BY 4.0
+-->
+
+# 4.5.4 Quiz
+
+{{1-2}}
+<section>
+
+<!-- question 1: 04_005_0890_Multiple-Choice_1 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (WiNoDa Knowledge Lab) | yearFrom: 2026 | contentType: Multiple Choice -->
+
+You are searching for data to include in your thesis.
+
+You search for your keyword but find only a few datasets. You want to retrieve more potentially relevant results.
+
+**Which action could help broaden your search?**
+
+<!--
+data-randomize
+data-text-solved="Synonyms help find datasets described using different terminology. OR retrieves records containing either term. Truncation captures multiple word forms."
+data-text-failed="Add additional concepts using AND: AND narrows results by requiring multiple concepts be present simultaneously. | Apply more metadata filters: Filters reduce the number of results. | Search for an exact phrase in quotation marks: Exact phrase searching increases precision rather than breadth."
+-->
+
+[[X]] Use synonyms.
+
+[[X]] Combine alternative terms using **OR**.
+
+[[X]] Use truncation.
+
+[[ ]] Add additional concepts using **AND**.
+
+[[ ]] Apply more **metadata filters**.
+
+[[ ]] Search for an **exact phrase** in quotation marks.
+
+</section>
+
+{{2-3}}
+<section>
+
+<!-- question 2: 04_005_0890_Multiple-Choice_2 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (WiNoDa Knowledge Lab) | yearFrom: 2026 | contentType: Multiple Choice -->
+
+Your are searching for data to include in your thesis and receive thousands of results.
+
+**What can you do to narrow down the results?**
+
+<!--
+data-randomize
+data-text-solved="AND requires multiple concepts be present simultaneously. Phrase searches improve precision. Filters restrict results to relevant metadata values."
+data-text-failed="Add more synonyms using OR: OR broadens searches. | Use wildcards: Wildcards broaden searches."
+-->
+
+[[X]] Add another concept using **AND**.
+
+[[X]] Search for an exact phrase.
+
+[[X]] Apply metadata filters.
+
+[[ ]] Add more synonyms using **OR**.
+
+[[ ]] Use wildcards.
+
+</section>
+
+{{3-4}}
+<section>
+
+<!-- question 3: 04_005_0890_Drag-the-Words -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (WiNoDa Knowledge Lab) | yearFrom: 2026 | contentType: Drag the Words -->
+
+**Drag the words into the correct boxes**
+
+You are searching for research data.
+
+To find records from more than one search term, use [[OR]].
+
+To find records from one of two or more search terms, you should use [[AND]].
+
+To exclude records mentioning a keyword or phrase, you can use [[NOT]].
+
+To reduce the number of results further, you can apply [[filters]].
+
+</section>
+
+---
+
+## Hinweise zur Kapiteldatei
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine für die übernommenen Quizfragen.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschlag:** In Frage 2 steht „Your are“. Offensichtlicher Tippfehler, korrigiert zu „You are“.
+- **Persona-Zuordnung:** Keine Persona-Makros verwendet, da die Fragetexte nicht als Persona-Text ausgezeichnet sind.
+- **Randomisierung:** Bei Frage 1 und 2 aktiviert, da die Antwortreihenfolge beliebig ist.
+- **Randomisierung ausgelassen:** Keine.
+- **Feedback:** Die individuellen Rückmeldungen der Antwortoptionen wurden übernommen.
+- **Drag the Words:** Die vier Lösungen OR, AND, NOT und filters wurden als Lückentext umgesetzt. Die beiden zusätzlichen Distraktoren „controlled vocabularies“ und „metadata“ sind keine eigenständigen Lösungsoptionen im LiaScript-Lückentext.
+
