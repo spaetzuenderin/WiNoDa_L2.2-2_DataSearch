@@ -2823,3 +2823,52 @@ Why don't we give it a go?```)
 ### Quizzes
 - Keine Quizfragen vorhanden.
 - Keine Randomisierung erforderlich.
+
+
+<!--
+author: [NICHT ANGEGEBEN]
+email:
+version: 1.0
+language: en
+narrator:
+comment: 3.1 Exercise: Finding Open Research Data
+logo:
+license: CC BY 4.0
+-->
+
+# 3.1 Exercise: Finding Open Research Data
+
+@Winnie_(```
+**Exercise: Finding Open Research Data**
+
+In the following tasks, you will work with **three short research scenarios from different disciplines**.
+
+Each scenario shows a researcher trying to find or evaluate research data for reuse.
+
+For each case, select the options that best describe how the researcher can identify **open and reusable data**.
+
+There may be more than one correct answer per question.
+
+**Feel free to open the respective search portals in a separate browser window to evaluate the available options.**
+```)
+
+---
+
+## Bilderverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-6a4cd927559a8.png` | Winnie standing | Winnie | U |
+
+**Hinweis zum Bild:** Das Originalbild ist ebenfalls unter `images/file-6a4cd90b769f6.png#tmp` referenziert. Im Kurs wird der im H5P-Bildfeld angegebene Dateipfad verwendet.
+
+---
+
+## Hinweisliste
+
+1. **Metadaten:** Autor, E-Mail, Version der Originaldatei, Narrator und Logo waren nicht angegeben.
+2. **Persona-Zuordnung:** Die Überschrift „Exercise: Finding Open Research Data“ und der gesamte Einführungstext wurden Winnie zugeordnet (`@Winnie_`). Es handelt sich um eine Einführung bzw. Erklärung, nicht um eine explizite Frage.
+3. **Bild:** Das Persona-Bild wird entsprechend der Vorgabe nicht separat eingebunden.
+4. **Quiz:** In diesem Kapitel sind noch keine konkreten Quizfragen enthalten. Die angekündigten drei Forschungsszenarien fehlen im übermittelten Kapitel.
+5. **Randomisierung:** Nicht relevant.
+6. **Platzhalter / unvollständige Texte:** Keine festgestellt.
