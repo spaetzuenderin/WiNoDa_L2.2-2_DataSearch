@@ -116,11 +116,11 @@ You will learn how to
 **[PLATZHALTER: Estimated time: xx hour]**
 
 <h3>OER</h3>
-This course was created as Open Educational Resource (OER) and is published under a CC-BY licence.
+This course was created as Open Educational Resource (OER) and is published under a CC BY licence.
 
-In order to ensure optimal reusability, we tried to break down the content in modular self-contained units and chose a format that works both within and outside of classic Learning Management Systems (LMS, e.g. Moodle).
+To ensure optimal reusability, we structured the content into modular, self-contained units and chose LiaScript as a format that can be used both within and outside traditional Learning Management Systems (LMS), such as Moodle.
 
-We also aimed at making the course engaging by including H5P interactive material throughout, bundling everything in one semantic unit within a H5P portfolio.
+We also aimed to make the course engaging by including interactive material and quizzes throughout, using scenario based questions relevant to our community wherever possible.
 
 
 >[!NOTE]
@@ -135,47 +135,15 @@ We also aimed at making the course engaging by including H5P interactive materia
 >**Publishing object-related research data**
 >Learn about data publication workflows for various domain-specific repositories, submission guidelines and curation support, as well as various tools to assist with publication.
 
-![Screenshot of the portfolio with green highlights for the navigation items](images/file-69e2451a5836e.png "Unbenannt: Image")
-*Quelle/Lizenz: U (laut H5P-Metadaten; in H5P steht „U“ für „undisclosed“, also nicht eindeutig lizenziert)*
-
 <h3>Navigating the course</h3>
 
 **Navigate directly to each portfolio chapter** by clicking on the chapter navigation on the left, or go back and forth between chapters using the arrows in the navigation bars above and below (highlighted in green).
+**LiaScript is fully responsive** and can be seen on phones, tablets and any laptop or PC monitor. For the best experience we recommend a (tablet) display of 820×1180 px or more.
 
-**Note:** We do *not* recommend using the full screen mode - the responsive layout distorts certain proportions.
+##### Hinweisliste
 
----
+- **Platzhalter:** „Estimated time: xx hour“ (als [PLATZHALTER: Estimated time: xx hour] markiert). 
 
-### Bilder in diesem Kapitel
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-69e2451a5836e.png | Screenshot of the portfolio with green highlights for the navigation items | Unbenannt: Image | U (undisclosed) |
-
----
-
-### Hinweisliste
-
-- **Platzhalter:** „Estimated time: xx hour“ (als [PLATZHALTER: Estimated time: xx hour] markiert). Autor und Narrator sind in der Quelle nicht angegeben und wurden als Platzhalter im Header gesetzt.
-- **Fehlende Alt-Texte:** keine.
-- **Unvollständige Texte:** keine.
-- **Korrekturen:**
-  - „Your will learn how to“ → „You will learn how to“
-  - „Open Educational Ressource“ → „Open Educational Resource“
-- **Unklare Zuordnungen:**
-  - Bild-Caption „Unbenannt: Image“ ist ein H5P-Standardtitel und sollte geprüft werden.
-  - Die Lizenz „U“ ist nicht eindeutig. Bitte die tatsächliche Lizenz des Screenshots klären.
-- **Randomisierung:** nicht zutreffend, da keine Quizze in diesem Kapitel vorhanden sind.
-
-
-<!--
-author: [PLATZHALTER: Autor]
-version: 1.0
-language: en
-narrator: [PLATZHALTER: Narrator]
-comment: Learning Objectives. Part of the course "Searching for object-related research data" in the series "Research, reuse, and publication of object-related data according to the FAIR principles".
-license: CC BY 4.0
--->
 
 # Learning Objectives
 
@@ -4790,3 +4758,100 @@ ill.1 Meles meles (Linnaeus, 1758) observed in Germany (licensed under CC BY 4.0
 5. **Quiz-Lizenz:** Im ursprünglichen Quiz ist `U` angegeben. Keine Umdeutung zu CC BY 4.0.
 6. **Persona-Zuordnung:** Winnie wurde als erklärende Persona (@Winnie) und Susan als fragende Persona (@SusanH) zugeordnet.
 7. **Kursmetadaten:** Autor, E-Mail, Narrator und Logo sind in den übermittelten Kapiteldaten nicht enthalten.
+
+
+<!--
+author: N. N. (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: Attribution page of the WiNoDa Knowledge Lab course.
+logo: images/file-699c0bf6edb51.png
+
+license: CC BY 4.0
+-->
+
+# Attribution page
+
+This course was created as part of
+
+![Logo WiNoDa Knowledge Lab](images/file-699c0bf6edb51.png)
+
+---
+
+![CC BY icon](images/file-699c0e50a8839.png)
+
+**Title of Course or H5P activity.**
+
+© 2026 by N. N. (ORCID: XXXXXXX https://orcid.org/0009-0007-5852-771X) as part of the WiNoDa Knowledge Lab. Licensed under CC BY 4.0.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0.
+
+---
+
+**Text:** N. N.
+
+**Layout and Design:** N. N.
+
+**H5P Activities:** N. N.
+
+**We would like to thank for their peer review and valuable feedback:**
+
+- N. N.
+- N. N.
+
+(Institution)
+
+---
+
+![Images of WiNoDa personas' minifigures standing in a row, below: attribution text.](images/file-699c0d0d69d2f.png)
+
+Images of minifigures and Lego bricks rendered using BrickLink Studio.
+
+LEGO® is a trademark of the LEGO Group, which does not sponsor or endorse this material.
+
+---
+
+We may use AI tools to assist with some or all of the following tasks as needed:
+
+- Planning course structure and content.
+- Creation and revision of teaching materials (e.g. slides, summaries, visualisations).
+- Generation of exercises, quizzes or case studies.
+- Translations
+
+All content created or edited in this way is carefully checked and selected by us.
+
+---
+
+![Funder's logo: Federal Ministry of Research, Technology and Space](images/file-699c0ddb35bcd.jpg)
+
+![Funder's logo: NextGenerationEU](images/file-699c0e138cd1c.png)
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699c0bf6edb51.png` | Logo WiNoDa Knowledge Lab | – | U |
+| `images/file-699c0e50a8839.png` | CC BY icon | – | U |
+| `images/file-699c0d0d69d2f.png` | Images of WiNoDa personas' minifigures standing in a row, below: attribution text. | – | U |
+| `images/file-699c0ddb35bcd.jpg` | Funder's logo: Federal Ministry of Research, Technology and Space | – | U |
+| `images/file-699c0e138cd1c.png` | Funder's logo: NextGenerationEU | – | U |
+
+## Hinweisliste
+
+**Platzhalter**
+- `Title of Course or H5P activity.`
+- `N. N.` – mehrere Stellen für Autorenschaft, Gestaltung, H5P-Aktivitäten und Peer Review.
+- `XXXXXXX` – ORCID-Platzhalter.
+- `(Institution)` – Institutionsplatzhalter.
+
+**Unklare Zuordnungen**
+- Die Kurslizenz ist als CC BY 4.0 angegeben; die einzelnen Bildlizenzen sind in den H5P-Metadaten lediglich mit `U` gekennzeichnet.
+- Eine Zuordnung der Bilder zu einer abweichenden Bildlizenz ist nicht möglich.
+
+**Korrekturvorschläge (nicht im Kurstext geändert)**
+- Keine offensichtlichen Rechtschreibkorrekturen vorgenommen.
+- „We would like to thank for their peer review and valuable feedback“: möglicherweise fehlt ein Objekt bzw. eine Ergänzung nach „thank“.
+
