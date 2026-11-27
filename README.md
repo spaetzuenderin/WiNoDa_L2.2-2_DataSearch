@@ -674,3 +674,59 @@ For data providers, they broaden the reach of their collections without requirin
 - Metadaten zu Version, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben.
 - Die Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
 - Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte, Korrekturvorschläge oder unklaren Zuordnungen erkannt.
+
+
+
+
+### 1.2.3 FAIR data benefitting from repositories and aggregators
+
+@AnitaH(```How do repositories and aggregators support the FAIR principles?```)
+
+@Winnie_(```Repositories and aggregators both contribute to making data more **Findable, Accessible, Interoperable, and Reusable (FAIR)**, but in different ways.
+
+**Repositories** support FAIRness by
+
+- preserving data,
+- managing metadata,
+- assigning persistent identifiers,
+- using and enforcing community standards where appropriate, and
+- providing access mechanisms.
+
+**Aggregators** strengthen FAIRness by
+
+- increasing discoverability,
+- connecting metadata from multiple sources, and
+- enabling cross-collection searches.```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+A repository without aggregation may be difficult for potential users to find.
+
+An aggregator without repositories would have no data sources to connect.
+
+Together, they help ensure that research data can be located, understood, accessed, and reused by different communities.
+
+Thus, they form an essential part of the infrastructure that enables effective research data management and data reuse.
+</section>
+
+### Bilder
+
+- Dateiname: `images/file-699888b3b742a.png`
+  - Alt-Text: Anita's head in an orange circle. Anita asks
+  - Caption: Anita
+  - Lizenz: U
+- Dateiname: `images/file-6a4bcd1fcc57b.png`
+  - Alt-Text: Winnie's head in a square frame. Winnie answers
+  - Caption: Winnie answers
+  - Lizenz: U
+
+### Hinweise
+
+- Metadaten zu Version, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben.
+- Die Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
+- Unklare Zuordnungen: keine.
+- Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte oder Korrekturvorschläge erkannt.
+
