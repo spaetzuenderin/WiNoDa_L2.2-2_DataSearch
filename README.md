@@ -3212,3 +3212,97 @@ A good **search strategy** helps you:
 - **Platzhalter:** Keine.
 - **Unvollständige Texte:** Keine.
 
+
+<!--
+author: 
+email: 
+version: 1.0
+language: en
+narrator: 
+comment: 
+logo: 
+license: CC BY 4.0
+-->
+
+# 4.1 Keywords, phrases, synonyms, and controlled vocabularies
+
+@AnitaH(```What is a keyword search?```)
+
+@Susan_(```You are probably already familiar with this strategy from literature searching.
+
+Keyword searching is one of the most common and effective ways to begin exploring a topic. A keyword search looks for **words appearing in searchable fields** such as **titles, descriptions, abstracts, keywords,** or sometimes **full text**, depending on the platform.
+
+Keyword searches are useful when:
+
+- exploring an unfamiliar topic,
+- conducting a broad search,
+- identifying potentially relevant datasets.```)
+
+@Anita(```What is a phrase search?```)
+
+@Susan_(```Phrase searching is similar to keyword searching, but looks for an **exact sequence of words** rather than individual search terms.
+
+This is usually achieved by enclosing the phrase in double quotation marks (e.g. "exact search phrase"), although the syntax may vary.
+
+Phrase searches often improve precision and reduce irrelevant results.```)
+
+@Anita(```How can I use synonyms and controlled vocabularies in my searches?```)
+
+@Susan_(```Keyword searches work best when researchers consider **alternative terms and naming conventions** that may have been used to describe the **same concept**.
+
+Without consistent terminology, relevant datasets can be difficult to find. That's why we recommend using synonymous expressions for search keywords, phrases, and concepts.
+
+For example, a dataset may refer to:
+
+- barley (keyword)
+- cultivated barley (phrase)
+- common barley (alternative term)
+- *Hordeum vulgare* (scientific name from a controlled vocabulary)
+
+**All four expressions could be used synonymously.**
+
+But "*Hordeum vulgare*" is also a taxonomic term from a **controlled vocabulary**. A controlled vocabulary is a predefined list of standardised terms used to describe similar concepts consistently across datasets. Thereby, controlled vocabularies can also help researchers identify alternative terminology and improve search consistency.
+
+**Many repositories and aggregators use controlled vocabularies to standardise**
+
+- subjects,
+- species names,
+- geographic locations,
+- archaeological periods,
+- object types.
+
+**Controlled vocabularies make searches more reliable and support interoperability between datasets**. They are often used within metadata fields and can therefore improve both metadata searching and filtering.```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+- Start with a few key concepts from your research question.
+- Consider synonyms and alternative terms.
+- Exact phrases can improve precision.
+- Apply controlled vocabularies where useful and appropriate.
+- Expect to refine your search as you learn more about the available data.
+</section>
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-69989fc2600f2.png` | Susan's head in a square frame. Susan explains | Susan explains | U |
+
+## Hinweise und Korrekturvorschläge
+
+- **Personas:** Die erste Frage des Unterkapitels wurde mit `@AnitaH` umgesetzt. Weitere Fragen verwenden `@Anita`. Sämtliche Erklärungen wurden `@Susan_` zugeordnet.
+- **Bilder:** Die Persona-Bilder werden ausschließlich über die Makros dargestellt.
+- **Lizenz:** Beide Bilder besitzen in den Quelldaten die Lizenzangabe `U`.
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturen:** Keine vorgenommen.
+- **Unklare Zuordnungen:** Keine.
+- **Quizzes:** Keine.
+
