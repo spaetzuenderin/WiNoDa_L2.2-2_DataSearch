@@ -1332,3 +1332,92 @@ Starting with a repository registry helps Kai gain an overview of the available 
 | Dateiname | Alt-Text | Caption | Lizenz |
 |---|---|---|---|
 | `images/file-69eb20b57cd8d.PNG` | Kai standing under a green magnifying glass | Image unbenannt | U |
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 1.4.4 Quiz: Data sources
+license: CC BY 4.0
+-->
+
+### 1.4.4 Quiz: Data sources
+
+![Anita standing under a green question mark](images/file-699897ee8561b.PNG "Image unbenannt")
+
+<!-- Image license: U -->
+
+<!-- Quiz: 04_005_0887_Single-Choice-Set -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+
+{{1}}
+<section>
+
+**Which of the following is a common source for finding research data?**
+
+[(X)] Repository
+
+[( )] Textbook
+
+[( )] Social media profile
+
+</section>
+
+{{2}}
+<section>
+
+**What is the role of an aggregator?**
+
+[(X)] Collect metadata from multiple sources and support discovery
+
+[( )] Replace repositories
+
+[( )] Assign DOIs to every dataset
+
+</section>
+
+{{3}}
+<section>
+
+**Why is it often useful to search multiple sources?**
+
+[(X)] Because different sources may contain different datasets
+
+[( )] Because repositories can store only one dataset at a time
+
+[( )] Aggregators are always incomplete
+
+</section>
+
+{{4}}
+<section>
+
+**Research data can only be found in repositories.**
+
+[( )] True
+
+[(X)] False
+
+</section>
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:** Keine offensichtlichen Tipp- oder Grammatikfehler festgestellt.
+- **Persona-Zuordnung:** Anita ist durch das Bild eindeutig zugeordnet. Die Quizfragen sind nicht als Persona-Text gekennzeichnet. Daher keine Persona-Makros.
+- **Quizformat:** Single Choice Set mit vier Fragen; alle Fragen wurden in der vorgegebenen Reihenfolge übernommen.
+- **Randomisierung:** Nicht übernommen. Die Quelle enthält keine explizite Konfiguration zur zufälligen Antwortreihenfolge.
+- **Feedback:** Keine individuellen Feedbacktexte und kein Gesamtfeedback in der Quelle vorhanden.
+- **Hinweise:** Keine Tipps in der Quelle vorhanden.
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | Image unbenannt | U |
