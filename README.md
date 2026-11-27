@@ -4545,3 +4545,125 @@ These connections allow researchers to discover related resources that might not
 - **Keine Platzhalter** erkannt.
 - **Keine Korrekturvorschläge.**
 
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+comment: Chapter 5.5 Quiz – Persistent Identifiers (PIDs)
+license: CC BY 4.0
+-->
+
+# 5.5 Quiz
+
+![Anita standing under a green question mark](images/file-699897ee8561b.PNG "[ALT-TEXT FEHLT]")
+<!-- Lizenz: U -->
+
+<section>
+
+<!-- question 1: WiNoDa_03_004_0683a_Multiple-Choice_1 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+**You find a publication relevant to your current research.**
+
+The article provides a dataset DOI.
+
+**What is your best search strategy for finding the referenced dataset?**
+
+<!--
+data-randomize
+data-text-solved="Correct. A DOI is a unique and persistent identifier. Searching for it directly is the most precise way to locate the referenced dataset and any associated metadata."
+data-text-failed="Search for keywords from the dataset title instead: Keyword searches may retrieve multiple similar datasets or miss the dataset entirely if different terminology is used. The DOI provides a direct route to the exact dataset. | Search for \"Bronze Age barley\" in several repositories: This may retrieve relevant datasets, but it is less precise than using the DOI, which uniquely identifies the referenced dataset. | Search for the author's ORCID profile first: An ORCID profile may lead to datasets associated with the researcher, but the DOI already provides a direct link to the specific dataset cited in the publication."
+-->
+
+[(X)] Search the DOI directly in a repository or aggregator.
+
+[( )] Search for keywords from the dataset title instead.
+
+[( )] Search for "Bronze Age barley" in several repositories.
+
+[( )] Search for the author's ORCID profile first.
+
+</section>
+
+     {{2-3}}
+<section>
+
+<!-- question 2: WiNoDa_03_004_0683a_Multiple-Choice_2 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+**You want to find all research outputs associated with a particular researcher.**
+
+**Which identifier is most useful?**
+
+<!--
+data-randomize
+data-text-solved="Correct. An ORCID identifies an individual researcher. Many repositories and research infrastructures link publications, datasets, software, and other outputs to ORCID profiles, making them a useful starting point for discovering a researcher's work."
+data-text-failed="DOI: A DOI identifies a specific research output, such as a dataset or publication. It is useful for finding a particular resource, but not for discovering all outputs associated with a researcher. | ISBN: An ISBN identifies a specific book or book edition. It does not provide an overview of all outputs created by a particular researcher. | URL: A URL identifies the location of a web page. It is not designed to uniquely identify a researcher across different systems and infrastructures."
+-->
+
+[( )] DOI
+
+[(X)] ORCID
+
+[( )] ISBN
+
+[( )] URL
+
+</section>
+
+     {{3-4}}
+<section>
+
+<!-- question 3: WiNoDa_03_004_0683a_Multiple-Choice_3 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+**You have found a dataset DOI.**
+
+**Which additional resources might be connected through persistent identifiers?**
+
+*(Select all that apply.)*
+
+<!--
+data-randomize
+data-text-solved="Publications: Datasets are often linked to publications that describe, analyse, or cite the data. Persistent identifiers help establish these connections. | Researchers: Datasets may be linked to researchers through identifiers such as ORCID, making it easier to discover related outputs and contributors. | Repositories: Repository records often include persistent identifiers and may link datasets to the infrastructures where they are stored and managed. | Excavation records: Archaeological datasets may be linked to excavation archives, field documentation, object records, or related project information through persistent identifiers."
+data-text-failed="Unpublished personal notes stored on a researcher's computer: Persistent identifiers can only connect resources that have been described, registered, or made available through a repository, infrastructure, or other managed system. Private files stored locally are usually not part of these networks. | Any website mentioning the dataset title: Persistent identifiers connect specific registered resources. A website may mention a dataset without being linked to it through persistent identifiers or recognised metadata relationships."
+-->
+
+[[X]] Publications
+
+[[X]] Researchers
+
+[[X]] Repositories
+
+[[X]] Excavation records
+
+[[ ]] Unpublished personal notes stored on a researcher's computer
+
+[[ ]] Any website mentioning the dataset title
+
+***
+[TEXT UNVOLLSTÄNDIG IN QUELLE]
+
+Persistent identifiers help create links between many different types of research outputs, people, organisations, collections, and infrastructures. These connections allow researchers to discover related resources that might not be found through keyword s
+***
+
+</section>
+
+---
+
+## Bilderverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699897ee8561b.PNG` | An image of Anita standing under a green question mark | [ALT-TEXT FEHLT] | U |
+
+## Hinweise und Korrekturvorschläge
+
+1. **Fehlende Caption:** Für das Bild ist kein `title`-Feld vorhanden. Daher wurde keine Caption ergänzt.
+2. **Fehlender Alt-Text:** Das Bild besitzt einen Alt-Text, aber kein Caption-Feld. Der vorhandene Alt-Text lautet: `Anita standing under a green question mark`.
+3. **Unvollständiger Text:** Das Gesamtfeedback der dritten Frage endet in der Quelle mitten im Wort („s“). Es wurde nicht ergänzt.
+4. **Randomisierung:** Bei allen drei Fragen wurde `data-randomize` übernommen, da `randomAnswers: true` in H5P eingestellt ist.
+5. **Korrekturen:** Keine sprachlichen Korrekturen vorgenommen.
+6. **Persona-Zuordnung:** Keine Persona-Makros erforderlich, da die Quizfragen nicht als Persona-Texte gekennzeichnet sind.
+7. **Metadaten:** Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 angegeben. Die Bildlizenz bleibt entsprechend der Quelle `U`.
