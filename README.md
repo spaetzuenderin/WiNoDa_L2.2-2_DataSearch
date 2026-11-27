@@ -730,3 +730,150 @@ Thus, they form an essential part of the infrastructure that enables effective r
 - Unklare Zuordnungen: keine.
 - Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte oder Korrekturvorschläge erkannt.
 
+
+
+### 1.2.4 Quiz: Repositories and aggregator benefits
+
+![Anita standing under a green question mark](images/file-699897ee8561b.PNG "Image unbenannt")
+
+<!-- Bildlizenz: U (nicht näher angegeben) -->
+
+<section>
+
+<!-- question 1: WiNoDa_04_004_0864a_Single-Choice-Set -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+
+{{1-2}}
+
+**A researcher deposits a dataset and receives a DOI.**
+
+[(X)] Repository
+
+[( )] Aggregator
+
+[( )] both
+
+</section>
+
+<section>
+
+<!-- question 2: WiNoDa_04_004_0864a_Single-Choice-Set -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+
+{{2-3}}
+
+**A user searches millions of biodiversity records from hundreds of institutions through one portal.**
+
+[(X)] Aggregator
+
+[( )] Repository
+
+[( )] both
+
+</section>
+
+<section>
+
+<!-- question 3: WiNoDa_04_004_0864a_Single-Choice-Set -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+
+{{3-4}}
+
+**Metadata are harvested from many collections.**
+
+[(X)] Aggregator
+
+[( )] Repository
+
+[( )] both
+
+</section>
+
+<section>
+
+<!-- question 4: WiNoDa_04_004_0864a_Single-Choice-Set -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+
+{{4-5}}
+
+**Data are preserved for long-term access.**
+
+[(X)] Repository
+
+[( )] Aggregator
+
+[( )] both
+
+</section>
+
+<section>
+
+<!-- question 5: WiNoDa_04_004_0864a_Single-Choice-Set -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+
+{{5-6}}
+
+**A dataset becomes easier for researchers worldwide to discover.**
+
+[(X)] both
+
+[( )] Repository
+
+[( )] Aggregator
+
+</section>
+
+<section>
+
+<!-- question 6: WiNoDa_04_004_0864a_Single-Choice-Set -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Single Choice Set -->
+
+{{6}}
+
+**FAIR data practices are supported.**
+
+[(X)] both
+
+[( )] Repository
+
+[( )] Aggregator
+
+</section>
+
+### Bilder
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | Image unbenannt | U (nicht näher angegeben) |
+
+### Hinweise
+
+- Platzhalter: author, version, language-unabhängige Header-Felder email, narrator, comment und logo sowie die Lizenzangabe zum Bild sind in der Quelle nicht angegeben. „U“ wurde als nicht näher angegebene Lizenz übernommen.
+- Unklare Quiz-Zuordnung: Die Quelle enthält keinen separaten Titel oder Feedback pro Frage; der gemeinsame Quiz-Titel und die gemeinsamen Metadaten wurden für alle sechs Fragen verwendet.
+- Randomisierung: `data-randomize` wurde ausgelassen, da die Quelle keine Randomisierung angibt.
+- Die vorliegende Quelle enthält keine Angaben zu weiteren Kapitelüberschriften oder Korrekturvorschlägen.
+
+
+
+
+
+## 1.3 Types of repositories and aggregators
+
+@AnitaH(```Are there different types of repositories or aggregators?```)
+
+@Winnie_(```<p>Yes.</p><p><strong>Repositories and aggregators differ in their scope, purpose, and the communities they serve.</strong></p><p>This diversity reflects the different needs of research communities. A biodiversity researcher may require specialised standards and search functions that differ from those needed in archaeology or museum documentation. At the same time, researchers often need to discover data beyond their own discipline.</p>```)
+
+### Bilder
+
+Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht separat eingebunden.
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U (nicht näher angegeben) |
+| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U (nicht näher angegeben) |
+
+### Hinweise
+
+- Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Lizenz des Kurses wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
+- Die Bildlizenzen sind in der Quelle mit „U“ angegeben und daher nicht näher bestimmbar.
+- Keine offensichtlichen Tippfehler oder unklaren Persona-Zuordnungen erkannt.
