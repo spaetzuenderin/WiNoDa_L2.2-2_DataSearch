@@ -1962,163 +1962,26 @@ To search through millions of occurrence records, including historical collectio
 
 
 
-
-
-
-
-
-
 # 3 - Where to find Open Data
+![Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries.](images/2_Coffee-Round_Dave.png)
+@DaveH(```Where can I search specifically for Open Research Data?```)
 
-@AnitaH(```Where can I search specifically for Open Research Data?```)
-
-@Winnie_(```According to the **Open Definition** (https://opendefinition.org/), “Open data and content can be **freely used, modified, and shared** by **anyone** for **any purpose**.” In practice, this means that research data must be in the public domain or available under an open licence, machine-readable, provided in an open format, and free to download.
-
+@Winnie_(```<p>According to the **Open Definition** [https://opendefinition.org](https://opendefinition.org/), “Open data and content can be **freely used, modified, and shared** by **anyone** for **any purpose**.” 
+</p>
+<p>
+In practice, this means that research data must be in the public domain or available under an open licence, machine-readable, provided in an open format, and free to download.
+</p>
+<p>
 Thus, whether data is open depends largely on its licence, file format, and any paywalls—not on where it is stored. Open data therefore does not usually reside in a separate infrastructure, even though some repositories focus on open science and open access, while others host a mix of open and restricted resources.
-
+</p>
+<p>
 You can find open data through many of the same repositories, aggregators, and portals used to search for research data more generally. These services often let you narrow your search to openly accessible datasets using filters for access rights, licences, or data availability.
-
-Why don't we give it a go?```)
-
----
-
-## Hinweise und Korrekturvorschläge
-
-### Platzhalter
-- Keine Platzhalter vorhanden.
-
-### Bilder
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
-| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-
-### Korrekturvorschläge
-- Keine eindeutigen Rechtschreib- oder Grammatikfehler festgestellt.
-
-### Unklare Zuordnungen
-- Die Frage wurde aufgrund des H5P-Titels `Anita Question` dem Makro `@AnitaH` zugeordnet.
-- Die Erklärung wurde aufgrund des H5P-Titels `Winnie Answer / Explanation` dem Makro `@Winnie_` zugeordnet.
-- Die Kapitelnummerierung `3 -` wurde unverändert übernommen.
-
-### Quizzes
-- Keine Quizfragen vorhanden.
-- Keine Randomisierung erforderlich.
+</p>
+<p>
+Why don't we give it a go?</p>```)
 
 
-
-<!--
-author:
-email:
-version: 1.0
-language: en
-narrator:
-comment: 3 - Where to find Open Data
-license: CC BY 4.0
--->
-
-# 3 - Where to find Open Data
-
-@AnitaH(```Where can I search specifically for Open Research Data?```)
-
-@Winnie_(```According to the **Open Definition** (https://opendefinition.org/), “Open data and content can be **freely used, modified, and shared** by **anyone** for **any purpose**.” In practice, this means that research data must be in the public domain or available under an open licence, machine-readable, provided in an open format, and free to download.
-
-Thus, whether data is open depends largely on its licence, file format, and any paywalls—not on where it is stored. Open data therefore does not usually reside in a separate infrastructure, even though some repositories focus on open science and open access, while others host a mix of open and restricted resources.
-
-You can find open data through many of the same repositories, aggregators, and portals used to search for research data more generally. These services often let you narrow your search to openly accessible datasets using filters for access rights, licences, or data availability.
-
-Why don't we give it a go?```)
-
----
-
-## Hinweise und Korrekturvorschläge
-
-### Platzhalter
-- Keine Platzhalter vorhanden.
-
-### Bilder
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
-| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-
-### Korrekturvorschläge
-- Keine eindeutigen Rechtschreib- oder Grammatikfehler festgestellt.
-
-### Unklare Zuordnungen
-- Die Frage wurde aufgrund des H5P-Titels `Anita Question` dem Makro `@AnitaH` zugeordnet.
-- Die Erklärung wurde aufgrund des H5P-Titels `Winnie Answer / Explanation` dem Makro `@Winnie_` zugeordnet.
-- Die Kapitelnummerierung `3 -` wurde unverändert übernommen.
-
-### Quizzes
-- Keine Quizfragen vorhanden.
-- Keine Randomisierung erforderlich.
-
-
-<!--
-author: [NICHT ANGEGEBEN]
-email:
-version: 1.0
-language: en
-narrator:
-comment: 3.1 Exercise: Finding Open Research Data
-logo:
-license: CC BY 4.0
--->
-
-# 3.1 Exercise: Finding Open Research Data
-
-@Winnie_(```
-**Exercise: Finding Open Research Data**
-
-In the following tasks, you will work with **three short research scenarios from different disciplines**.
-
-Each scenario shows a researcher trying to find or evaluate research data for reuse.
-
-For each case, select the options that best describe how the researcher can identify **open and reusable data**.
-
-There may be more than one correct answer per question.
-
-**Feel free to open the respective search portals in a separate browser window to evaluate the available options.**
-```)
-
----
-
-## Bilderverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-6a4cd927559a8.png` | Winnie standing | Winnie | U |
-
-**Hinweis zum Bild:** Das Originalbild ist ebenfalls unter `images/file-6a4cd90b769f6.png#tmp` referenziert. Im Kurs wird der im H5P-Bildfeld angegebene Dateipfad verwendet.
-
----
-
-## Hinweisliste
-
-1. **Metadaten:** Autor, E-Mail, Version der Originaldatei, Narrator und Logo waren nicht angegeben.
-2. **Persona-Zuordnung:** Die Überschrift „Exercise: Finding Open Research Data“ und der gesamte Einführungstext wurden Winnie zugeordnet (`@Winnie_`). Es handelt sich um eine Einführung bzw. Erklärung, nicht um eine explizite Frage.
-3. **Bild:** Das Persona-Bild wird entsprechend der Vorgabe nicht separat eingebunden.
-4. **Quiz:** In diesem Kapitel sind noch keine konkreten Quizfragen enthalten. Die angekündigten drei Forschungsszenarien fehlen im übermittelten Kapitel.
-5. **Randomisierung:** Nicht relevant.
-6. **Platzhalter / unvollständige Texte:** Keine festgestellt.
-
-
-
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-email:
-version: 1.0
-language: en
-narrator:
-comment: 2.3.2 Scenario 1: Archaeology
-logo:
-license: CC BY 4.0
--->
-
-# 2.3.2 Scenario 1: Archaeology
+## 3.2 Scenario 1: Open Archaeology Data
 
 <section>
 
