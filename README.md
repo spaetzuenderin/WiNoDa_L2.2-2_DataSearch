@@ -2036,6 +2036,8 @@ Anita is searching the ARIADNE Portal
 >>[https://portal.ariadne-infrastructure.eu](https://portal.ariadne-infrastructure.eu)
 for archaeobotanical datasets that she can reuse in her PhD project.
 
+![Screenshot ARIADNE search](images/Screenshot_ARIADNE.jpg)
+
 </div>
 </div>
 
@@ -2045,9 +2047,7 @@ for archaeobotanical datasets that she can reuse in her PhD project.
 
 <h3>Which information should she check to determine whether a dataset is openly available and reusable?</h3>
 
-*(Select all that apply.)*
-
-![Screenshot ARIADNE search](images/image-7EagVg9D.png "Untitled Image")
+**Select all that apply.**
 
 <!--
 data-randomize
@@ -2066,51 +2066,13 @@ data-text-failed="Use citation counts to decide reuse rights: Incorrect. Citatio
 [[ ]] Check **country** where the data were created
 
 [[ ]] Use **date of publication** to estimate data openness
-
 ***
-Open data are not always identified through a dedicated search filter. Portals such as ARIADNE aggregate metadata from multiple sources. To confirm reusability, users must check access conditions and licences in the dataset record and the original reposit[TEXT UNVOLLSTÄNDIG IN QUELLE]
+Open data are not always identified through a dedicated search filter. Portals such as ARIADNE aggregate metadata from multiple sources. To confirm reusability, users must check access conditions and licences in the dataset record and the original repository
 ***
 
 </div>
 
 
----
-
-## Bilderverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | [Caption nicht angegeben] | U |
-| `images/image-7EagVg9D.png` | Screenshot ARIADNE search | Untitled Image | U |
-
----
-
-## Hinweisliste
-
-1. **Metadaten:** E-Mail, Version, Narrator und Logo waren nicht angegeben. Die Autorenangabe stammt aus den H5P-Metadaten des Quiz.
-2. **Persona-Zuordnung:** Die Frage wurde Anita mit `@AnitaH` zugeordnet.
-3. **Quiztyp:** Multiple Choice mit drei richtigen und drei falschen Antworten.
-4. **Randomisierung:** `data-randomize` übernommen, da H5P `randomAnswers: true` vorgibt und die Antwortreihenfolge beliebig ist.
-5. **Feedback:** Individuelles Feedback der sechs Antwortoptionen wurde vollständig übernommen.
-6. **Gesamtfeedback:** Der Text ist in der Quelle nach „reposit“ abgeschnitten. Er wurde nicht ergänzt.
-7. **Quiz-Titel:** `01_008_0149_Multiple-Choice_2` wurde als Kommentar übernommen.
-8. **Bild:** Das Anita-Persona-Bild wird durch `@AnitaH` repräsentiert und nicht separat eingebunden.
-9. **Korrekturvorschläge:** Keine eigenständigen Korrekturen vorgenommen.
-10. **Platzhalter:** Keine festgestellt.
-11. **Unklare Zuordnungen:** Das Bild „Screenshot ARIADNE search“ gehört zum Quiz und wurde unmittelbar unter der Frage platziert.
-
-
-
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-email:
-version: 1.0
-language: en
-narrator:
-comment: Converted from H5P Portfolio chapter 2.3.3
-logo:
-license: CC BY 4.0
--->
 
 # 2.3.3 Scenario 2: Biodiversity
 
