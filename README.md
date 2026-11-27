@@ -324,20 +324,48 @@ Different organisations operate repositories and aggregators and may define diff
 </section>
 
 ### 1.1.4 Quiz: Repositories and aggregators
+<!---
 
-<section>
+style
+
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+--->
+
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+<div style="flex: 0 0 30%; min-width: 0;">
+
+![Winnie standing under a large question mark](images/Quiz-Winnie.PNG)<!--
+
+width="100%"-->
+
+</div>
+
+<div class="persona--winnie">
+
+Let's repeat what we have learned.<br>
+Klick the arrows on the green button to proceed.
+
+</div>
+</div>
 
 {{1-2}}
+<section>
 
-<!-- question 1: WiNoDa_04_004_0863a_Multiple-Choice_1 -->
-<!-- contentType: Multiple Choice | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 -->
+<!--- question 1: WiNoDa_04_004_0863a_Multiple-Choice_1 
+ contentType: Multiple Choice | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 --->
 
 **Which statement best describes an aggregator?**
 
 <!--
 data-randomize
 data-text-solved="Correct!"
-data-text-failed="Aggregators each store the original research data from a single institution.: This describes a repository, which stores and manages research data rather than aggregating information from multiple sources. | Aggregators assign licences to research data.: Although an aggregator may display licence information, licences are typically assigned by the data provider or repository. | Aggregators replace repositories by storing all research data centrally.: Aggregators usually do not store the original data but help users discover data that remain in repositories or other source systems."
+data-text-failed="Incorrect. Aggregators do not necessarily store original research data, assign licences, or replace repositories. Original data remain with the respective data providers or repositories, which manage and provide access to them."
 -->
 [( )] Aggregators each store the original research data from a single institution.
 
@@ -347,22 +375,23 @@ data-text-failed="Aggregators each store the original research data from a singl
 
 [( )] Aggregators replace repositories by storing all research data centrally.
 
+
 </section>
 
+{{2-3}}
 <section>
 
-{{2-3}}
-
-<!-- question 2: WiNoDa_04_004_0863a_Multiple-Choice_2 -->
-<!-- contentType: Multiple Choice | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 -->
+<!--- question 2: WiNoDa_04_004_0863a_Multiple-Choice_2 
+ contentType: Multiple Choice | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 --->
 
 **Which statement best describes a repository?**
 
 <!--
 data-randomize
 data-text-solved="Correct!"
-data-text-failed="Repositories are a hub for metadata and provide a central search interface.: This describes an aggregator, which helps users discover data from multiple sources rather than storing the data itself. | Repositories only store scientific publications but no actual datasets.: Repositories can store many types of research outputs, including datasets, images, specimen [TEXT UNVOLLSTÄNDIG IN QUELLE] | Repositories automatically make all research data openly accessible without restrictions.: Repositories may provide open or restricted access depending on legal, ethical, institutional, or disciplinary requirements."
+data-text-failed="Incorrect. Repositories are not merely metadata hubs or central search interfaces (this describes aggregators). Repositories can store various types of research outputs, including datasets and publications, and access may be open or restricted depending on legal, ethical, institutional, or disciplinary requirements."
 -->
+
 [( )] Repositories are a hub for metadata and provide a central search interface.
 
 [(X)] Repositories store, manage, and provide access to research data and related metadata.
@@ -373,10 +402,9 @@ data-text-failed="Repositories are a hub for metadata and provide a central sear
 
 </section>
 
-<section>
 
 {{3-4}}
-
+<section>
 <!-- question 3: WiNoDa_04_004_0863a_Multiple-Choice_3 -->
 <!-- contentType: Multiple Choice | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 -->
 
@@ -385,7 +413,7 @@ data-text-failed="Repositories are a hub for metadata and provide a central sear
 <!--
 data-randomize
 data-text-solved="Correct!"
-data-text-failed="Any researcher who uses the repository or aggregator.: Users can search for and reuse data, but decisions about curation, maintenance, and access are made by the organisation operating the platform. | The software provider that developed the platform.: The software provider may supply the technical infrastructure, but policies for data management and access are set by the organisation running the repository or aggregator. | No one, because all repositories and aggregators must provide unrestricted access to all data.: Access conditions are determined by the operating organisation and may be open, restricted, or require special permission depending on legal, ethical, or disciplinary requirements."
+data-text-failed="Incorrect. The organisation operating the repository or aggregator is responsible for setting policies and making decisions about data curation, maintenance, and access. Researchers using the platform can search for and reuse data, while software providers may supply the technical infrastructure. Access conditions are also determined by the operating organisation and may be open, restricted, or require special permission depending on legal, ethical, or disciplinary requirements."
 -->
 [(X)] The organisation that operates the repository or aggregator.
 
@@ -396,23 +424,6 @@ data-text-failed="Any researcher who uses the repository or aggregator.: Users c
 [( )] No one, because all repositories and aggregators must provide unrestricted access to all data.
 
 </section>
-
-### Bilder
-
-- Dateiname: `images/file-699897ee8561b.PNG`
-  - Alt-Text: Anita standing under a green question mark
-  - Caption: Image unbenannt
-  - Lizenz: U
-
-### Hinweise
-
-- **Metadaten fehlen im übermittelten Kapitel:** Version, narrator, comment und logo sind nicht angegeben.
-- **Unvollständiger Text:** Feedback zu „Repositories only store scientific publications but no actual datasets.“ endet in der Quelle nach „specimen“.
-- **Randomisierung ausgelassen:** keine; die Antwortoptionen sind in allen drei Fragen randomisiert, wie in der Quelle angegeben.
-- **Bildzuordnung:** Das Bild ist dem „Anita Quiz“-Platzhalter zugeordnet. Es wurde nicht als separates Kursbild eingesetzt.
-- **Korrekturvorschläge:** keine eindeutigen Rechtschreib- oder Grammatikfehler erkannt.
-
-
 
 # 1.2 Benefits of repository and aggregators
 
