@@ -1662,3 +1662,175 @@ tDAR provides access to a broad range of archaeological research outputs. It is 
 - Keine Quizfragen in diesem Kapitel.
 - Keine Randomisierungsentscheidungen erforderlich.
 - Die Persona-Bilder werden über die Makros eingebunden.
+
+
+<!--
+author: 
+email: 
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 2.1.2 Aggregators
+logo: 
+license: CC BY 4.0
+-->
+
+# 2.1.2 Aggregators
+
+@AnitaH(```Which archaeological aggregator portals are useful for my data research?```)
+
+@Winnie_(```The following archaeological aggregator portals and cross-disciplinary research infrastructures provide access to archaeological, cultural heritage, biodiversity and scientific collection data.```)
+
+<details>
+<summary>AGNES - Dutch archaeological ressources</summary>
+
+**URL:** http://agnessearch.nl
+
+**What you can find:** Archaeological resources from multiple providers.
+
+**Why is it useful?**
+
+AGNES allows users to search across several archaeological resources through a single interface. It can help identify datasets and repositories that might otherwise remain difficult to discover.
+
+</details>
+
+<details>
+<summary>ARIADNE Portal - European archaeological ressources</summary>
+
+**URL:** https://portal.ariadne-infrastructure.eu
+
+**What you can find:** Archaeological datasets, collections, and documentation from many institutions and countries.
+
+**Why is it useful?**
+
+ARIADNE is one of the most important discovery services for archaeology. It enables cross-institutional and international searches and provides access to resources that are distributed across many repositories.
+
+</details>
+
+<details>
+<summary>Digger - German search engine for archaeological content</summary>
+
+**URL:** https://www.archaeologie-online.de/recherche/digger/
+
+**What you can find:** Archaeological databases and information resources.
+
+**Why is it useful?**
+
+Digger serves as a convenient entry point to a variety of archaeological information sources. It can be useful when exploring available databases and discovery services.
+
+(German only)
+
+</details>
+
+<details>
+<summary>Europeana - European cultural heritage ressources</summary>
+
+**URL:** https://www.europeana.eu
+
+**What you can find:** Digitised cultural heritage objects, images, texts, audio-visual materials, and metadata from thousands of European institutions.
+
+**Why is it useful?**
+
+Europeana provides a single access point to a vast range of cultural heritage resources. It is particularly useful when archaeological research overlaps with museum collections, archives, libraries, or broader heritage contexts.
+
+</details>
+
+<details>
+<summary>NAHAN (North African Heritage Archives Network) - Frenche portal for cultural-heritage ressources</summary>
+
+**URL:** https://nahan.huma-num.fr/
+
+**What you can find:** Archaeological and heritage-related resources from multiple infrastructures.
+
+**Why is it useful?**
+
+NAHAN connects resources from different providers and infrastructures. It helps users discover data beyond individual repositories and national boundaries.
+
+</details>
+
+<details>
+<summary>GBIF (Global Biodiversity Information Facility)</summary>
+
+**URL:** https://www.gbif.org/
+
+**What you can find:** Global occurrence data and taxa of organisms from various sources (museums, university collections, citizen science projects).
+
+**Why is it useful?**
+
+GBIF is the world’s largest infrastructure for biodiversity data, allowing users to search millions of datasets through a single interface.
+
+</details>
+
+<details>
+<summary>DiSSCo (Distributed System of Scientific Collections)</summary>
+
+**URL:** https://www.dissco.eu/
+
+**What you can find:** Information on physical scientific collection objects (specimens) held in European natural history museums and institutions.
+
+**Why is it useful?**
+
+The DiSSCo infrastructure brings together data from European natural history collections and focuses on specimen-specific data. This makes it easier to locate specific specimens, and such data is often accompanied by images.
+
+</details>
+
+<details>
+<summary>PBDB (Paleobiology Database)</summary>
+
+**URL:** https://paleobiodb.org/
+
+**What you can find:** Fossil occurrence data, including taxonomic attributions, stratigraphic ages, and paleogeographic coordinates.
+
+**Why is it useful?**
+
+The Paleobiology Database (PBDB) is the global standard for paleontological research, offering specialised fields for geological time and reconstructed ancient coordinates that general biodiversity portals do not provide.
+
+</details>
+
+<details>
+<summary>GFBio Data Search (German Federation for Biological Data)</summary>
+
+**URL:** https://search.gfbio.org/
+
+**What you can find:** Data from the GFBio Data centers offering a wide range including plant, nucleotide and environmental data.
+
+**Why is it useful?**
+
+GFBio Data Search acts as a central search portal for the German biodiversity community, allowing users to search across distributed repositories through a single interface, while providing guidance on data standards and recommending suitable archives for data publication.
+
+</details>
+
+<details>
+<summary>LAND (Lebendiger Atlas der Natur Deutschlands)</summary>
+
+**URL:** https://lebendiger-atlas.de/
+
+**What you can find:** LAND is a national biodiversity portal that provides data on species occurrence in Germany for researchers, nature conservation authorities and the general public alike.
+
+**Why is it useful?**
+
+The data is compiled from open sources such as monitoring programmes, citizen science projects, museums, etc. The datasets are continuously improved in collaboration with the community.
+
+</details>
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+## Hinweise und Korrekturvorschläge
+
+- **Schreibfehler im Original (unverändert übernommen):**
+  - "ressources" in AGNES, ARIADNE und Europeana.
+  - "Frenche" in NAHAN.
+- **Unvollständige bzw. fehlerhafte Formatierung:** Die Schreibweise "What you can fin d" bei PBDB wurde als "What you can find" zusammengeführt.
+- **Fehlerhafte Formatierung:** "What you can fi nd" bei LAND wurde als "What you can find" zusammengeführt.
+- **Leeres Textfeld:** Der letzte Accordion-Eintrag enthält keinen Text und wurde nicht übernommen.
+- **Persona-Zuordnung:** Die Frage wurde @AnitaH zugeordnet, die Erklärung @Winnie_.
+- **Quizze:** Keine Quiz-Inhalte vorhanden.
+- **Randomisierung:** Nicht zutreffend.
+- **Platzhalter:** Keine.
