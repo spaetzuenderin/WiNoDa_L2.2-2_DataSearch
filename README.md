@@ -3385,3 +3385,85 @@ If you would like to learn more about proximity operators, many tutorials and gu
 - **Fehlende Alt-Texte:** Keine.
 - **Unvollständige Texte:** Keine.
 - **Unklare Stilzuordnungen:** Keine weiteren.
+
+
+
+<!--
+author: 
+email: 
+version: 1.0
+language: en-GB
+narrator: 
+comment: Chapter 4.3 – Metadata searches and filters
+logo: 
+license: CC BY 4.0
+-->
+
+# 4.3 Metadata searches and filters
+
+@AnitaH(```What is a metadata search?```)
+
+@Susan_(```
+**Research data are often described using metadata rather than long texts.** Therefore, many repositories and aggregators allow users to search not only across all searchable text but also explicitly within specific metadata fields.
+
+A **metadata search targets specific descriptive fields** such as:
+- creator,
+- institution,
+- location,
+- time period,
+- subject,
+- resource type,
+- licence.
+
+Metadata searches are often more precise because they focus on structured information rather than all searchable text.
+
+**Metadata can be used in two ways:** researchers may search specific metadata fields directly, or they may use **filters based on metadata values**.
+
+**Common filters include:**
+- date or time period,
+- geographic region,
+- resource type,
+- subject,
+- language,
+- institution,
+- licence,
+- access conditions.
+
+Filters are often one of the most effective ways to improve search results. But because filters are usually based on metadata fields, their **effectiveness depends on the quality and consistency of the underlying metadata.**
+```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+- Keyword searches are useful for exploration and discovery.
+- Metadata searches are useful for precision.
+- Combining both approaches often produces the best results.
+- Filters help reduce irrelevant results.
+- They are often more efficient than adding many search terms.
+- Common filters include time, place, resource type, and subject.
+- Filters work best when metadata are well structured.
+</section>
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-69989fc2600f2.png` | Susan's head in a square frame. Susan explains | Susan explains | U |
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine erkennbar.
+- **Korrekturvorschläge:** Keine offensichtlichen Rechtschreib- oder Grammatikfehler festgestellt.
+- **Unklare Persona-Zuordnungen:** Keine. Anita stellt die Frage, Susan gibt die Erklärung.
+- **Quizze:** In diesem Kapitel sind keine Quiz-Inhalte enthalten.
+- **Randomisierung:** Nicht relevant.
+- **Lizenz:** Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 eingetragen. Die Bildlizenzen wurden unverändert aus der Quelle übernommen.
