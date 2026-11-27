@@ -4407,3 +4407,53 @@ license: CC BY 4.0
   - "Benefit" wurde als lokale Zwischenüberschrift umgesetzt.
 - **Quiz-Randomisierung:** Nicht zutreffend.
 - **Bildlizenzen:** Die Bildlizenz ist im Export mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0
+language: en
+narrator: UK English Female
+comment: 5.3.2 Example 2: ORCID
+license: CC BY 4.0
+-->
+
+### 5.3.2 Example 2: ORCID
+
+Example 2: Searching with ORCID
+
+Many repositories and research infrastructures connect datasets and publications to researchers through **ORCID** identifiers. As a result, **datasets, publications, and other research outputs** can often be discovered through a **researcher's ORCID profile**.
+
+![Susan standing under a green magnifying glass](images/file-69eb2086bf569.PNG "Image unbenannt")
+
+Susan discovers a researcher who has published extensively on *Sympetrum striolatum* occurrences in Eastern Europe.
+
+She **searches the researcher's ORCID profile** and finds:
+
+- datasets
+- publications
+- project outputs
+- linked repositories
+
+**Benefit**
+
+- discovery of outputs associated with a specific researcher
+- exploration of research networks and collaborations
+- reliably exclusion of search results for works by researchers with similar or identical names
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-69eb2086bf569.PNG` | Susan standing under a green magnifying glass | Image unbenannt | U (unbekannt) |
+
+## Hinweisliste
+
+- **Lizenz:** Die Bildlizenz ist im Export mit `U` angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 übernommen.
+- **Korrekturvorschlag:** „reliably exclusion“ ist grammatikalisch auffällig. Vorschlag: „reliable exclusion“. Der Originaltext wurde unverändert übernommen.
+- **Keine Quizfragen** in diesem Kapitel.
+- **Keine fehlenden Alt-Texte** oder abgeschnittenen Texte.
+- **Keine Platzhalter** erkannt.
+- **Keine unklaren Persona-Zuordnungen.**
