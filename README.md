@@ -1112,38 +1112,35 @@ data-text-failed="Not quite. Research data can be found in many places beyond re
 
 # 2 – Where to find data
 
-![Anita's head in an orange circle. Anita asks](images/file-699888b3b742a.png "Anita")
-
-![Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries.](images/file-6a719c313afe6.png "Image Unbenannt")
-
+![Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries.](images/1_Coffee-Round_Anita.png)
 @AnitaH(```Where do I start my search for research data?```)
 
-![Susan's head in a square frame. Susan explains](images/file-69989fc2600f2.png "Susan explains")
 
-@Susan_(```As we have already seen, you can find research data through many different sources.
-
+@Susan_(```<p>
+As we have already seen, you can find research data through many different sources.
+<p></p>
 You can start with institutional or disciplinary repositories, aggregators, or research portals. Some focus on specific disciplines, while others cover multiple research domains. They may also operate at regional, national, or international levels.
-
+<p></p>
 If you don't yet know the infrastructure for a certain field, you can use an additional source: **repository registries like re3data**. These services do neither store nor aggregate research data. Instead, they help users identify suitable repositories and infrastructures.
-
+<p></p>
 In short:
-
+<p></p>
 **Repository → stores data**
-
+<p></p>
 **Aggregator → helps find data**
-
+<p></p>
 **Repository registry → helps find repositories**
-
+<p></p>
 But there is no universally correct starting point for finding research data.
+<p></p>
+The most effective starting point for you specifically depends on your research question and the type of data you are looking for.</p>```)
 
-The most effective starting point for you specifically depends on your research question and the type of data you are looking for.```)
 
 <!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
 In a Nutshell:
 
 <!-- style="color: #2581C4" -->
 <section>
-
 Effective data searches often combine multiple sources and may start at different points, depending on the research question.
 
 Common starting points for finding research data include:
