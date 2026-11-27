@@ -974,3 +974,144 @@ Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht s
 - Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
 - Bildlizenzen sind in der Quelle mit „U“ angegeben und nicht näher bestimmbar.
 - Keine offensichtlichen Tippfehler oder unklaren Persona- und Stilzuordnungen erkannt.
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 1.3.3 Quiz: Repository types
+license: CC BY 4.0
+-->
+
+### 1.3.3 Quiz: Repository types
+
+![Anita standing under a green question mark](images/file-699897ee8561b.PNG "Image unbenannt")
+
+<!-- Image license: U -->
+
+<!-- Quiz: L2.2_1.3.3_Quiz -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Question Set -->
+
+{{1}}
+<section>
+
+<!-- question 1: WiNoDa_04_004_0862a_Multiple-Choice_1 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+**Why do different types of repositories and aggregators exist?**
+
+<!--
+data-randomize
+data-text-solved="Correct. Different disciplines and communities require different standards, services, and discovery tools."
+data-text-failed="Because every institution wants to use their own branding and metadata.: No. While institutions may have their own branding and metadata practices, this is not the main reason different repository and aggregator types exist.
+Because every country requires its own repository.: No. Repositories and aggregators can operate at local, national, regional, or international levels.
+Because each data type can only be stored in one format, so we need different repositories for each data type.: No. Most repositories can store multiple file formats."
+-->
+
+[(X)] Because research communities have different needs.
+
+[( )] Because every institution wants to use their own branding and metadata.
+
+[( )] Because every country requires its own repository.
+
+[( )] Because each data type can only be stored in one format, so we need different repositories for each data type.
+
+***
+Different research communities have different requirements for managing and discovering data.
+***
+
+</section>
+
+{{2}}
+<section>
+
+<!-- question 2: WiNoDa_04_004_0862a_Multiple-Choice_2 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+**Which statement is correct?**
+
+<!--
+data-randomize
+data-text-solved="Correct — many repositories are maintained by a specific institution while also serving a particular research discipline."
+data-text-failed="Institutional and disciplinary repositories are always different categories.: A repository may be both institutional and disciplinary.
+A repository can only belong to one category.: Repository categories are not mutually exclusive, and a repository may fit more than one category.
+General-purpose repositories are actually aggregators.: General-purpose repositories store and provide access to data, whereas aggregators primarily help users discover data from multiple sources."
+-->
+
+[( )] Institutional and disciplinary repositories are always different categories.
+
+[( )] A repository can only belong to one category.
+
+[(X)] Institutional and disciplinary repositories may overlap.
+
+[( )] General-purpose repositories are actually aggregators.
+
+***
+Repository types are not always distinct categories; understanding that repositories can serve multiple roles helps researchers choose appropriate places to deposit and discover data.
+***
+
+</section>
+
+{{3}}
+<section>
+
+<!-- question 3: WiNoDa_04_004_0862a_Multiple-Choice_3 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+**A museum stores its collection data in its own repository and also contributes metadata to GBIF. Which statement best describes this situation?**
+
+<!--
+data-randomize
+-->
+
+[( )] The museum uses only one repository.
+
+[(X)] The museum uses both an institutional repository and a disciplinary aggregator.
+
+[( )] GBIF stores all original museum data.
+
+[( )] Institutional repositories cannot contribute to aggregators.
+
+</section>
+
+{{4}}
+<section>
+
+<!-- question 4: WiNoDa_04_004_0862a_Drag-the-Words -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the Words -->
+
+Match the examples to the most appropriate category by dropping the words into the correct boxes.
+
+| Example | Category |
+|---|---|
+| *Zenodo* | [[ (General-purpose repository) | Institutional repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
+| *iDAI.repo* | [[ (Institutional repository) | General-purpose repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
+| *PANGAEA* | [[ (Disciplinary repository) | General-purpose repository | Institutional repository | Disciplinary aggregator | Cross-disciplinary aggregator | Thematic aggregator ]] |
+| *GBIF* | [[ (Disciplinary aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Cross-disciplinary aggregator | Thematic aggregator ]] |
+| *OpenAIRE* | [[ (Cross-disciplinary aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Disciplinary aggregator | Thematic aggregator ]] |
+| *Europeana* | [[ (Thematic aggregator) | General-purpose repository | Institutional repository | Disciplinary repository | Disciplinary aggregator | Cross-disciplinary aggregator ]] |
+
+</section>
+
+---
+
+## Hinweisliste
+
+- **Kapitelnummerierung:** Kapitelüberschrift als `###` umgesetzt, entsprechend der vorgegebenen Nummerierung.
+- **Bildlizenz:** Für Anita ist im Quelldatensatz die Lizenz `U` angegeben. Eine genauere Lizenzbezeichnung fehlt.
+- **Quiz 1–3:** Randomisierung übernommen (`randomAnswers: true`).
+- **Quiz 4:** Keine Randomisierung übernommen. Die sechs Zuordnungen sind fest miteinander verknüpft; eine zufällige Reihenfolge der Antwortmöglichkeiten wurde nicht ausdrücklich aus der Quelle vorgegeben.
+- **Quiz 3:** Kein individuelles Feedback und kein Gesamtfeedback in der Quelle vorhanden.
+- **Quiz 4:** Kein Gesamtfeedback in der Quelle vorhanden.
+- **Persona-Zuordnung:** Das Bild zeigt Anita, enthält aber keinen Persona-Fragetext. Daher wurde kein Persona-Makro anstelle eines Fragetextes eingesetzt.
+- **Metadaten:** Die Kurslizenz wurde entsprechend deiner Vorgabe auf CC BY 4.0 gesetzt. Die Quiz-Metadaten wurden separat übernommen.
+- **Korrekturvorschläge:** Keine offensichtlichen Rechtschreib- oder Grammatikfehler festgestellt.
+- **Platzhalter / unvollständige Texte:** Keine festgestellt.
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699897ee8561b.PNG` | Anita standing under a green question mark | Image unbenannt | U |
