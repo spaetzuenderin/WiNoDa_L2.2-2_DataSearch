@@ -1912,3 +1912,115 @@ Propylaeum_IMAGES offers access to image-based resources from various providers.
 - **Unklare Zuordnungen:** Keine.
 - **Quizze:** Keine Quiz-Inhalte vorhanden.
 - **Randomisierung:** Nicht zutreffend.
+
+
+
+
+<!--
+author: 
+email: 
+version: 1.0
+language: English
+narrator: UK English Female
+comment: 2.1.4 Where can I search for collection objects?
+logo: 
+license: CC BY 4.0
+-->
+
+# 2.1.4 Where can I search for collection objects?
+
+@AnitaH(```Where can I search for collection objects?```)
+
+@Winnie_(```
+
+<details>
+<summary>GBIF – Global Biodiversity Information Facility</summary>
+
+**URL:** https://www.gbif.org/occurrence/search
+
+**What you can find:** Occurrence records from natural history collections and biodiversity observations worldwide, including preserved specimens of plants, animals, fungi and other organisms. Many records include collection codes, catalogue numbers, collection dates, geographic coordinates and links to specimen images.
+
+**Why is it useful?** One of the largest global entry points for biodiversity data. It allows users to search across institutions and countries and to discover specimen records from many different collections. Filters help distinguish preserved specimens from observations.
+
+</details>
+
+<details>
+<summary>DiSSCo – Distributed System of Scientific Collections</summary>
+
+**URL:** https://disscover.dissco.eu/
+
+**What you can find:**
+
+Digital specimens from European natural science collections, covering different disciplines such as botany, zoology, geology and palaeontology. Records may include specimen metadata, images and associated digital information.
+
+**Why is it useful?**
+
+Provides a cross-disciplinary European entry point to digitised natural history collections. It introduces the concept of the Digital Specimen, with persistent identifiers and the potential to connect specimen data with research information and annotations.
+
+</details>
+
+<details>
+<summary>Museum Portals</summary>
+
+**URL:**
+
+- **Smithsonian Museum:** https://collections.nmnh.si.edu/search/
+- **Natural History Museum London:** https://data.nhm.ac.uk/
+- **Oxford University Museum of Natural History:** https://oumnh.ox.ac.uk/collections-online
+- **Museum für Naturkunde Berlin:** https://portal.museumfuernaturkunde.berlin/
+
+**What you can find:**
+
+Detailed object records, photographs and digital reproductions, taxonomic and historical information, collection details, provenance, and metadata about individual specimens and artefacts.
+
+**Why is it useful?**
+
+Museum portals provide access to detailed, institution-specific collection information that may not be available through global aggregators such as GBIF. They often offer richer object descriptions, high-resolution images and additional contextual information, making them valuable for in-depth research. As they focus on a single institution, their structure and content may also be more consistent and easier to navigate.
+
+</details>
+
+<details>
+<summary>Herbarium Portals</summary>
+
+Herbarium data is often available through multiple platforms, as the same specimen may be accessible via an institutional portal, a national aggregator or an international database. However, it is worth searching across several platforms to discover the full range of available collection data.
+
+**URLs:**
+
+- **JACQ:** https://jacq.org/database — Multi-institutional aggregator
+- **JSTOR Global Plants:** https://plants.jstor.org/ — International aggregator
+- **Virtual Herbarium Germany:** https://herbarium.gbif.de/ — National aggregator
+- **BGBM:** https://ww2.bgbm.org/bogartdb/BogartPublic.asp — Institutional (Botanical Garden Berlin)
+- **Kew:** https://www.kew.org/science/engage/accessing-our-science/access-our-collections/herbarium — Institutional (Royal Botanic Gardens Kew)
+
+**What you can find:**
+
+Digitised herbarium specimens, high-resolution images of plant sheets, scientific names, collector information, collection dates and locations, as well as taxonomic and geographic metadata.
+
+**Why is it useful?**
+
+Herbarium portals provide access to detailed specimen-level information, often including high-resolution images and label data. They are particularly useful for researching plant diversity, historical species distributions, taxonomy and botanical collecting practices. Many portals also allow users to explore collections from individual herbaria or search across multiple institutions.
+
+</details>
+
+<details>
+<summary>Geological, mineralogical and palaeontological collections</summary>
+
+[TEXT UNVOLLSTÄNDIG IN QUELLE: Der Accordion-Eintrag enthält keine weiteren Inhalte.]
+
+</details>
+
+```)
+
+## Hinweise und Korrekturvorschläge
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine fehlenden Alt-Texte bei den beiden Persona-Bildern.
+- **Unvollständiger Text:** „Geological, mineralogical and palaeontological collections“ enthält im H5P-Export kein Textfeld mit Inhalt.
+- **Persona-Zuordnung:** Anita als erste Frage des Unterkapitels (`@AnitaH`), Winnie als Antwort/Erklärung (`@Winnie_`).
+- **Quiz:** Keine Quiz-Inhalte vorhanden.
+- **Randomisierung:** Nicht relevant.
+
+### Korrekturvorschläge
+
+Keine offensichtlichen Tippfehler im übernommenen Kurstext korrigiert.
+
