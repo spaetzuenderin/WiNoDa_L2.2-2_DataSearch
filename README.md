@@ -635,22 +635,8 @@ license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0
 
 @AnitaH(```Are there different types of repositories or aggregators?```)
 
-@Winnie_(```<p>Yes.</p><p><strong>Repositories and aggregators differ in their scope, purpose, and the communities they serve.</strong></p><p>This diversity reflects the different needs of research communities. A biodiversity researcher may require specialised standards and search functions that differ from those needed in archaeology or museum documentation. At the same time, researchers often need to discover data beyond their own discipline.</p>```)
+@Winnie_(```<p>Yes.</p><p><strong>Repositories and aggregators differ in their scope, purpose, and the communities they serve.</strong></p><p>This diversity reflects the different needs of research communities. <br>A biodiversity researcher may require specialised standards and search functions that differ from those needed in archaeology or museum documentation. <br>At the same time, researchers often need to discover data beyond their own discipline.</p>```)
 
-### Bilder
-
-Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht separat eingebunden.
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U (nicht näher angegeben) |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U (nicht näher angegeben) |
-
-### Hinweise
-
-- Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Lizenz des Kurses wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
-- Die Bildlizenzen sind in der Quelle mit „U“ angegeben und daher nicht näher bestimmbar.
-- Keine offensichtlichen Tippfehler oder unklaren Persona-Zuordnungen erkannt.
 
 <!--
 author: [PLATZHALTER: nicht angegeben]
