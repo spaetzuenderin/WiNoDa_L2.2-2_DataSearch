@@ -4355,3 +4355,55 @@ The following examples illustrate two common ways of using persistent identifier
 - **Unklare Zuordnungen:** Keine.
 - **Quiz-Randomisierung:** Nicht zutreffend.
 - **Bildlizenzen:** Beide Bildlizenzen sind im Export mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+email:
+version: 1.0
+language: en-GB
+narrator: UK English Female
+comment: Chapter 5.3.1 – Example 1: DOI
+logo:
+license: CC BY 4.0
+-->
+
+### 5.3.1 Example 1: DOI
+
+@AnitaH(```Anita reads a paper about Bronze Age crop remains.```)
+
+@Anita(```The **paper cites a dataset DOI.** Instead of searching by title or keywords, **Anita can search directly for the DOI** using:```)
+
+- ADS (Archaeology Data Service)
+- OpenAIRE
+- DataCite Commons
+- Google Dataset Search
+- repository search interfaces
+
+@Anita_(```This leads directly to the referenced dataset.```)
+
+**Benefit**
+
+- precise retrieval
+- no ambiguity
+- direct connection between publication and dataset
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-69eb204d9b2c3.PNG | Anita standing under a green magnifying glass | Image unbenannt | U |
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:** Keine offensichtlichen Rechtschreib- oder Grammatikfehler festgestellt.
+- **Unklare Zuordnungen:** 
+  - Der gesamte Beispieltext ist im H5P-Element "Anita Example" enthalten. Die Aussagen wurden Anita zugeordnet.
+  - "Benefit" wurde als lokale Zwischenüberschrift umgesetzt.
+- **Quiz-Randomisierung:** Nicht zutreffend.
+- **Bildlizenzen:** Die Bildlizenz ist im Export mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
