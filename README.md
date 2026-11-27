@@ -604,3 +604,48 @@ data-text-failed="Any researcher who uses the repository or aggregator.: Users c
 - Die beiden Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
 - Korrekturvorschlag für den Kapiteltitel: „1.2 Benefits of repositories and aggregators“. Der Originaltitel wurde unverändert übernommen.
 - Keine unvollständigen Texte oder unklaren Persona-Zuordnungen erkannt.
+
+
+<!--
+author: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab
+version:
+language: en
+license: CC BY 4.0
+-->
+
+### 1.2.1 RDM benefitting from repositories
+
+@AnitaH(```How do repositories contribute to research data management?```)
+
+@Winnie_(```**Repositories** provide a trusted environment for storing, managing, and sharing research data.
+
+Researchers can deposit datasets together with documentation, metadata, and information about methods, licences, or access conditions.
+
+Many repositories require this contextual information as part of their quality assurance procedures. Making contextual information mandatory ensures that data can be reused in different research contexts.
+
+Additionally, many repositories support key RDM requirements by:
+
+- assigning persistent identifiers (such as DOIs),
+- enabling long-term preservation,
+- documenting provenance and ownership,
+- supporting access control where needed,
+- facilitating data citation and acknowledgement.
+
+By ensuring that data remain accessible and understandable over time, repositories help researchers comply with institutional, funder, and community requirements.```)
+
+### Bilder
+
+- Dateiname: `images/file-699888b3b742a.png`
+  - Alt-Text: Anita's head in an orange circle. Anita asks
+  - Caption: Anita
+  - Lizenz: U
+- Dateiname: `images/file-6a4bcd1fcc57b.png`
+  - Alt-Text: Winnie's head in a square frame. Winnie answers
+  - Caption: Winnie answers
+  - Lizenz: U
+
+### Hinweise
+
+- Metadaten zu Version, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben.
+- Die Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
+- Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte, Korrekturvorschläge oder unklaren Zuordnungen erkannt.
