@@ -1900,31 +1900,7 @@ To search through millions of occurrence records, including historical collectio
 
 
 
-# WIP Evaluating archaeology sources
 
-Work in progress
-
-this needs to be one or several scenario-quizzes, i.e. multiple choice with detailed feedback on the available options.
-
-each scenario would be a different search objective - finding artwork from bones (like the ice age carvings from mammut teeth) requires a different approach than looking for archaeobotanical remains or "normal" archaeological object data like pottery, coins, etc.
-
-I have not enough understanding of archaeology - need to get some help here in defining a suitable set of (max 5?) scenarios.
-
-The solutions should also aim at including non-archaeological sources like gbif, or pangaea (for archaeobotany) to make sure to drive home the cross-disciplinary point of some use cases.
-
-**Multiple choice** probably works best, because you can feedback every option - selected and unselected answers - and this really is about EVALUATION - so maybe several approaches might lead to "correct" results? so careful about phrasing to receive one "correct" answer.
-
-- Which would be the "best" option? or sth like that
-
-**Alternatively this could be a branching scenario** which also allows for lots of feedback and not necessarily any "wrong" options. there could be a "best" option, several "ok" options and "wrong" ones as well.
-
-more complicated to design but maybe better suited to the task
-
-[PLATZHALTER: Anita Quiz]
-
-@AnitaH(```Anita Quiz<br>Replace this text with H5P activity / quiz [PLATZHALTER: Replace this text with H5P activity / quiz]```)
-
----
 
 ## Hinweise und Korrekturvorschläge
 
