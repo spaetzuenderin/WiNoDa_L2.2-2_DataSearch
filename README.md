@@ -4544,3 +4544,4 @@ These connections allow researchers to discover related resources that might not
 - **Keine fehlenden Alt-Texte** oder abgeschnittenen Texte.
 - **Keine Platzhalter** erkannt.
 - **Keine Korrekturvorschläge.**
+
