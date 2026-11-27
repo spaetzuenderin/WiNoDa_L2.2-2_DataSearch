@@ -1288,3 +1288,47 @@ Starting with a disciplinary aggregator allows Susan to search broadly across ma
 |---|---|---|---|
 | `images/file-69eb2086bf569.PNG` | Susan standing under a green magnifying glass | Image unbenannt | U |
 
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 1.4.3 Example search: Collection Management
+license: CC BY 4.0
+-->
+
+### 1.4.3 Example search: Collection Management
+
+![Kai standing under a green magnifying glass](images/file-69eb20b57cd8d.PNG "Image unbenannt")
+
+<!-- Image license: U -->
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+Example search – Collection Management
+
+Kai is looking for examples of how other institutions publish collection data and metadata.
+
+Because he does not yet know which repositories are commonly used by natural history museums or which infrastructures support collection data, he starts with a repository registry such as re3data. The registry helps him identify repositories and infrastructures commonly used for collection data.
+
+He then explores specific institutional repositories and aggregators to compare their services and data standards.
+
+Starting with a repository registry helps Kai gain an overview of the available infrastructure before exploring individual repositories and aggregators in more detail.
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:** Keine offensichtlichen Tipp- oder Grammatikfehler festgestellt.
+- **Persona-Zuordnung:** Kai ist durch das Bild und den Text eindeutig zugeordnet. Der Text ist eine Erzählung, keine direkte Frage oder Antwort. Daher kein Persona-Makro.
+- **Stilzuordnung:** „Example search – Collection Management“ wurde als lokale Zwischenüberschrift umgesetzt.
+- **Randomisierung:** Nicht relevant (kein Quiz).
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-69eb20b57cd8d.PNG` | Kai standing under a green magnifying glass | Image unbenannt | U |
