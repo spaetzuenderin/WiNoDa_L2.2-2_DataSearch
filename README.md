@@ -3724,3 +3724,135 @@ By combining keywords, phrases, controlled vocabularies, Boolean operators, meta
 - **Unvollständige Texte:** Keine.
 - **Platzhalter:** Keine.
 - **Quizze:** Keine.
+
+
+
+<!--
+author: 
+email: 
+version: 1.0
+language: en
+narrator: 
+comment: 4.5.2 Example 2: Biodiversity
+logo: 
+license: CC BY 4.0
+-->
+
+# 4.5.2 Example 2: Biodiversity
+
+![Susan standing under a green magnifying glass](images/file-69eb2086bf569.PNG "Image unbenannt")
+<!-- license: U -->
+
+Susan is studying the distribution of pollinating beetles across Europe to investigate changes in their ranges over time. She wants to find specimen records, occurrence datasets, and related documentation from multiple repositories. Rather than relying on a single search query, she gradually refines her search strategy.
+
+## Step 1: Identify key concepts
+
+![list icon (bullet points)](images/file-6a6a1599e4c35.jpg "Image Unbenannt")
+<!-- license: U -->
+
+Susan starts by identifying the main concepts from her research question:
+
+- pollinating beetles
+- species distribution
+- Europe
+
+These become her initial search terms.
+
+## Step 2: Search using keywords and phrases
+
+![search icon (magnifying glass)](images/file-6a6a158d697f1.jpg "Image Unbenannt")
+<!-- license: U -->
+
+She begins with a simple keyword search: **"pollinating beetles"**.
+
+To increase precision, she also searches for an exact phrase: **"species distribution"**.
+
+This helps her find records that specifically focus on species occurrence and distribution.
+
+## Step 3: Expand the search using synonyms and controlled vocabularies
+
+![almost-equal icon (wavey equal sign)](images/file-6a6a15a6b02af.jpg "Image Unbenannt")
+<!-- license: U -->
+
+While reviewing results, Susan notices that most datasets use scientific names or taxonomies.
+
+She therefore **broadens her search** using additional terms:
+
+- "pollinating beetles" OR **"Coleoptera"**
+
+and
+
+- "species distribution" OR **"occurrence"**.
+
+If she is interested in a particular species, she also searches using its scientific name alongside its common name.
+
+This helps her discover datasets that use different taxonomic naming conventions.
+
+## Step 4: Combine concepts using Boolean operators
+
+![icon of venn diagramm ("AND")](images/file-6a6a15afada9b.jpg "Image Unbenannt")
+<!-- license: U -->
+
+To focus on records relevant to her research question, Susan **combines concepts**:
+
+- **("Coleoptera" OR "pollinating beetles") AND "occurrence".**
+
+She may further refine the search by adding another concept:
+
+- **("Coleoptera" OR "pollinating beetles") AND "occurrence" AND "Europe".**
+
+If unwanted results appear, she can exclude them:
+
+- "Coleoptera" **NOT "fossil".**
+
+## Step 5: Use metadata searches and filters
+
+![filter icon (a funnel)](images/file-6a6a15bbae885.jpg "Image Unbenannt")
+<!-- license: U -->
+
+The search still returns many results. Susan therefore applies metadata filters such as:
+
+- **Geographic region**: Europe
+- **Taxonomic group**: Coleoptera
+- **Resource type**: Dataset
+- **Basis of record**: Preserved specimen
+- **Access**: Openly available
+
+Instead of adding more search terms, she uses the available metadata to focus on the most relevant records.
+
+## Step 6: Refine and repeat
+
+![repetition icon (five arrows in a circle)](images/file-6a6a28dce463a.png "Image Unbenannt")
+<!-- license: U -->
+
+As Susan explores datasets, she discovers new species names, taxonomic classifications, repositories, and data providers. She adapts her search accordingly and repeats earlier steps with improved search terms and filters.
+
+By combining keywords, phrases, controlled vocabularies, Boolean operators, metadata searches, and filters, Susan gradually builds a comprehensive set of biodiversity records for her study.
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-69eb2086bf569.PNG` | Susan standing under a green magnifying glass | Image unbenannt | U |
+| `images/file-6a6a1599e4c35.jpg` | list icon (bullet points) | Image Unbenannt | U |
+| `images/file-6a6a158d697f1.jpg` | search icon (magnifying glass) | Image Unbenannt | U |
+| `images/file-6a6a15a6b02af.jpg` | almost-equal icon (wavey equal sign) | Image Unbenannt | U |
+| `images/file-6a6a15afada9b.jpg` | icon of venn diagramm ("AND") | Image Unbenannt | U |
+| `images/file-6a6a15bbae885.jpg` | filter icon (a funnel) | Image Unbenannt | U |
+| `images/file-6a6a28dce463a.png` | repetition icon (five arrows in a circle) | Image Unbenannt | U |
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine erkennbar.
+- **Korrekturen:** Keine vorgenommen.
+- **Unklare Persona-Zuordnungen:** Keine. Die Persona Susan wurde im Fließtext genannt, aber nicht als H5P-Persona-Makro ausgezeichnet.
+- **Quizze:** Keine enthalten.
+- **Randomisierung:** Nicht zutreffend.
+- **Bildlizenzen:** Alle sieben Bilder weisen in den Quelldaten die Lizenzangabe `U` auf. Diese wurde unverändert übernommen.
+
