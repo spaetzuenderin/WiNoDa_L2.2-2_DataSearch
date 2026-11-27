@@ -922,3 +922,55 @@ Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht s
 - Mögliche Korrekturvorschläge, unverändert im Kurstext belassen: „collections e.g.“ könnte eine Zeichensetzung vor „e.g.“ benötigen; in „Museum für Naturkunde Berlin ).“ steht ein Leerzeichen vor der schließenden Klammer; im Projekt-Repositories-Abschnitt erscheinen zusätzliche schließende Klammern nach den Zenodo- und GitHub-Links.
 - Persona-Zuordnung: Die Frage ist Anita, die Erklärung Winnie zugeordnet.
 
+<!--
+author: [PLATZHALTER: nicht angegeben]
+email:
+version:
+language: en
+narrator:
+comment:
+logo:
+license: CC BY 4.0
+-->
+
+### 1.3.2 Aggregator types
+
+@AnitaH(```What types of aggregators are there?```)
+
+@Winnie_(```Some aggregators focus on a particular discipline, while others combine information from many research domains. They may also operate at national, regional, or international levels.
+
+Common types of aggregators include:
+
+- **Disciplinary aggregators**, which bring together information from a specific research field, e.g. [Ariadne](https://www.ariadne-research-infrastructure.eu/) for archaeology or [GBIF](https://www.gbif.org/) for biodiversity data.
+- **Cross-disciplinary aggregators**, which allow users to search across multiple research domains, e.g. [OpenAIRE](https://www.openaire.eu/), [DataCite Commons](https://commons.datacite.org/).
+- **Thematic aggregators**, which focus on a particular topic, resource type, or community, e.g. [Europeana](https://www.europeana.eu/en) for European cultural heritage.
+
+Aggregators can also differ in their geographic scope. Some operate at regional or national levels, while others connect data providers across multiple countries or even worldwide.<br>By bringing together metadata from multiple sources, aggregators enable users to discover relevant data through a single search interface. Although aggregators may differ in scope, they share the common goal of improving the discoverability of research data and collections.```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+Repositories and aggregators can be classified according to their scope, purpose, the communities they serve, and the organisations that maintain them.
+
+- Repositories may be institutional, disciplinary, general-purpose, or project-based.
+- Aggregators may be disciplinary, cross-disciplinary, thematic, regional, or international.
+
+Understanding these different types helps researchers identify suitable places to deposit data and effective tools for finding existing data.
+</section>
+
+### Bilder
+
+Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht separat eingebunden.
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U (nicht näher angegeben) |
+| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U (nicht näher angegeben) |
+
+### Hinweise
+
+- Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
+- Bildlizenzen sind in der Quelle mit „U“ angegeben und nicht näher bestimmbar.
+- Keine offensichtlichen Tippfehler oder unklaren Persona- und Stilzuordnungen erkannt.
