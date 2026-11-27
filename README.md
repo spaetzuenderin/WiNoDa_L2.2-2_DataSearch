@@ -464,51 +464,36 @@ By ensuring that data remain accessible and understandable over time, repositori
 
 @AnitaH(```How do aggregators contribute to research data management?```)
 
-@Winnie_(```**Aggregators** collect and combine metadata from multiple repositories and data providers, thus increasing the visibility of research outputs and helping connect datasets that would otherwise remain difficult to find.
-
+@Winnie_(```<p>**Aggregators** collect and combine metadata from multiple repositories and data providers, thus increasing the visibility of research outputs and helping connect datasets that would otherwise remain difficult to find.
+</p>
+<p>
 For researchers, aggregators reduce the effort required to search across many individual repositories.
-
-For data providers, they broaden the reach of their collections without requiring duplicate data storage.```)
-
-### Bilder
-
-- Dateiname: `images/file-699888b3b742a.png`
-  - Alt-Text: Anita's head in an orange circle. Anita asks
-  - Caption: Anita
-  - Lizenz: U
-- Dateiname: `images/file-6a4bcd1fcc57b.png`
-  - Alt-Text: Winnie's head in a square frame. Winnie answers
-  - Caption: Winnie answers
-  - Lizenz: U
-
-### Hinweise
-
-- Metadaten zu Version, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben.
-- Die Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
-- Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte, Korrekturvorschläge oder unklaren Zuordnungen erkannt.
-
-
+</p>
+<p>
+For data providers, they broaden the reach of their collections without requiring duplicate data storage.</p>```)
 
 
 ### 1.2.3 FAIR data benefitting from repositories and aggregators
 
 @AnitaH(```How do repositories and aggregators support the FAIR principles?```)
 
-@Winnie_(```Repositories and aggregators both contribute to making data more **Findable, Accessible, Interoperable, and Reusable (FAIR)**, but in different ways.
-
-**Repositories** support FAIRness by
-
-- preserving data,
-- managing metadata,
-- assigning persistent identifiers,
-- using and enforcing community standards where appropriate, and
-- providing access mechanisms.
-
-**Aggregators** strengthen FAIRness by
-
-- increasing discoverability,
-- connecting metadata from multiple sources, and
-- enabling cross-collection searches.```)
+@Winnie_(```<p>Repositories and aggregators both contribute to making data more **"Findable, Accessible, Interoperable, and Reusable (FAIR)"**, but in different ways.
+</p>
+<p>
+**Repositories** support FAIRness by </p>
+<ul>
+  <li>preserving data,</li>
+  <li>managing metadata,</li>
+  <li>assigning persistent identifiers,</li>
+  <li>using and enforcing community standards where appropriate, and</li>
+  <li>providing access mechanisms.</li>
+</ul>
+<p>**Aggregators** strengthen FAIRness by</p>
+<ul>
+  <li>increasing discoverability,</li>
+  <li>connecting metadata from multiple sources, and</li>
+  <li>enabling cross-collection searches.</li>
+</ul>```)
 
 <!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
 In a Nutshell:
@@ -523,25 +508,6 @@ Together, they help ensure that research data can be located, understood, access
 
 Thus, they form an essential part of the infrastructure that enables effective research data management and data reuse.
 </section>
-
-### Bilder
-
-- Dateiname: `images/file-699888b3b742a.png`
-  - Alt-Text: Anita's head in an orange circle. Anita asks
-  - Caption: Anita
-  - Lizenz: U
-- Dateiname: `images/file-6a4bcd1fcc57b.png`
-  - Alt-Text: Winnie's head in a square frame. Winnie answers
-  - Caption: Winnie answers
-  - Lizenz: U
-
-### Hinweise
-
-- Metadaten zu Version, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben.
-- Die Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
-- Unklare Zuordnungen: keine.
-- Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte oder Korrekturvorschläge erkannt.
-
 
 
 ### 1.2.4 Quiz: Repositories and aggregator benefits
