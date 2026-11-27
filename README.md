@@ -1726,32 +1726,20 @@ OpenAIRE supports cross-disciplinary discovery of research outputs and has a str
 
 
 
-
-<!--
-author: 
-email: 
-version: 1.0
-language: en-GB
-narrator: 
-comment: 2.1.6 Knowledge graphs and linked-data services
-logo: 
-license: CC BY 4.0
--->
-
-# 2.1.6 Knowledge graphs and linked-data services
+### 2.1.7 Knowledge graphs and linked-data services
 
 @AnitaH(```Which knowledge graphs and linked-data services are useful for my data research?```)
 
-@Winnie_(``` 
+@Winnie_(``` Platzhalter text```)
+
 <details>
-<summary>GNA (Geoportale Nazionale per l'Archeologia) - Italian map of archaeological sites and ressources</summary>
+<summary>GNA (Geoportale Nazionale per l'Archeologia) - Italian map of archaeological sites and resources</summary>
 
 **URL:** https://gna.cultura.gov.it/
 
 **What you can find:** Information about archaeological sites, monuments, and cultural heritage resources in Italy.
 
 **Why is it useful?**
-
 GNA connects heritage information through linked data approaches. It can help researchers discover relationships between places, objects, institutions, and heritage records.
 
 </details>
@@ -1764,20 +1752,18 @@ GNA connects heritage information through linked data approaches. It can help re
 **What you can find:** Linked information about objects, places, actors, collections, datasets, and research activities.
 
 **Why is it useful?**
-
 The NFDI4Objects Knowledge Graph helps users explore connections between different kinds of archaeological and cultural heritage information. It supports the discovery of related resources that may be distributed across multiple repositories and databases.
 
 </details>
 
 <details>
-<summary>Open Context - Linked Open archaeology Data</summary>
+<summary>Open Context - Linked Open Archaeology Data</summary>
 
 **URL:** https://opencontext.org/
 
 **What you can find:** Archaeological datasets linked to places, objects, publications, and other resources.
 
 **Why is it useful?**
-
 In addition to serving as a repository, Open Context uses linked open data technologies to connect information across projects and datasets. This makes it particularly useful for exploring relationships and contexts beyond individual records.
 
 </details>
@@ -1790,65 +1776,45 @@ In addition to serving as a repository, Open Context uses linked open data techn
 **What you can find:** Structured information about places, people, organisations, objects, concepts, and many other entities.
 
 **Why is it useful?**
-
 Wikidata can help researchers discover connections between archaeological resources and related information from other domains. It is often used as a hub for linking data across institutions and disciplines.
 
 </details>
-```)
-
-![Winnie's head in a square frame. Winnie answers](images/file-6a4bcd1fcc57b.png "Winnie answers")
-<!-- License: U -->
-
-![Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle](images/file-69989c72f2355.PNG "Winnie")
-<!-- License: U -->
-
-**The difference between knowledge graphs and other knowledge portals**
-
-Whilst data can be searched for in knowledge graphs, other services with similar names (base, hub, etc.) merely provide access to knowledge resources.
-
-These may include documentation, guides, FAQs or short informative articles on specific topics.
-
-The GFBio Knowledge Base for Information and Services around Biodiversity Data, for example, contains articles for the WiNoDa community:
-
-https://kb.gfbio.org/label/KB/winoda
-
----
-
-## Image list
-
-| Filename | Alt-text | Caption | License |
-|---|---|---|---|
-| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
-| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-| images/file-69989c72f2355.PNG | Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle | Winnie | U |
-
-## Hinweisliste
-
-- **Korrekturvorschlag:** „ressources“ in der Überschrift „GNA ... ressources“ sollte vermutlich „resources“ heißen.
-- **Korrekturvorschlag:** „Linked Open archaeology Data“ enthält eine uneinheitliche Gross-/Kleinschreibung.
-- **Persona-Zuordnung:** Die erste Frage wurde als `@AnitaH` umgesetzt.
-- **Persona-Zuordnung:** Die Akkordeon-Erklärungen wurden unter `@Winnie_` zusammengefasst.
-- **Stilzuordnung:** Die Infoseite „The difference between knowledge graphs and other knowledge portals“ wurde als regulärer Informationstext übernommen.
-- **Bildlizenzen:** In der Quelle ist für alle drei Bilder die Lizenz „U“ angegeben.
-- **Quizzes:** Keine Quiz-Inhalte im Kapitel vorhanden.
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Randomisierung:** Nicht zutreffend.
 
 
-<!--
-author: 
-email: 
-version: 1.0
-language: en-GB
-narrator: 
-comment: 2.2 AI and LLM-based chatbots
-logo: 
-license: CC BY 4.0
--->
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
+<div style="display: flex; align-items: flex-start; gap: 1em;">
 
-# 2.2 AI and LLM-based chatbots
+<div style="flex: 0 0 30%; min-width: 0;">
+
+![Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle](images/Info-Winnie.PNG)<!--
+width="100%"-->
+
+</div>
+
+<div style="flex: 1; min-width: 0;">
+
+>[!TIP] **Other knowledge bases, hubs, or portals**
+>There are many, often disciplinary, services that provide access to additional knowledge resources.
+>
+>These may include documentation, guides, FAQs or short informative articles on specific topics.
+>
+>The **GFBio Knowledge Base for Information and Services around Biodiversity Data**, for example, contains many articles relevant for the WiNoDa community:
+>> [https://kb.gfbio.org/label/KB/winoda](https://kb.gfbio.org/label/KB/winoda)
+
+</div>
+</div>
+
+
+
+## 2.2 AI and LLM-based chatbots
 
 @AnitaH(```Can AI-supported search tools be useful for my data research?```)
 
