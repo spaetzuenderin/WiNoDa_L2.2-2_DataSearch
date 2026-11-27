@@ -1447,26 +1447,11 @@ Propylaeum_IMAGES offers access to image-based resources from various providers.
 </details>
 
 
-
-
-
-
-<!--
-author: 
-email: 
-version: 1.0
-language: English
-narrator: UK English Female
-comment: 2.1.4 Where can I search for collection objects?
-logo: 
-license: CC BY 4.0
--->
-
-# 2.1.4 Where can I search for collection objects?
+### 2.1.4 Where can I search for collection objects?
 
 @AnitaH(```Where can I search for collection objects?```)
 
-@Winnie_(```
+@Winnie_(```Here is a list of resources where you can find data from natural history museums.```)
 
 <details>
 <summary>GBIF – Global Biodiversity Information Facility</summary>
@@ -1497,7 +1482,7 @@ Provides a cross-disciplinary European entry point to digitised natural history 
 <details>
 <summary>Museum Portals</summary>
 
-**URL:**
+### URL:
 
 - **Smithsonian Museum:** https://collections.nmnh.si.edu/search/
 - **Natural History Museum London:** https://data.nhm.ac.uk/
@@ -1519,7 +1504,7 @@ Museum portals provide access to detailed, institution-specific collection infor
 
 Herbarium data is often available through multiple platforms, as the same specimen may be accessible via an institutional portal, a national aggregator or an international database. However, it is worth searching across several platforms to discover the full range of available collection data.
 
-**URLs:**
+### URL:
 
 - **JACQ:** https://jacq.org/database — Multi-institutional aggregator
 - **JSTOR Global Plants:** https://plants.jstor.org/ — International aggregator
@@ -1544,20 +1529,11 @@ Herbarium portals provide access to detailed specimen-level information, often i
 
 </details>
 
-```)
 
-## Hinweise und Korrekturvorschläge
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine fehlenden Alt-Texte bei den beiden Persona-Bildern.
+##### klären
+- Winnie's Einleitungstext überarbeiten
 - **Unvollständiger Text:** „Geological, mineralogical and palaeontological collections“ enthält im H5P-Export kein Textfeld mit Inhalt.
-- **Persona-Zuordnung:** Anita als erste Frage des Unterkapitels (`@AnitaH`), Winnie als Antwort/Erklärung (`@Winnie_`).
-- **Quiz:** Keine Quiz-Inhalte vorhanden.
-- **Randomisierung:** Nicht relevant.
 
-### Korrekturvorschläge
-
-Keine offensichtlichen Tippfehler im übernommenen Kurstext korrigiert.
 
 
 <!--
