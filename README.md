@@ -4138,3 +4138,84 @@ license: CC BY 4.0
 - **Unklare Bildzuordnung:** Das dritte Bild besitzt keinen Dateipfad. Es kann daher nicht als Markdown-Bild eingebunden werden.
 - **Lizenz:** Die Kurslizenz CC BY 4.0 wurde im Header angegeben. Die Bildlizenzen sind in der Quelle jeweils mit `U` angegeben.
 
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+email:
+version: 1.0
+language: en-GB
+narrator: UK English Female
+comment: Chapter 5.1 – Importance of PIDs
+logo:
+license: CC BY 4.0
+-->
+
+# 5 – Persistent identifiers (PIDs)
+
+## 5.1 Importance of PIDs
+
+@AnitaH(```Have you ever considered using persistent identifiers to find research data?```)
+
+@Winnie_(```In the previous chapter, we explored search strategies based on keywords, phrases, and metadata.
+
+**However, search terms are not the only way to discover data.** Another option is to search by identifier rather than by description.
+
+Most researchers think of **PIDs** primarily as identifiers assigned to datasets, publications, or researchers. However, one of their main purposes is to make these resources *findable* and connect them to related information.
+
+**Therefore, PIDs are also powerful search tools.**```)
+
+@Anita(```Why are persistent identifiers important?```)
+
+@Winnie_(```**PIDs** (like DOI, ORCID, Handle, ARK, GUID, etc) **provide stable, unique references to digital entities.**
+
+They help researchers discover, identify, cite, and connect datasets, publications, people, specimens, collections, and other resources.
+
+Because identifiers remain stable even when web addresses change, they **support long-term access and interoperability**.
+
+Many repositories, aggregators, and research infrastructures use PIDs to connect related resources.```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+
+- PIDs provide stable references.
+- They support discovery, citation, and linking.
+- They connect research outputs across platforms and infrastructures.
+
+</section>
+
+### Further information
+
+@Winnie(```Want to learn more about PIDs?```)
+
+- See the previous course in this series on **Reusing object-related data, esp. Chapter 3**
+
+or
+
+- check the website of **PID4NFDI** for more information: https://pid.services.base4nfdi.de/
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699895d334e36.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+| images/file-6a719c672e6e6.png | Kai, Winnie, Anita, Dave and Susan sitting around a table with drinks and food | Image Unbenannt | U |
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+| images/file-69989c72f2355.PNG | Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle | Winnie | U |
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:**
+  - "like DOI, ORCID, Handle, ARK, GUID, etc" → Vorschlag: "such as DOI, ORCID, Handle, ARK and GUID". 
+  - "esp." → Vorschlag: "especially".
+- **Unklare Zuordnungen:** 
+  - Die abschliessende Informationsseite wurde als Winnie-Information übernommen, da sie im H5P-Inhalt den Titel "Winnie Infopage" trägt.
+- **Quiz-Randomisierung:** Nicht zutreffend.
+- **Bildlizenzen:** Die Bildlizenzen sind im Export jeweils mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
