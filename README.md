@@ -3306,3 +3306,82 @@ In a Nutshell:
 - **Unklare Zuordnungen:** Keine.
 - **Quizzes:** Keine.
 
+
+<!--
+author: 
+version: 1.0
+language: en-GB
+license: CC BY 4.0
+-->
+
+## 4.2 Booleans and other search operators
+
+@AnitaH(```How can I broaden or narrow my search?```)
+
+@Susan_(```<p>Search results are rarely perfect on the first attempt. Sometimes a search retrieves too few results. At other times, it retrieves far too many.</p>
+
+<p><strong>Boolean operators</strong> are special search commands that help broaden, narrow, or exclude search results. Many researchers already use Boolean operators when searching for literature, but they are equally useful when searching for research data.</p>
+
+<p><strong>The most important search operators are AND, OR, and NOT</strong>. Many search systems also support <strong>truncation </strong>and <strong>wildcard </strong>symbols, which can be used to broaden searches.</p>
+
+<ul>
+<li><strong>AND</strong> narrows a search to results containing <strong>both</strong> keyword A <strong>and</strong> keyword B, e.g. "barley" AND "bronze age" retrieves records containing both concepts.</li>
+
+<li><strong>OR</strong> broadens a search to results containing <strong>either</strong> keyword A <strong>or</strong> keyword B, e.g. "archaeobotany" OR "palaeoethnobotany" retrieves records using either term.</li>
+
+<li><strong>NOT</strong> narrows a search to results containing keyword A <strong>but not</strong> keyword B, e.g. "bronze age" NOT "iron age" retrieves Bronze Age records while excluding those mentioning the Iron Age.</li>
+</ul>```)
+
+![A graphic with Venn diagrams depicting the Boolean operators AND, OR, and NOT](images/file-6a4ce6653b331.png "Boolean Operators")
+
+<text style="font-size: 0.8em">Boolean Operators. Cecelia Vetter, 2021. CC BY-SA 4.0. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diagram_Explaining_Boolean_Operators.png).</text>
+
+@Susan_(```<ul>
+<li><strong>Truncations </strong>broaden a search result to include various word endings for a search term. Symbols vary, but asterisks are common, e.g. "archaeobotan*" retrieves terms such as archaeobotany, archaeobotanical, and archaeobotanist.</li>
+
+<li><strong>Wildcards </strong>broaden a search by including various spellings for a search term. Symbols vary, but question marks are common, e.g. "colo?r" retrieves both the British spelling "colour" and the American spelling "color".</li>
+</ul>```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+- **OR** broadens a search.
+- **AND** narrows a search.
+- **NOT** excludes results.
+
+Truncation and wildcards help capture variations of a search term.
+</section>
+
+![Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle](images/file-69989c72f2355.PNG "Winnie")
+
+@Winnie(```**Good to know**
+
+Under the umbrella term **"proximity operators"** are several advanced operators that search for terms occurring within a specified distance of one another, e.g. ADJ3, NEAR, WITHIN, etc.
+
+While powerful, many repositories do not support proximity operators, and their syntax varies between systems. As a result, they are less widely used and will not be discussed further here.
+
+If you would like to learn more about proximity operators, many tutorials and guides are available online.```)
+
+---
+
+## Bilderverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-6a4ce6653b331.png` | A graphic with Venn diagrams depicting the Boolean operators AND, OR, and NOT | Boolean Operators | CC BY-SA 4.0 |
+| `images/file-69989c72f2355.PNG` | Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle | Winnie | U |
+
+## Hinweisliste
+
+- **Header:** Autor, E-Mail, Narrator, Comment und Logo sind in den Kapitelmetadaten nicht angegeben.
+- **Lizenz:** Die Kurslizenz CC BY 4.0 wurde entsprechend der Vorgabe übernommen. Das Bild der Boolean Operators besitzt eine abweichende Lizenz (CC BY-SA 4.0).
+- **Persona-Zuordnung:** Winnie Infopage wurde als @Winnie umgesetzt, da es sich um einen zusätzlichen Informationstext und nicht ausdrücklich um eine Antwort/Erklärung handelt.
+- **Quiz:** In diesem Kapitel sind keine Quiz-Inhalte enthalten.
+- **Randomisierung:** Nicht zutreffend.
+- **Korrekturvorschläge:** Keine.
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Unklare Stilzuordnungen:** Keine weiteren.
