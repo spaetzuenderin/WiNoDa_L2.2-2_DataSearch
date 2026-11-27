@@ -1836,151 +1836,69 @@ LLM-based assistants can help formulate search queries, identify relevant resour
 
 
 
-<!--
-author: 
-email: 
-version: 1.0
-language: en-GB
-narrator: 
-comment: TODO 3 – Evaluating platforms and results
-logo: 
-license: CC BY 4.0
--->
+## 2.3 Scenario-based Quizzes
 
-# TODO 3 – Evaluating platforms and results
+<!--- question 1: WiNoDa_04_004_0866b_Drag-the-Words |
+license: CC BY 4.0 | authors: Anna Lisa Schwartz (ORCID: https://orcid.org/0000-0003-0391-3879) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the words --->
 
-**Chapter 3 – Scenario Based Quiz**
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
 
-WiNoDa_04_004_0866a
+<div style="display: flex; align-items: flex-start; gap: 1em;">
 
-This will be a scenario based exercise, where the feedback options deliver the information necessary to evaluate (pro/con) the benefits named in [WiNoDa_04_004_0865a](http://WiNoDa_04_004_0865a) (disciplinary search tools).
+<div style="flex: 0 0 30%; min-width: 0;">
 
-**TO DO**
+![Susan standing under a large question mark](images/Quiz-Susan.PNG)<!--
+width="100%"-->
 
-Quality criteria (coverage, curation, access rights, licensing)
-
-- Differences between repositories and aggregators
-- Domain-specific considerations (archaeology vs biodiversity vs museums)
-
-**Focus:** Critical comparison and judgement
-
-**Learning objectives**
-
-- **WiNoDa_04_004_0866a** – Evaluate benefit of repositories & aggregators (archaeology)
-- **WiNoDa_04_004_0866b** – Evaluate benefit of repositories & aggregators (biodiversity)
-- *(based on)* **WiNoDa_04_004_0865a / 0865b / 0865c** – Name benefits (foundation for evaluation) --> Chapter 2 disciplinary tools
-
-**Core role in course**
-
-This module develops **critical assessment skills**:
-
-- fit-for-purpose selection
-- disciplinary differences
-- access, metadata quality, scope
-
----
-
-## Hinweisliste
-
-- **Platzhalter:** „TO DO“ und die dazugehörigen Arbeitsaufträge sind redaktionelle Hinweise und wurden unverändert übernommen.
-- **Platzhalter:** „This will be a scenario based exercise“ beschreibt eine noch ausstehende Umsetzung.
-- **Unvollständigkeit:** Das angekündigte scenario based quiz mit den zugehörigen Fragen und Feedbackoptionen ist in der Quelle nicht enthalten.
-- **Unklare Zuordnung:** Der Verweis auf `WiNoDa_04_004_0865a` wurde als externer Link übernommen. Die angegebene URL entspricht nicht einer vollständigen Webadresse.
-- **Korrekturvorschlag:** „Scenario Based Quiz“ könnte stilistisch als „Scenario-based Quiz“ geschrieben werden.
-- **Korrekturvorschlag:** „scenario based exercise“ könnte als „scenario-based exercise“ geschrieben werden.
-- **Korrekturvorschlag:** „Evaluate benefit“ könnte grammatikalisch „Evaluate the benefits“ lauten.
-- **Korrekturvorschlag:** „Name benefits“ könnte „Identify benefits“ lauten.
-- **Bilder:** Keine Bilder vorhanden.
-- **Quizzes:** Keine tatsächlich ausgearbeiteten Quizfragen vorhanden.
-- **Randomisierung:** Nicht zutreffend.
-
-
-
-<!--
-author: 
-email: 
-version: 1.0
-language: en-GB
-narrator: 
-comment: 2.3.1 Quiz
-logo: 
-license: CC BY 4.0
--->
-
-# 2.3.1 Quiz
-
-![Susan standing under a green question mark](images/file-699885c238ddb.PNG)
-<!-- License: U -->
-
-<!-- question 1: Drag the Words -->
-<!-- license: U | contentType: Drag the Words -->
-
-{{1}}
-
+</div>
+<div class="persona--susan">
+<h3>Scenario 1: Biodiversity</h3>
+<p>
 As part of a project, Susan is investigating the impact of climate change on the beautiful demoiselle (*Calopteryx virgo*) in Germany.
-
+</p><p>
 To do this, she needs data on the current geographical distribution of this species in Germany, including historical records (prior to 1980).
+</p><p>
+**She is evaluating the various services available to her.**
+</p>
+</div>
+</div>
 
-She is evaluating the various services available to her.
 
-**Match each search task with the most suitable resource. Drag the words into the correct boxes.**
 
-To search through millions of occurrence records, including historical collection data, Susan can use [[GBIF]]. [[LAND]] is the best alternative if the focus is strictly on Germany and regional mapping.
+<div class="persona--susan">
+<h3>Match each search task with the most suitable resource.</h3>
 
-For Susan's use case, a search on [[iNaturalist]] is only worthwhile if Susan is specifically looking for photographs for, instance, LLM-based image analyses such as wing patterns.
+**Drag the words into the correct boxes.**
 
-And a search via [[GFBio Data Search]] becomes important when existing occurrence data needs to be supplemented with additional data, such as environmental data from other research projects.
-
-**Additional draggable words (distractors):**
-
-- DISC3D
-- OpenAIRE
-- DiSSCo
-- Biodiversity Heritage Library
-
-***
-
+<!-- data-randomize -->
+To search through millions of occurrence records, including historical collection data, Susan can use [->[(GBIF)| DISC3D | OpenAire | DiSSCo | Biodiversity Heritage Library]]. [->[LAND]] is the best alternative if the focus is strictly on Germany and regional mapping. <br>
+For Susan's use case, a search on [->[iNaturalist]] is only worthwhile if Susan is specifically looking for photographs, for instance for LLM-based image analyses such as wing patterns. <br>
+And a search via [->[GFBio Data Search]] becomes important when existing occurrence data needs to be supplemented with additional data, such as environmental data from other research projects.
+***********************************************************************
 **Feedback**
 
-To search through millions of occurrence records, including historical collection data, Susan can use *GBIF*. *LAND* is the best alternative if the focus is strictly on Germany and regional mapping. For Susan's use case, a search on *iNaturalist* is only worthwhile if Susan is specifically looking for photographs for, instance, LLM-based image analyses such as wing patterns. And a search via *GFBio Data Search* becomes important when existing occurrence data needs to be supplemented with additional data, such as environmental data from other research projects.
+To search through millions of occurrence records, including historical collection data, Susan can use *GBIF*. *LAND* is the best alternative if the focus is strictly on Germany and regional mapping. For Susan's use case, a search on *iNaturalist* is only worthwhile if Susan is specifically looking for photographs, for instance, for LLM-based image analyses such as wing patterns. And a search via *GFBio Data Search* becomes important when existing occurrence data needs to be supplemented with additional data, such as environmental data from other research projects.
 
-***
-
----
-
-## Image list
-
-| Filename | Alt-text | Caption | License |
-|---|---|---|---|
-| images/file-699885c238ddb.PNG | Susan standing under a green question mark | Not specified | U |
-
-## Hinweisliste
-
-- **Quiz:** Drag the Words wurde als Lückentext umgesetzt.
-- **Quiz-Titel:** „Drag the Words“ übernommen.
-- **Quiz-Metadaten:** Content type „Drag the Words“, Lizenz „U“. Autoren und yearFrom sind in der Quelle nicht angegeben.
-- **Randomisierung:** Nicht übernommen, da die Zuordnung der Ressourcen zu den Suchaufgaben inhaltlich festgelegt ist.
-- **Distraktoren:** DISC3D, OpenAIRE, DiSSCo und Biodiversity Heritage Library wurden separat als zusätzliche Auswahlwörter aufgeführt.
-- **Feedback:** Der Inhalt von `textField` wurde als Feedback übernommen.
-- **Korrekturvorschlag:** „for, instance“ könnte „for instance“ heißen.
-- **Persona-Zuordnung:** Susan wird in der Szenariobeschreibung in der dritten Person erwähnt. Daher wurde kein Persona-Makro verwendet.
-- **Bildlizenz:** U.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Platzhalter:** Keine.
-- **Unklare Zuordnungen:** Die ursprüngliche Drag-and-Drop-Interaktion lässt sich mit den vorgegebenen Lückentext-Markierungen nicht vollständig nachbilden. Die vier Distraktoren wurden deshalb separat ausgewiesen.
+***********************************************************************
+</div>
 
 
 
-<!--
-author:
-email:
-version: 1.0
-language: en
-narrator:
-comment: WIP Evaluating archaeology sources
-license: CC BY 4.0
--->
+
+
+
+
+
+
+
 
 # WIP Evaluating archaeology sources
 
