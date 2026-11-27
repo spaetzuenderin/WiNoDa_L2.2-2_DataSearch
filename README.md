@@ -3593,3 +3593,134 @@ A typical research data search might involve the following steps:
 - **Randomisierung:** Nicht relevant.
 - **Bildlizenzen:** Beide Bilder haben die Lizenzangabe `U`.
 - **Abweichende Lizenzangabe:** Die Bildbeschreibung nennt für die iterative Suchstrategie zusätzlich CC-BY 4.0. Die ursprüngliche H5P-Bildmetadaten-Lizenz lautet jedoch `U`.
+
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0
+language: en-GB
+narrator: UK English Female
+comment: 4.5.1 Example 1: Archaeology
+logo: 
+license: CC BY 4.0
+-->
+
+### 4.5.1 Example 1: Archaeology
+
+![Anita standing under a green magnifying glass](images/file-69eb204d9b2c3.PNG "Anita")
+
+@Anita(```Example 1 - Archaeology
+
+Anita is preparing a comparative study of Early Bronze Age crop remains. She wants to find datasets, excavation records, and related documentation from multiple countries. Rather than relying on a single search query, she gradually refines her search strategy.```)
+
+---
+
+![list icon (bullet points)](images/file-6a6a1599e4c35.jpg " ")
+
+**Step 1: Identify key concepts**
+
+Anita starts by identifying the main concepts from her research question:
+
+- barley
+- Early Bronze Age
+- archaeobotany
+
+These become her initial search terms.
+
+---
+
+![search icon (magnifying glass)](images/file-6a6a158d697f1.jpg " ")
+
+**Step 2: Search using keywords and phrases**
+
+She begins with a simple keyword search: **"barley"**.
+
+To increase precision, she also searches for an exact phrase: **"Early Bronze Age".**
+
+This helps her find records that specifically refer to the period she is interested in.
+
+---
+
+![almost-equal icon (wavey equal sign)](images/file-6a6a15a6b02af.jpg " ")
+
+**Step 3: Expand the search using synonyms and controlled vocabularies**
+
+While reviewing results, Anita notices that some datasets use scientific or alternative terminology.
+
+She therefore **broadens her search** using additional terms:
+
+- "barley" OR "**Hordeum vulgare**"
+
+and
+
+- "archaeobotany" OR **palaeoethnobotany**.
+
+This helps her discover datasets that use different naming conventions.
+
+---
+
+![icon of venn diagramm ("AND")](images/file-6a6a15afada9b.jpg " ")
+
+**Step 4: Combine concepts using Boolean operators**
+
+To focus on records relevant to her research question, Anita **combines concepts:**
+
+- **(**"barley" **OR** "Hordeum vulgare"**)** **AND** "Early Bronze Age".
+
+She may further refine the search by adding another concept:
+
+- **(**"barley" **OR** "Hordeum vulgare"**)** **AND** "Early Bronze Age" **AND** "archaeobotany".
+
+If unwanted results appear, she can **exclude** them:
+
+"Bronze Age" **NOT** "Iron Age".
+
+---
+
+![filter icon (a funnel)](images/file-6a6a15bbae885.jpg " ")
+
+**Step 5: Use metadata searches and filters**
+
+The search still returns many results. Anita therefore applies **metadata filters** such as:
+
+- **Time period:** Early Bronze Age
+- **Geographic region:** Central Europe
+- **Resource type:** Dataset
+- **Access:** Openly available
+
+Instead of adding more search terms, she uses the available metadata to **focus** on the most relevant records.
+
+---
+
+![repetition icon (five arrows in a circle)](images/file-6a6a28f21b63a.png " ")
+
+**Step 6: Refine and repeat**
+
+As Anita explores datasets, she discovers new terminology, repositories, and data providers. She adapts her search accordingly and repeats earlier steps with improved search terms and filters.
+
+By combining keywords, phrases, controlled vocabularies, Boolean operators, metadata searches, and filters, Anita gradually builds a set of relevant datasets for her comparative study.
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-69eb204d9b2c3.PNG` | Anita standing under a green magnifying glass | – | U (unbekannt) |
+| `images/file-6a6a1599e4c35.jpg` | list icon (bullet points) | – | U (unbekannt) |
+| `images/file-6a6a158d697f1.jpg` | search icon (magnifying glass) | – | U (unbekannt) |
+| `images/file-6a6a15a6b02af.jpg` | almost-equal icon (wavey equal sign) | – | U (unbekannt) |
+| `images/file-6a6a15afada9b.jpg` | icon of venn diagramm ("AND") | – | U (unbekannt) |
+| `images/file-6a6a15bbae885.jpg` | filter icon (a funnel) | – | U (unbekannt) |
+| `images/file-6a6a28f21b63a.png` | repetition icon (five arrows in a circle) | – | U (unbekannt) |
+
+## Hinweisliste
+
+- **Lizenz:** Die Bildlizenzen sind jeweils mit `U` angegeben; eine konkrete Lizenz ist in den Bildmetadaten nicht vorhanden.
+- **Caption:** Für die Bilder sind keine `title`-Angaben vorhanden. Daher wurde keine Caption ergänzt.
+- **Persona-Zuordnung:** Der erste Abschnitt „Anita Example“ wurde als @Anita umgesetzt. Die weiteren Schritte enthalten keine expliziten Persona-Fragen oder -Antworten.
+- **Korrekturvorschläge:** Keine offensichtlichen Tippfehler identifiziert.
+- **Unvollständige Texte:** Keine.
+- **Platzhalter:** Keine.
+- **Quizze:** Keine.
