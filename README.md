@@ -1121,7 +1121,7 @@ As we have already seen, you can find research data through many different sourc
 <p></p>
 You can start with institutional or disciplinary repositories, aggregators, or research portals. Some focus on specific disciplines, while others cover multiple research domains. They may also operate at regional, national, or international levels.
 <p></p>
-If you don't yet know the infrastructure for a certain field, you can use an additional source: **repository registries like re3data**. These services do neither store nor aggregate research data. Instead, they help users identify suitable repositories and infrastructures.
+If you don't yet know the infrastructure for a certain field, you can use an additional source: **repository registries like re3data**. These services neither store nor aggregate research data. Instead, they help users identify suitable repositories and infrastructures.
 <p></p>
 In short:
 <p></p>
@@ -1153,30 +1153,7 @@ Common starting points for finding research data include:
 
 </section>
 
----
 
-## Hinweisliste
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Korrekturvorschläge:**
-  - „These services do neither store nor aggregate research data.“ – mögliche grammatikalische Korrektur: „These services neither store nor aggregate research data.“ Original unverändert übernommen.
-- **Persona-Zuordnung:**
-  - Anita Question → `@AnitaH` (eindeutig).
-  - Susan Answer / Explanation → `@Susan_` (eindeutig).
-- **Stilzuordnung:**
-  - „In a Nutshell“ wurde entsprechend den vorgegebenen Formatierungsregeln umgesetzt.
-  - Die Kapitelüberschrift wurde als Hauptüberschrift `#` übernommen.
-- **Randomisierung:** Nicht relevant (kein Quiz).
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
-| `images/file-6a719c313afe6.png` | Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries. | Image Unbenannt | U |
-| `images/file-69989fc2600f2.png` | Susan's head in a square frame. Susan explains | Susan explains | U |
 
 
 <!--
