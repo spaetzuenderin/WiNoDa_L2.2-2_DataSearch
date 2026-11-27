@@ -1261,25 +1261,14 @@ tDAR provides access to a broad range of archaeological research outputs. It is 
 </details>
 
 
-<!--
-author: 
-email: 
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 2.1.2 Aggregators
-logo: 
-license: CC BY 4.0
--->
-
-# 2.1.2 Aggregators
+### 2.1.2 Aggregators
 
 @AnitaH(```Which archaeological aggregator portals are useful for my data research?```)
 
 @Winnie_(```The following archaeological aggregator portals and cross-disciplinary research infrastructures provide access to archaeological, cultural heritage, biodiversity and scientific collection data.```)
 
 <details>
-<summary>AGNES - Dutch archaeological ressources</summary>
+<summary>AGNES - Dutch archaeological resources</summary>
 
 **URL:** http://agnessearch.nl
 
@@ -1292,7 +1281,7 @@ AGNES allows users to search across several archaeological resources through a s
 </details>
 
 <details>
-<summary>ARIADNE Portal - European archaeological ressources</summary>
+<summary>ARIADNE Portal - European archaeological resources</summary>
 
 **URL:** https://portal.ariadne-infrastructure.eu
 
@@ -1320,7 +1309,7 @@ Digger serves as a convenient entry point to a variety of archaeological informa
 </details>
 
 <details>
-<summary>Europeana - European cultural heritage ressources</summary>
+<summary>Europeana - European cultural heritage resources</summary>
 
 **URL:** https://www.europeana.eu
 
@@ -1333,7 +1322,7 @@ Europeana provides a single access point to a vast range of cultural heritage re
 </details>
 
 <details>
-<summary>NAHAN (North African Heritage Archives Network) - Frenche portal for cultural-heritage ressources</summary>
+<summary>NAHAN (North African Heritage Archives Network) - French portal for cultural-heritage ressources</summary>
 
 **URL:** https://nahan.huma-num.fr/
 
@@ -1410,39 +1399,7 @@ The data is compiled from open sources such as monitoring programmes, citizen sc
 
 </details>
 
----
 
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
-| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-
-## Hinweise und Korrekturvorschläge
-
-- **Schreibfehler im Original (unverändert übernommen):**
-  - "ressources" in AGNES, ARIADNE und Europeana.
-  - "Frenche" in NAHAN.
-- **Unvollständige bzw. fehlerhafte Formatierung:** Die Schreibweise "What you can fin d" bei PBDB wurde als "What you can find" zusammengeführt.
-- **Fehlerhafte Formatierung:** "What you can fi nd" bei LAND wurde als "What you can find" zusammengeführt.
-- **Leeres Textfeld:** Der letzte Accordion-Eintrag enthält keinen Text und wurde nicht übernommen.
-- **Persona-Zuordnung:** Die Frage wurde @AnitaH zugeordnet, die Erklärung @Winnie_.
-- **Quizze:** Keine Quiz-Inhalte vorhanden.
-- **Randomisierung:** Nicht zutreffend.
-- **Platzhalter:** Keine.
-
-
-<!--
-author: 
-email: 
-version: 1.0.0
-language: en
-narrator: UK English Female
-comment: 2.1.3 Image and collection databases
-logo: 
-license: CC BY 4.0
--->
 
 # 2.1.3 Image and collection databases
 
