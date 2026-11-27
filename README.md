@@ -4507,3 +4507,40 @@ From the ROR record and linked resources, he finds:
 - **Keine fehlenden Alt-Texte** oder abgeschnittenen Texte.
 - **Keine Platzhalter** erkannt.
 - **Keine unklaren Persona- oder Stilzuordnungen.**
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0
+language: en
+narrator: UK English Female
+comment: 5.4 Summary - PIDs
+license: CC BY 4.0
+-->
+
+### 5.4 Summary - PIDs
+
+@Winnie_(```Summary - Searching with PIDs
+
+In the examples, the identifier acts as a starting point for discovering additional connected resources.
+
+Persistent identifiers help create links between many different types of research outputs, people, organisations, collections, and infrastructures.
+
+These connections allow researchers to discover related resources that might not be found through keyword searches alone.```)
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U (unbekannt) |
+
+## Hinweisliste
+
+- **Lizenz:** Die Bildlizenz ist im Export mit `U` angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 übernommen.
+- **Persona:** Die Zuordnung zu `@Winnie_` erfolgt aufgrund des H5P-Titels „Winnie Answer / Explanation“.
+- **Keine Quizfragen** in diesem Kapitel.
+- **Keine fehlenden Alt-Texte** oder abgeschnittenen Texte.
+- **Keine Platzhalter** erkannt.
+- **Keine Korrekturvorschläge.**
