@@ -4095,3 +4095,46 @@ To reduce the number of results further, you can apply [[filters]].
 - **Feedback:** Die individuellen Rückmeldungen der Antwortoptionen wurden übernommen.
 - **Drag the Words:** Die vier Lösungen OR, AND, NOT und filters wurden als Lückentext umgesetzt. Die beiden zusätzlichen Distraktoren „controlled vocabularies“ und „metadata“ sind keine eigenständigen Lösungsoptionen im LiaScript-Lückentext.
 
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+comment: 5 – Persistent identifiers (PIDs)
+license: CC BY 4.0
+-->
+
+# 5 – Persistent identifiers (PIDs)
+
+@AnitaH(```Have you ever considered using persistent identifiers to find research data?```)
+
+@Winnie_(```<p>In the previous chapter, we explored search strategies based on keywords, phrases, and metadata.</p>
+
+<p><strong>However, search terms are not the only way to discover data.</strong> Another option is to search by identifier rather than by description.</p>
+
+<p>Most researchers think of <strong>PIDs</strong> primarily as identifiers assigned to datasets, publications, or researchers. However, one of their main purposes is to make these resources <em>findable</em> and connect them to related information.</p>
+
+<p><strong>Therefore, PIDs are also powerful search tools.</strong></p>```)
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699895d334e36.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+| `images/file-6a719c672e6e6.png` | Kai, Winnie, Anita, Dave and Susan sitting around a table with drinks and food | Image Unbenannt | U |
+| Kein Dateipfad vorhanden | Susan, Kai, Winnie, Anita and Dave sitting around a table with mugs and pastries. | Image Unbenannt | U |
+
+## Hinweise zur Kapiteldatei
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturen:** Keine.
+- **Persona-Zuordnung:** Die Frage wurde aufgrund des Kapiteltitels „Anita Question“ mit `@AnitaH` umgesetzt. Die Erklärung wurde aufgrund des H5P-Titels „Winnie Answer / Explanation“ mit `@Winnie_` umgesetzt.
+- **Stilzuordnung:** Die beiden Bilder der Gesprächssituation wurden dokumentiert, aber nicht separat eingebunden, da Persona-Makros verwendet werden.
+- **Unklare Bildzuordnung:** Das dritte Bild besitzt keinen Dateipfad. Es kann daher nicht als Markdown-Bild eingebunden werden.
+- **Lizenz:** Die Kurslizenz CC BY 4.0 wurde im Header angegeben. Die Bildlizenzen sind in der Quelle jeweils mit `U` angegeben.
+
