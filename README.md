@@ -1182,20 +1182,12 @@ In the following pages we will talk about the most common sources and their bene
 >**Again – it depends on your individual search needs to determine which tool will serve you best.**
 
 
-
-
 ##### klären
 Zielgruppenbeschreibung nochmal prüfen
 
 
 
-<!--
-version: 1.0.0
-language: en
-license: CC BY 4.0
--->
-
-# 2.1.1 Repositories
+### 2.1.1 Repositories
 
 @AnitaH(```Which repositories are useful for my data research?```)
 
@@ -1267,26 +1259,6 @@ Open Context emphasises FAIR and linked open data principles. It is particularly
 tDAR provides access to a broad range of archaeological research outputs. It is especially useful for discovering project archives and grey literature from North American archaeology.
 
 </details>
-
----
-
-## Images
-
-| Filename | Alt-text | Caption | License |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-
-## Hinweise und Korrekturvorschläge
-
-- Keine Platzhalter vorhanden.
-- Keine fehlenden Alt-Texte.
-- Keine unvollständigen Texte erkannt.
-- Keine offensichtlichen Rechtschreibfehler zur Korrektur vorgemerkt.
-- Persona-Zuordnung: Anita = Frage (`@AnitaH`); Winnie = Antwort/Erklärung (`@Winnie_`).
-- Keine Quizfragen in diesem Kapitel.
-- Keine Randomisierungsentscheidungen erforderlich.
-- Die Persona-Bilder werden über die Makros eingebunden.
 
 
 <!--
