@@ -1818,19 +1818,22 @@ width="100%"-->
 
 @AnitaH(```Can AI-supported search tools be useful for my data research?```)
 
-@Winnie_(```**Large Language Models (LLMs)**
-
+@Winnie_(```<p> You probably mean chat bots based on **Large Language Models (LLMs)**?</p>
+<p>
 AI based search tools are ususally LLMs with a chat-bot interface, e.g. ChatGPT, Perplexity, Gemini, Llama or others. Often, they are integrated in regular search engines such as Google.
-
-**What you can find:** Suggested search strategies, summaries, explanations, and recommendations for relevant repositories, publications, datasets, or infrastructures.
-
-**Why is it useful?**
-
+</p><p>
+**What you can find:** <br>
+Suggested search strategies, summaries, explanations, and recommendations for relevant repositories, publications, datasets, or infrastructures.
+</p><p>
+**Why is it useful?**<br>
 LLM-based assistants can help formulate search queries, identify relevant resources, and provide an initial overview of a topic.
+</p>
+```)
 
-**However, they do not replace authoritative data sources, and any results should be verified using the original repositories, aggregators, or publications.**```)
+>[!CAUTION]
+>**AI chat interfaces do not replace authoritative data sources, and any results should be verified using the original repositories, aggregators, or publications.**
 
----
+
 
 ## Image list
 
