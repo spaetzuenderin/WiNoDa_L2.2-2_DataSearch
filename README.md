@@ -877,3 +877,48 @@ Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht s
 - Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Lizenz des Kurses wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
 - Die Bildlizenzen sind in der Quelle mit „U“ angegeben und daher nicht näher bestimmbar.
 - Keine offensichtlichen Tippfehler oder unklaren Persona-Zuordnungen erkannt.
+
+<!--
+author: [PLATZHALTER: nicht angegeben]
+email:
+version: [PLATZHALTER: nicht angegeben]
+language: en
+narrator:
+comment:
+logo:
+license: CC BY 4.0
+-->
+
+### 1.3.1 Repository types
+
+@AnitaH(```What types of repositories are there?```)
+
+@Winnie_(```Repositories can be classified according to the organisation that maintains them, the community they serve, or the purpose for which they were created.<br>Some are designed for a specific discipline, while others accept data from many research fields. They may also be operated by different types of organisations, such as research institutions, museums, universities, or international infrastructures.<br>Common types of repositories include:
+
+- **Institutional repositories**, which are maintained by a specific organisation and often serve its researchers and collections e.g. [iDAI.repo](https://repo.dainst.org/) (DAI - German Archaeological Institute), ~~[GFBio submissions](https://submissions.gfbio.org/) (German Federation for Biological Data),~~ [Tierstimmenarchiv](https://suche.tierstimmenarchiv.de/?language=english) (MfN - Museum für Naturkunde Berlin ).
+- **Disciplinary repositories**, which focus on a particular research domain and often use community-specific standards, e.g. [iDAI.objects/arachne](https://arachne.dainst.org/) (archaeology), [PANGAEA](https://www.pangaea.de/) (earth and environmental sciences), or [Dryad](https://datadryad.org/) (life sciences).
+- **General-purpose repositories**, which accept data from many disciplines and research areas, e.g. [Zenodo](https://zenodo.org/).
+- **Project repositories**, which are created for a specific project or initiative and may have a limited lifespan. They are often hosted on institutional servers or deposited in broader infrastructures such as [Zenodo](https://zenodo.org/search?q=project%20data&f=access\_status%3Aopen&f=resource\_type%3Adataset&f=subject%3ABiodiversity&f=publication\_date%3A2025-12-18..2026-06-18&l=list&p=1&s=10&sort=bestmatch)). Project-related software, documentation, and occasionally data, may also be shared through platforms such as [GitHub](https://github.com/dainst/Olympia-Excavation-Diaries)).
+```)
+
+Note
+----
+
+These categories are not mutually exclusive. Many institutional repositories also focus on a particular discipline, and many disciplinary repositories are maintained by specific institutions.<br>At the same time, different repository types can coexist within the same research workflow.<br>For example, a museum may manage collection data in an institutional repository while also contributing data to a disciplinary repository used by a broader research community.
+
+### Bilder
+
+Persona-Bilder werden entsprechend den Vorgaben durch Makros ersetzt und nicht separat eingebunden.
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U (nicht näher angegeben) |
+| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U (nicht näher angegeben) |
+
+### Hinweise
+
+- Platzhalter: author, version, email, narrator, comment und logo sind in der Quelle nicht angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 gesetzt.
+- Bildlizenzen sind in der Quelle mit „U“ angegeben und nicht näher bestimmbar.
+- Mögliche Korrekturvorschläge, unverändert im Kurstext belassen: „collections e.g.“ könnte eine Zeichensetzung vor „e.g.“ benötigen; in „Museum für Naturkunde Berlin ).“ steht ein Leerzeichen vor der schließenden Klammer; im Projekt-Repositories-Abschnitt erscheinen zusätzliche schließende Klammern nach den Zenodo- und GitHub-Links.
+- Persona-Zuordnung: Die Frage ist Anita, die Erklärung Winnie zugeordnet.
+
