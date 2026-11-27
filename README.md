@@ -2576,3 +2576,72 @@ To search through millions of occurrence records, including historical collectio
 - **Unvollständige Texte:** Keine.
 - **Platzhalter:** Keine.
 - **Unklare Zuordnungen:** Die ursprüngliche Drag-and-Drop-Interaktion lässt sich mit den vorgegebenen Lückentext-Markierungen nicht vollständig nachbilden. Die vier Distraktoren wurden deshalb separat ausgewiesen.
+
+
+
+<!--
+author:
+email:
+version: 1.0
+language: en
+narrator:
+comment: WIP Evaluating archaeology sources
+license: CC BY 4.0
+-->
+
+# WIP Evaluating archaeology sources
+
+Work in progress
+
+this needs to be one or several scenario-quizzes, i.e. multiple choice with detailed feedback on the available options.
+
+each scenario would be a different search objective - finding artwork from bones (like the ice age carvings from mammut teeth) requires a different approach than looking for archaeobotanical remains or "normal" archaeological object data like pottery, coins, etc.
+
+I have not enough understanding of archaeology - need to get some help here in defining a suitable set of (max 5?) scenarios.
+
+The solutions should also aim at including non-archaeological sources like gbif, or pangaea (for archaeobotany) to make sure to drive home the cross-disciplinary point of some use cases.
+
+**Multiple choice** probably works best, because you can feedback every option - selected and unselected answers - and this really is about EVALUATION - so maybe several approaches might lead to "correct" results? so careful about phrasing to receive one "correct" answer.
+
+- Which would be the "best" option? or sth like that
+
+**Alternatively this could be a branching scenario** which also allows for lots of feedback and not necessarily any "wrong" options. there could be a "best" option, several "ok" options and "wrong" ones as well.
+
+more complicated to design but maybe better suited to the task
+
+[PLATZHALTER: Anita Quiz]
+
+@AnitaH(```Anita Quiz<br>Replace this text with H5P activity / quiz [PLATZHALTER: Replace this text with H5P activity / quiz]```)
+
+---
+
+## Hinweise und Korrekturvorschläge
+
+### Platzhalter
+- `Work in progress` – Arbeitsstandshinweis.
+- `this needs to be one or several scenario-quizzes` – redaktioneller Arbeitsauftrag.
+- `I have not enough understanding of archaeology` – Hinweis auf noch fehlende fachliche Ausarbeitung.
+- `Anita Quiz` – Platzhalter für eine noch zu erstellende Quizaktivität.
+- `Replace this text with H5P activity / quiz` – expliziter H5P-Platzhalter.
+
+### Korrekturvorschläge (nicht im Kurstext geändert)
+- `mammut teeth` → möglicherweise `mammoth teeth`.
+- `not enough understanding of archaeology` → grammatikalisch möglicherweise `not enough knowledge of archaeology`.
+- `you can feedback every option` → möglicherweise `you can provide feedback on every option`.
+- `sth like that` → informeller Ausdruck; gegebenenfalls `something like that`.
+- `gbif` → Schreibweise des Eigennamens prüfen: `GBIF`.
+- `pangaea` → Schreibweise des Eigennamens prüfen: `PANGAEA`.
+
+### Bilder
+Persona-Bilder werden entsprechend deiner Vorgabe nicht separat eingebunden.
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699897ee8561b.PNG | Anita standing under a green question mark | Nicht angegeben | U |
+
+### Unklare Zuordnungen
+- `Anita Quiz`: Die Persona-Zuordnung ist aufgrund des H5P-Titels eindeutig. Die eigentliche Quizfrage fehlt jedoch.
+- Die erste Textpassage ist ein interner Arbeitsauftrag und keine fertige Lerninhaltsseite.
+- Keine Quizfragen oder Antwortoptionen vorhanden.
+- Keine Randomisierung erforderlich.
+- LiaScript-Skill-Datei nicht abrufbar; Umsetzung nach den vorgegebenen Regeln.
