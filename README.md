@@ -2502,3 +2502,77 @@ This module develops **critical assessment skills**:
 - **Randomisierung:** Nicht zutreffend.
 
 
+
+<!--
+author: 
+email: 
+version: 1.0
+language: en-GB
+narrator: 
+comment: 2.3.1 Quiz
+logo: 
+license: CC BY 4.0
+-->
+
+# 2.3.1 Quiz
+
+![Susan standing under a green question mark](images/file-699885c238ddb.PNG)
+<!-- License: U -->
+
+<!-- question 1: Drag the Words -->
+<!-- license: U | contentType: Drag the Words -->
+
+{{1}}
+
+As part of a project, Susan is investigating the impact of climate change on the beautiful demoiselle (*Calopteryx virgo*) in Germany.
+
+To do this, she needs data on the current geographical distribution of this species in Germany, including historical records (prior to 1980).
+
+She is evaluating the various services available to her.
+
+**Match each search task with the most suitable resource. Drag the words into the correct boxes.**
+
+To search through millions of occurrence records, including historical collection data, Susan can use [[GBIF]]. [[LAND]] is the best alternative if the focus is strictly on Germany and regional mapping.
+
+For Susan's use case, a search on [[iNaturalist]] is only worthwhile if Susan is specifically looking for photographs for, instance, LLM-based image analyses such as wing patterns.
+
+And a search via [[GFBio Data Search]] becomes important when existing occurrence data needs to be supplemented with additional data, such as environmental data from other research projects.
+
+**Additional draggable words (distractors):**
+
+- DISC3D
+- OpenAIRE
+- DiSSCo
+- Biodiversity Heritage Library
+
+***
+
+**Feedback**
+
+To search through millions of occurrence records, including historical collection data, Susan can use *GBIF*. *LAND* is the best alternative if the focus is strictly on Germany and regional mapping. For Susan's use case, a search on *iNaturalist* is only worthwhile if Susan is specifically looking for photographs for, instance, LLM-based image analyses such as wing patterns. And a search via *GFBio Data Search* becomes important when existing occurrence data needs to be supplemented with additional data, such as environmental data from other research projects.
+
+***
+
+---
+
+## Image list
+
+| Filename | Alt-text | Caption | License |
+|---|---|---|---|
+| images/file-699885c238ddb.PNG | Susan standing under a green question mark | Not specified | U |
+
+## Hinweisliste
+
+- **Quiz:** Drag the Words wurde als Lückentext umgesetzt.
+- **Quiz-Titel:** „Drag the Words“ übernommen.
+- **Quiz-Metadaten:** Content type „Drag the Words“, Lizenz „U“. Autoren und yearFrom sind in der Quelle nicht angegeben.
+- **Randomisierung:** Nicht übernommen, da die Zuordnung der Ressourcen zu den Suchaufgaben inhaltlich festgelegt ist.
+- **Distraktoren:** DISC3D, OpenAIRE, DiSSCo und Biodiversity Heritage Library wurden separat als zusätzliche Auswahlwörter aufgeführt.
+- **Feedback:** Der Inhalt von `textField` wurde als Feedback übernommen.
+- **Korrekturvorschlag:** „for, instance“ könnte „for instance“ heißen.
+- **Persona-Zuordnung:** Susan wird in der Szenariobeschreibung in der dritten Person erwähnt. Daher wurde kein Persona-Makro verwendet.
+- **Bildlizenz:** U.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Platzhalter:** Keine.
+- **Unklare Zuordnungen:** Die ursprüngliche Drag-and-Drop-Interaktion lässt sich mit den vorgegebenen Lückentext-Markierungen nicht vollständig nachbilden. Die vier Distraktoren wurden deshalb separat ausgewiesen.
