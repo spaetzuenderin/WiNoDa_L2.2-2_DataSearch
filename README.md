@@ -959,44 +959,26 @@ In a Nutshell:
 </section>
 
 
-
-
 ### 1.4.1 Example search: Archaeology
 
-![Anita standing under a green magnifying glass](images/file-69eb204d9b2c3.PNG "Image unbenannt")
-
-<!-- Image license: U -->
-
-<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
-Disciplinary search - Archaeology
-
+@ExampleA(```
+### Disciplinary search - Archaeology
+<p>
 Anita is searching for archaeobotanical datasets to compare with material from her own research project.
-
+</p>
+<p>
 She begins with repositories and data portals maintained by her university and project partners because she is already familiar with these resources and their data standards.
-
+</p>
+<p>
 To identify additional datasets beyond her immediate network, she expands her search to the ARIADNE Portal, which provides access to archaeological resources from many institutions and countries.
-
+</p>
+<p>
 When she finds references to relevant datasets, she follows links to the repositories where the data are stored and documented in more detail.
-
+</p>
+<p>
 Starting locally and then broadening the search helps her find both familiar and previously unknown sources of data.
-
----
-
-## Hinweisliste
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Korrekturvorschläge:** Keine offensichtlichen Tipp- oder Grammatikfehler festgestellt.
-- **Persona-Zuordnung:** Anita ist durch das Bild und den Text eindeutig zugeordnet. Der Text ist eine Erzählung über Anita, keine direkte Frage oder Antwort. Daher kein Persona-Makro.
-- **Stilzuordnung:** „Disciplinary search - Archaeology“ wurde als lokale Zwischenüberschrift umgesetzt.
-- **Randomisierung:** Nicht relevant (kein Quiz).
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-69eb204d9b2c3.PNG` | Anita standing under a green magnifying glass | Image unbenannt | U |
+</p>
+```)
 
 
 <!--
