@@ -2723,3 +2723,103 @@ data-randomize
 
 ### Korrekturvorschläge
 Keine eindeutigen Rechtschreib- oder Grammatikfehler festgestellt.
+
+
+
+<!--
+author:
+email:
+version: 1.0
+language: en
+narrator:
+comment: 3 - Where to find Open Data
+license: CC BY 4.0
+-->
+
+# 3 - Where to find Open Data
+
+@AnitaH(```Where can I search specifically for Open Research Data?```)
+
+@Winnie_(```According to the **Open Definition** (https://opendefinition.org/), “Open data and content can be **freely used, modified, and shared** by **anyone** for **any purpose**.” In practice, this means that research data must be in the public domain or available under an open licence, machine-readable, provided in an open format, and free to download.
+
+Thus, whether data is open depends largely on its licence, file format, and any paywalls—not on where it is stored. Open data therefore does not usually reside in a separate infrastructure, even though some repositories focus on open science and open access, while others host a mix of open and restricted resources.
+
+You can find open data through many of the same repositories, aggregators, and portals used to search for research data more generally. These services often let you narrow your search to openly accessible datasets using filters for access rights, licences, or data availability.
+
+Why don't we give it a go?```)
+
+---
+
+## Hinweise und Korrekturvorschläge
+
+### Platzhalter
+- Keine Platzhalter vorhanden.
+
+### Bilder
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+### Korrekturvorschläge
+- Keine eindeutigen Rechtschreib- oder Grammatikfehler festgestellt.
+
+### Unklare Zuordnungen
+- Die Frage wurde aufgrund des H5P-Titels `Anita Question` dem Makro `@AnitaH` zugeordnet.
+- Die Erklärung wurde aufgrund des H5P-Titels `Winnie Answer / Explanation` dem Makro `@Winnie_` zugeordnet.
+- Die Kapitelnummerierung `3 -` wurde unverändert übernommen.
+
+### Quizzes
+- Keine Quizfragen vorhanden.
+- Keine Randomisierung erforderlich.
+
+
+
+<!--
+author:
+email:
+version: 1.0
+language: en
+narrator:
+comment: 3 - Where to find Open Data
+license: CC BY 4.0
+-->
+
+# 3 - Where to find Open Data
+
+@AnitaH(```Where can I search specifically for Open Research Data?```)
+
+@Winnie_(```According to the **Open Definition** (https://opendefinition.org/), “Open data and content can be **freely used, modified, and shared** by **anyone** for **any purpose**.” In practice, this means that research data must be in the public domain or available under an open licence, machine-readable, provided in an open format, and free to download.
+
+Thus, whether data is open depends largely on its licence, file format, and any paywalls—not on where it is stored. Open data therefore does not usually reside in a separate infrastructure, even though some repositories focus on open science and open access, while others host a mix of open and restricted resources.
+
+You can find open data through many of the same repositories, aggregators, and portals used to search for research data more generally. These services often let you narrow your search to openly accessible datasets using filters for access rights, licences, or data availability.
+
+Why don't we give it a go?```)
+
+---
+
+## Hinweise und Korrekturvorschläge
+
+### Platzhalter
+- Keine Platzhalter vorhanden.
+
+### Bilder
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+### Korrekturvorschläge
+- Keine eindeutigen Rechtschreib- oder Grammatikfehler festgestellt.
+
+### Unklare Zuordnungen
+- Die Frage wurde aufgrund des H5P-Titels `Anita Question` dem Makro `@AnitaH` zugeordnet.
+- Die Erklärung wurde aufgrund des H5P-Titels `Winnie Answer / Explanation` dem Makro `@Winnie_` zugeordnet.
+- Die Kapitelnummerierung `3 -` wurde unverändert übernommen.
+
+### Quizzes
+- Keine Quizfragen vorhanden.
+- Keine Randomisierung erforderlich.
