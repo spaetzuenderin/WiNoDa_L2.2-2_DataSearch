@@ -1563,3 +1563,102 @@ Also, the list is not meant to be complete, and the sources are listed in alphab
 | `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
 
 
+
+<!--
+version: 1.0.0
+language: en
+license: CC BY 4.0
+-->
+
+# 2.1.1 Repositories
+
+@AnitaH(```Which repositories are useful for my data research?```)
+
+@Winnie_(```The following repositories provide access to archaeological research data, documentation, object records, images, and project archives.```)
+
+<details>
+<summary>ADS (Archaeology Data Service) - UK archaeological data</summary>
+
+**URL:** https://archaeologydataservice.ac.uk/
+
+**What you can find:** Archaeological datasets, excavation archives, reports, and grey literature.
+
+**Why is it useful?**
+
+ADS is one of the most established archaeological repositories. It provides long-term access to research data and excavation documentation and is often used as a reference source for archaeological datasets from the United Kingdom.
+
+</details>
+
+<details>
+<summary>DANS (Data Station Archaeology) - Dutch archaeological research data</summary>
+
+**URL:** https://dans.knaw.nl/en/data-stations/archaeology
+
+**What you can find:**
+
+Archaeological datasets and associated documentation.
+
+**Why is it useful?**
+
+DANS supports long-term preservation and sharing of research data. It offers access to archaeological datasets from the Netherlands and beyond.
+
+</details>
+
+<details>
+<summary>iDAI.objects/Arachne - German archaeological object and image data</summary>
+
+**URL:** https://arachne.dainst.org/
+
+**What you can find:** Archaeological object records, images, monuments, excavation documentation, and related metadata.
+
+**Why is it useful?**
+
+Arachne provides access to a large collection of archaeological objects and visual documentation. It is particularly useful when searching for object-related information, images, and contextual information maintained by the German Archaeological Institute and its partners.
+
+</details>
+
+<details>
+<summary>Open Context - Linked Open archaeological data</summary>
+
+**URL:** https://opencontext.org/
+
+**What you can find:** Archaeological datasets linked to places, objects, publications, and other resources.
+
+**Why is it useful?**
+
+Open Context emphasises FAIR and linked open data principles. It is particularly valuable when exploring relationships between datasets and connecting archaeological information across projects.
+
+</details>
+
+<details>
+<summary>tDAR (the Digital Archaeological Record) - North American archaeological data</summary>
+
+**URL:** https://www.tdar.org/
+
+**What you can find:** Archaeological datasets, documents, images, reports, and project archives.
+
+**Why is it useful?**
+
+tDAR provides access to a broad range of archaeological research outputs. It is especially useful for discovering project archives and grey literature from North American archaeology.
+
+</details>
+
+---
+
+## Images
+
+| Filename | Alt-text | Caption | License |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+## Hinweise und Korrekturvorschläge
+
+- Keine Platzhalter vorhanden.
+- Keine fehlenden Alt-Texte.
+- Keine unvollständigen Texte erkannt.
+- Keine offensichtlichen Rechtschreibfehler zur Korrektur vorgemerkt.
+- Persona-Zuordnung: Anita = Frage (`@AnitaH`); Winnie = Antwort/Erklärung (`@Winnie_`).
+- Keine Quizfragen in diesem Kapitel.
+- Keine Randomisierungsentscheidungen erforderlich.
+- Die Persona-Bilder werden über die Makros eingebunden.
