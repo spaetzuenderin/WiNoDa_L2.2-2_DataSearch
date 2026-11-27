@@ -4302,3 +4302,56 @@ PIDs create a network of connected resources that researchers can navigate to di
 - **Unklare Zuordnungen:** Keine.
 - **Quiz-Randomisierung:** Nicht zutreffend.
 - **Bildlizenzen:** Beide Bildlizenzen sind im Export mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+email:
+version: 1.0
+language: en-GB
+narrator: UK English Female
+comment: Chapter 5.3 – Searching with PIDs
+logo:
+license: CC BY 4.0
+-->
+
+## 5.3 Searching with PIDs
+
+@AnitaH(```How can I use identifiers in a data search?```)
+
+@Winnie_(```Services such as:```)
+
+- DataCite Commons
+- OpenAIRE
+- ARIADNE Portal
+
+@Winnie_(```use persistent identifiers to display **connections between datasets, publications, researchers, projects, and organisations**.
+
+Instead of searching with keywords alone, researchers can search directly for identifiers such as:```)
+
+- **DOI**
+- **ORCID**
+- **project identifiers**
+- **organisation identifiers**
+
+@Winnie_(```to **discover related resources** that keyword searches may miss.
+
+The following examples illustrate two common ways of using persistent identifiers as search tools.```)
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:** Keine offensichtlichen Rechtschreib- oder Grammatikfehler festgestellt.
+- **Unklare Zuordnungen:** Keine.
+- **Quiz-Randomisierung:** Nicht zutreffend.
+- **Bildlizenzen:** Beide Bildlizenzen sind im Export mit "U" angegeben. Die Kurslizenz wurde gemäss Vorgabe als CC BY 4.0 eingetragen.
