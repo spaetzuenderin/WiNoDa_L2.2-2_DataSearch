@@ -1834,3 +1834,81 @@ The data is compiled from open sources such as monitoring programmes, citizen sc
 - **Quizze:** Keine Quiz-Inhalte vorhanden.
 - **Randomisierung:** Nicht zutreffend.
 - **Platzhalter:** Keine.
+
+
+<!--
+author: 
+email: 
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 2.1.3 Image and collection databases
+logo: 
+license: CC BY 4.0
+-->
+
+# 2.1.3 Image and collection databases
+
+@AnitaH(```Which image and collection repositories are useful for my data research?```)
+
+@Winnie_(```The following image and collection repositories provide access to archaeological visual documentation, object records, and cultural heritage image collections.```)
+
+<details>
+<summary>arkuBiD - Archaeological image collections</summary>
+
+**URL:** https://arkubid.uni-bonn.de/
+
+**What you can find:** Archaeological image collections and visual documentation.
+
+**Why is it useful?**
+
+arkuBiD is particularly useful for teaching, comparative studies, and visual research. It provides access to curated image collections from archaeological contexts.
+
+</details>
+
+<details>
+<summary>iDAI.objects/Arachne - Archaeological visual documentation</summary>
+
+**URL:** https://arachne.dainst.org/
+
+**What you can find:** Images, object records, monuments, and excavation documentation.
+
+**Why is it useful?**
+
+Besides serving as a repository, Arachne is a major source of visual documentation. Researchers can use it to explore archaeological objects and associated imagery in a structured way.
+
+</details>
+
+<details>
+<summary>Propylaeum_IMAGES - Archaeological/cultural heritage image collections</summary>
+
+**URL:** https://www.propylaeum.de/recherche/propylaeum-images/images
+
+**What you can find:** Archaeological and cultural heritage image collections.
+
+**Why is it useful?**
+
+Propylaeum_IMAGES offers access to image-based resources from various providers. It is especially useful when searching for visual material related to archaeological sites, objects, and heritage collections.
+
+</details>
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+## Hinweise und Korrekturvorschläge
+
+- **Persona-Zuordnung:** Die Frage wurde @AnitaH zugeordnet, die Erklärung @Winnie_.
+- **Leere Textfelder:** Keine.
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturen:** Keine.
+- **Unklare Zuordnungen:** Keine.
+- **Quizze:** Keine Quiz-Inhalte vorhanden.
+- **Randomisierung:** Nicht zutreffend.
