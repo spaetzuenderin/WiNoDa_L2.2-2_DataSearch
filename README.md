@@ -3467,3 +3467,66 @@ In a Nutshell:
 - **Quizze:** In diesem Kapitel sind keine Quiz-Inhalte enthalten.
 - **Randomisierung:** Nicht relevant.
 - **Lizenz:** Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 eingetragen. Die Bildlizenzen wurden unverändert aus der Quelle übernommen.
+
+
+
+<!--
+author:
+email:
+version: 1.0
+language: en-GB
+narrator:
+comment: Chapter 4.4 – Iterative refinement
+logo:
+license: CC BY 4.0
+-->
+
+# 4.4 Iterative refinement
+
+@AnitaH(```Why is searching an iterative process?```)
+
+@Susan_(```
+**Searching for research data rarely follows a straight line.** As researchers learn more about the available data, they often need to adjust and refine their approach. For this reason, the most effective search strategies are iterative. **Researchers continuously adapt their search terms, filters, and the resources they search** as they learn more about the available data.
+
+Researchers often:
+- test different keywords,
+- explore metadata,
+- apply and remove filters,
+- try alternative platforms,
+- discover new terminology during the search process.
+
+**Each search result can provide clues for improving the next search.**
+```)
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+In a Nutshell:
+
+<!-- style="color: #2581C4" -->
+<section>
+- Effective searching is an iterative process.
+- Search terms, filters, and search locations often change over time.
+- New results may reveal new terminology, repositories, or datasets.
+- Refining a search is a normal part of research data discovery.
+</section>
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-69989fc2600f2.png` | Susan's head in a square frame. Susan explains | Susan explains | U |
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine erkennbar.
+- **Korrekturvorschläge:** Keine offensichtlichen Rechtschreib- oder Grammatikfehler festgestellt.
+- **Unklare Persona-Zuordnungen:** Keine. Anita stellt die Frage, Susan gibt die Erklärung.
+- **Quizze:** Keine.
+- **Randomisierung:** Nicht relevant.
+- **Bildlizenzen:** Beide Bilder haben die Lizenzangabe `U` in der Quelle.
