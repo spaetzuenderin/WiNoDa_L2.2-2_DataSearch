@@ -1820,7 +1820,7 @@ width="100%"-->
 
 @Winnie_(```<p> You probably mean chat bots based on **Large Language Models (LLMs)**?</p>
 <p>
-AI based search tools are ususally LLMs with a chat-bot interface, e.g. ChatGPT, Perplexity, Gemini, Llama or others. Often, they are integrated in regular search engines such as Google.
+AI-based search tools are usually LLMs with a chatbot interface, e.g. ChatGPT, Perplexity, Gemini, Llama or others. Often, they are integrated in regular search engines such as Google.
 </p><p>
 **What you can find:** <br>
 Suggested search strategies, summaries, explanations, and recommendations for relevant repositories, publications, datasets, or infrastructures.
@@ -1831,30 +1831,8 @@ LLM-based assistants can help formulate search queries, identify relevant resour
 ```)
 
 >[!CAUTION]
->**AI chat interfaces do not replace authoritative data sources, and any results should be verified using the original repositories, aggregators, or publications.**
+>**AI-summaries or chat interfaces do not replace authoritative data sources, and any results should be verified using the original repositories, aggregators, or publications.**
 
-
-
-## Image list
-
-| Filename | Alt-text | Caption | License |
-|---|---|---|---|
-| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
-| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-
-## Hinweisliste
-
-- **Korrekturvorschlag:** „ususally“ sollte vermutlich „usually“ heißen.
-- **Korrekturvorschlag:** „AI based“ könnte als „AI-based“ geschrieben werden.
-- **Korrekturvorschlag:** „chat-bot“ könnte als „chatbot“ geschrieben werden.
-- **Persona-Zuordnung:** Erste Frage des Kapitels als `@AnitaH` umgesetzt.
-- **Persona-Zuordnung:** Erklärung als `@Winnie_` umgesetzt.
-- **Bildlizenzen:** Beide Bilder haben in der Quelle die Lizenz „U“.
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Quizzes:** Keine.
-- **Randomisierung:** Nicht zutreffend.
 
 
 
