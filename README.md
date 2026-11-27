@@ -1535,33 +1535,21 @@ Herbarium portals provide access to detailed specimen-level information, often i
 - **Unvollständiger Text:** „Geological, mineralogical and palaeontological collections“ enthält im H5P-Export kein Textfeld mit Inhalt.
 
 
-
-<!--
-author:
-email:
-version: 1.0
-language: English
-narrator: UK English Female
-comment: 2.1.4 Literature and publication databases
-logo:
-license: CC BY 4.0
--->
-
-# 2.1.4 Literature and publication databases
+### 2.1.5 Literature and publication databases
 
 @AnitaH(```Which literature and publication databases are useful for my data research?```)
 
-@Winnie_(```
+@Winnie_(``` [Platzhalter text]```)
 
 <details>
 <summary>GBD (Gnomon Bibliographische Datenbank) - Greco-Roman/classical antiquity</summary>
 
 **URL:** https://www.gbd.digital/gbd/
 
-**What you can find:** Bibliographic references in Classical Studies, archaeology, ancient history, and related disciplines.
+**What you can find:** 
+Bibliographic references in Classical Studies, archaeology, ancient history, and related disciplines.
 
 **Why is it useful?**
-
 Gnomon is a standard reference tool for literature research in Classical Archaeology and related fields. It helps researchers identify relevant publications and track scholarly discussions on a topic.
 
 </details>
@@ -1571,10 +1559,10 @@ Gnomon is a standard reference tool for literature research in Classical Archaeo
 
 **URL:** https://www.propylaeum.de/
 
-**What you can find:** Publications, digital resources, bibliographic references, and research materials in archaeology and ancient studies.
+**What you can find:** 
+Publications, digital resources, bibliographic references, and research materials in archaeology and ancient studies.
 
 **Why is it useful?**
-
 Propylaeum Search provides a central entry point to archaeological literature and information resources. It helps researchers discover both traditional publications and digital resources relevant to their work.
 
 </details>
@@ -1584,10 +1572,10 @@ Propylaeum Search provides a central entry point to archaeological literature an
 
 **URL:** https://zenon.dainst.org
 
-**What you can find:** Bibliographic references, books, journals, and other literature in archaeology and related disciplines.
+**What you can find:** 
+Bibliographic references, books, journals, and other literature in archaeology and related disciplines.
 
 **Why is it useful?**
-
 Zenon is the central catalogue of the German Archaeological Institute. It is particularly valuable for identifying specialist literature and publications that may not be easily found through general library catalogues.
 
 </details>
@@ -1597,10 +1585,10 @@ Zenon is the central catalogue of the German Archaeological Institute. It is par
 
 **URL:** https://www.biodiversitylibrary.org
 
-**What you can find:** Literature on biodiversity, ranging from monographs and expedition reports to species descriptions and historical field notes.
+**What you can find:** 
+Literature on biodiversity, ranging from monographs and expedition reports to species descriptions and historical field notes.
 
 **Why is it useful?**
-
 For taxonomists, it is important for finding the original description of a species and verifying names, etc.
 
 </details>
@@ -1611,11 +1599,9 @@ For taxonomists, it is important for finding the original description of a speci
 **URL:** https://tb.plazi.org/GgServer/search
 
 **What you can find:**
-
 Access taxonomic treatments, species descriptions, identification keys, nomenclatural acts, and other taxonomic information extracted from scientific literature.
 
 **Why is it useful?**
-
 Provides a starting point for literature research and helps locate relevant taxonomic publications and species-level information.
 
 </details>
@@ -1626,11 +1612,9 @@ Provides a starting point for literature research and helps locate relevant taxo
 **URL:** https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/zoological-record/ (not open)
 
 **What you can find:**
-
 The world’s largest index of zoological literature, founded in 1864 by the Zoological Society of London. The database is published electronically via Clarivate.
 
 **Why is it useful:**
-
 It serves as a global reference database for animal taxonomy, has indexed several thousand journal titles in over a hundred countries, and contains historical records dating back to the 19th century. Those that are no longer subject to copyright are also accessible via the BHL.
 
 </details>
@@ -1641,63 +1625,50 @@ It serves as a global reference database for animal taxonomy, has indexed severa
 **URL:** https://information.americangeosciences.org/georef (not open)
 
 **What you can find:**
-
 Bibliographic data for geosciences, including paleontology, stratigraphy, sedimentology, and geological history.
 
 **Why is it useful?**
-
-GeoRef supports searches for literatur about specific rock formations, stratigraphic layers or, more generally, the environmental conditions in which fossils were found.
+GeoRef supports searches for literature about specific rock formations, stratigraphic layers or, more generally, the environmental conditions in which fossils were found.
 
 </details>
 
-```)
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
+<div style="display: flex; align-items: flex-start; gap: 1em;">
 
-@Winnie_(```
+<div style="flex: 0 0 30%; min-width: 0;">
 
-![Winnie standing under a green magnifying glass](images/file-69eb200be1cc1.PNG "Image unbenannt")
-<!-- License: U -->
+![Winnie sitting behind a blue desk with a lime-green telephone, holding the receiver. Above her is a large "i" in a circle](images/Info-Winnie.PNG)<!--
+width="100%"-->
 
-<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
-Literature on the Conservation of Natural History Collections
+</div>
 
-<!-- style="color: #2581C4" -->
-<section>
+<div style="flex: 1; min-width: 0;">
 
-In 2025, Birger Neuhaus, the retiring taxonomist for Kinorhyncha at the Berlin Museum of Natural History, contacted WoRMS. During her time as a researcher, she had compiled a collection of literature on the preservation of specimens, covering topics ranging from conservation to digitisation. Some of the references dated back as far as the 16th century.
+>[!TIP] **Literature on the Conservation of Natural History Collections**
+>
+>In 2025, **Birger Neuhaus**, the retiring taxonomist for Kinorhyncha at the Berlin Museum of Natural History, contacted **WoRMS**. 
+>
+>During her time as a researcher, she had compiled a collection of literature on the preservation of specimens, covering topics ranging from conservation to digitisation. Some of the references dated back as far as the 16th century.
+>
+>WoRMS subsequently created an access point via the World Kinorhyncha Database:
+>>[https://www.marinespecies.org/kinorhyncha/conservation_literature.php?p=sources](https://www.marinespecies.org/kinorhyncha/conservation_literature.php?p=sources)
 
-WoRMS subsequently created an access point via the World Kinorhyncha Database:
+</div>
+</div>
 
-https://www.marinespecies.org/kinorhyncha/conservation_literature.php?p=sources
 
-</section>
-
-```)
-
-## Bildverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
-| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-| `images/file-69eb200be1cc1.PNG` | Winnie standing under a green magnifying glass | Image unbenannt | U |
-
-## Hinweise und Korrekturvorschläge
-
-- **Platzhalter:** Keine.
-- **Fehlende Alt-Texte:** Keine.
-- **Unvollständige Texte:** Keine.
-- **Persona-Zuordnung:** Anita als erste Frage (`@AnitaH`), Winnie als Antwort/Erklärung (`@Winnie_`). Das Beispiel zur Konservierungsliteratur ist ebenfalls Winnie zugeordnet.
-- **Stilzuordnung:** Der Abschnitt „Literature on the Conservation of Natural History Collections“ wurde als hervorgehobener Beispielabschnitt übernommen.
-- **Quiz:** Keine Quiz-Inhalte vorhanden.
-- **Randomisierung:** Nicht relevant.
-
-### Korrekturvorschläge
-
-Folgende mögliche sprachliche Fehler wurden unverändert übernommen:
-
-- „literatur“ → „literature“
+##### klären
+- wer oder was ist WoRMS - sehr abrupt eingeführt
 - „During her time“: mögliche Unstimmigkeit zwischen dem genannten Namen Birger Neuhaus und dem verwendeten Pronomen „her“.
-- „GeoRef supports searches for literatur“: Schreibfehler im Original.
+
 
 
 <!--
