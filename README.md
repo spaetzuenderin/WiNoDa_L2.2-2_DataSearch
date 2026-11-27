@@ -4457,3 +4457,53 @@ She **searches the researcher's ORCID profile** and finds:
 - **Keine fehlenden Alt-Texte** oder abgeschnittenen Texte.
 - **Keine Platzhalter** erkannt.
 - **Keine unklaren Persona-Zuordnungen.**
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0
+language: en
+narrator: UK English Female
+comment: 5.3.3 Example 3: ROR
+license: CC BY 4.0
+-->
+
+### 5.3.3 Example 3: ROR
+
+Example 3: Searching with ROR
+
+Many repositories and research infrastructures identify organisations using **Research Organization Registry (ROR)** identifiers. This makes it easier to find research outputs associated with a specific institution, even when its name appears in different forms or languages.
+
+![Kai standing under a green magnifying glass](images/file-69eb20b57cd8d.PNG "Image unbenannt")
+
+Kai wants to see how another natural history museum publishes and shares its collection data. Instead of searching for the museum by name, he searches using the museum's **ROR** identifier.
+
+From the ROR record and linked resources, he finds:
+
+- datasets published by the institution
+- publications
+- associated repositories and research infrastructures
+- links to related organisations and collaborations
+
+**Benefit**
+
+- reliable identification of an organisation
+- discovery of persons and research outputs associated with a specific institution
+- easier exploration of institutional collaborations and data providers
+
+---
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-69eb20b57cd8d.PNG` | Kai standing under a green magnifying glass | Image unbenannt | U (unbekannt) |
+
+## Hinweisliste
+
+- **Lizenz:** Die Bildlizenz ist im Export mit `U` angegeben. Die Kurslizenz wurde gemäß Vorgabe als CC BY 4.0 übernommen.
+- **Keine Korrekturvorschläge.**
+- **Keine Quizfragen** in diesem Kapitel.
+- **Keine fehlenden Alt-Texte** oder abgeschnittenen Texte.
+- **Keine Platzhalter** erkannt.
+- **Keine unklaren Persona- oder Stilzuordnungen.**
