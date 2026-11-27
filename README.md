@@ -1244,3 +1244,47 @@ Starting locally and then broadening the search helps her find both familiar and
 | `images/file-69eb204d9b2c3.PNG` | Anita standing under a green magnifying glass | Image unbenannt | U |
 
 
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+version: 1.0.0
+language: en
+narrator: UK English Female
+comment: 1.4.2 Example search: Biodiversity
+license: CC BY 4.0
+-->
+
+### 1.4.2 Example search: Biodiversity
+
+![Susan standing under a green magnifying glass](images/file-69eb2086bf569.PNG "Image unbenannt")
+
+<!-- Image license: U -->
+
+<!-- style="color: #AFCA0B; font-family: Arial; font-size: 1.5em;" -->
+Example search - Biodiversity
+
+Susan is looking for occurrence records of dragonfly species across Europe.
+
+Because she needs biodiversity data from many institutions and countries, she starts with a disciplinary aggregator such as GBIF. This allows her to search millions of records through a single interface.
+
+Once she identifies particularly relevant datasets, she visits the original repositories or collection portals for additional information.
+
+Starting with a disciplinary aggregator allows Susan to search broadly across many institutions before focusing on the most relevant datasets and their original sources.
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturvorschläge:** Keine offensichtlichen Tipp- oder Grammatikfehler festgestellt.
+- **Persona-Zuordnung:** Susan ist durch das Bild und den Text eindeutig zugeordnet. Da es sich um eine Erzählung und nicht um eine direkte Frage oder Antwort handelt, wurde kein Persona-Makro verwendet.
+- **Stilzuordnung:** „Example search - Biodiversity“ wurde als lokale Zwischenüberschrift umgesetzt.
+- **Randomisierung:** Nicht relevant (kein Quiz).
+
+## Bildverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-69eb2086bf569.PNG` | Susan standing under a green magnifying glass | Image unbenannt | U |
+
