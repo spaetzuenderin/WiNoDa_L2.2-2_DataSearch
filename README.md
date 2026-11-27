@@ -2389,3 +2389,54 @@ https://kb.gfbio.org/label/KB/winoda
 - **Fehlende Alt-Texte:** Keine.
 - **Unvollständige Texte:** Keine.
 - **Randomisierung:** Nicht zutreffend.
+
+
+<!--
+author: 
+email: 
+version: 1.0
+language: en-GB
+narrator: 
+comment: 2.2 AI and LLM-based chatbots
+logo: 
+license: CC BY 4.0
+-->
+
+# 2.2 AI and LLM-based chatbots
+
+@AnitaH(```Can AI-supported search tools be useful for my data research?```)
+
+@Winnie_(```**Large Language Models (LLMs)**
+
+AI based search tools are ususally LLMs with a chat-bot interface, e.g. ChatGPT, Perplexity, Gemini, Llama or others. Often, they are integrated in regular search engines such as Google.
+
+**What you can find:** Suggested search strategies, summaries, explanations, and recommendations for relevant repositories, publications, datasets, or infrastructures.
+
+**Why is it useful?**
+
+LLM-based assistants can help formulate search queries, identify relevant resources, and provide an initial overview of a topic.
+
+**However, they do not replace authoritative data sources, and any results should be verified using the original repositories, aggregators, or publications.**```)
+
+---
+
+## Image list
+
+| Filename | Alt-text | Caption | License |
+|---|---|---|---|
+| images/file-699888b3b742a.png | Anita's head in an orange circle. Anita asks | Anita | U |
+| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+## Hinweisliste
+
+- **Korrekturvorschlag:** „ususally“ sollte vermutlich „usually“ heißen.
+- **Korrekturvorschlag:** „AI based“ könnte als „AI-based“ geschrieben werden.
+- **Korrekturvorschlag:** „chat-bot“ könnte als „chatbot“ geschrieben werden.
+- **Persona-Zuordnung:** Erste Frage des Kapitels als `@AnitaH` umgesetzt.
+- **Persona-Zuordnung:** Erklärung als `@Winnie_` umgesetzt.
+- **Bildlizenzen:** Beide Bilder haben in der Quelle die Lizenz „U“.
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Quizzes:** Keine.
+- **Randomisierung:** Nicht zutreffend.
