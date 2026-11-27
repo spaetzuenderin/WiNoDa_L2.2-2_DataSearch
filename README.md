@@ -405,8 +405,9 @@ data-text-failed="Incorrect. Repositories are not merely metadata hubs or centra
 
 {{3-4}}
 <section>
-<!-- question 3: WiNoDa_04_004_0863a_Multiple-Choice_3 -->
-<!-- contentType: Multiple Choice | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 -->
+
+<!--- question 3: WiNoDa_04_004_0863a_Multiple-Choice_3 
+ contentType: Multiple Choice | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 --->
 
 **Who is typically responsible for deciding how data are curated, maintained, and made accessible in a repository or aggregator?**
 
@@ -425,71 +426,38 @@ data-text-failed="Incorrect. The organisation operating the repository or aggreg
 
 </section>
 
-# 1.2 Benefits of repository and aggregators
+## 1.2 Benefits of repositories and aggregators
 
 @AnitaH(```What are the benefits of repositories and aggregators?```)
 
 @Winnie_(```Repositories and aggregators support research data management in different but complementary ways.```)
-
-### Bilder
-
-- Dateiname: `images/file-699888b3b742a.png`
-  - Alt-Text: Anita's head in an orange circle. Anita asks
-  - Caption: Anita
-  - Lizenz: U
-- Dateiname: `images/file-6a4bcd1fcc57b.png`
-  - Alt-Text: Winnie's head in a square frame. Winnie answers
-  - Caption: Winnie answers
-  - Lizenz: U
-
-### Hinweise
-
-- Metadaten zu Version, language, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben. `language: en` wurde anhand des englischen Kapitelinhalts gesetzt.
-- Die beiden Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
-- Korrekturvorschlag für den Kapiteltitel: „1.2 Benefits of repositories and aggregators“. Der Originaltitel wurde unverändert übernommen.
-- Keine unvollständigen Texte oder unklaren Persona-Zuordnungen erkannt.
-
-
 
 
 ### 1.2.1 RDM benefitting from repositories
 
 @AnitaH(```How do repositories contribute to research data management?```)
 
-@Winnie_(```**Repositories** provide a trusted environment for storing, managing, and sharing research data.
-
+@Winnie_(```<p>**Repositories** provide a trusted environment for storing, managing, and sharing research data.
+</p>
+<p>
 Researchers can deposit datasets together with documentation, metadata, and information about methods, licences, or access conditions.
-
+</p>
+<p>
 Many repositories require this contextual information as part of their quality assurance procedures. Making contextual information mandatory ensures that data can be reused in different research contexts.
-
-Additionally, many repositories support key RDM requirements by:
-
-- assigning persistent identifiers (such as DOIs),
-- enabling long-term preservation,
-- documenting provenance and ownership,
-- supporting access control where needed,
-- facilitating data citation and acknowledgement.
-
-By ensuring that data remain accessible and understandable over time, repositories help researchers comply with institutional, funder, and community requirements.```)
-
-### Bilder
-
-- Dateiname: `images/file-699888b3b742a.png`
-  - Alt-Text: Anita's head in an orange circle. Anita asks
-  - Caption: Anita
-  - Lizenz: U
-- Dateiname: `images/file-6a4bcd1fcc57b.png`
-  - Alt-Text: Winnie's head in a square frame. Winnie answers
-  - Caption: Winnie answers
-  - Lizenz: U
-
-### Hinweise
-
-- Metadaten zu Version, narrator, comment und logo sind im übermittelten Kapitel nicht angegeben.
-- Die Bilder sind Persona-Bilder und wurden nicht als separate Kursbilder eingesetzt.
-- Keine Platzhalter, fehlenden Alt-Texte, unvollständigen Texte, Korrekturvorschläge oder unklaren Zuordnungen erkannt.
-
-
+</p>
+<p>
+<p>Additionally, many repositories support key RDM requirements by:</p>
+<ul>
+  <li>assigning persistent identifiers (such as DOIs),</li>
+  <li>enabling long-term preservation,</li>
+  <li>documenting provenance and ownership,</li>
+  <li>supporting access control where needed,</li>
+  <li>facilitating data citation and acknowledgement.</li>
+</ul>
+</p>
+<p>
+By ensuring that data remain accessible and understandable over time, repositories help researchers comply with institutional, funder, and community requirements.</p>
+```)
 
 
 ### 1.2.2 RDM benefitting from aggregators
