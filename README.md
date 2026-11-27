@@ -2951,3 +2951,78 @@ Open data are not always identified through a dedicated search filter. Portals s
 9. **Korrekturvorschläge:** Keine eigenständigen Korrekturen vorgenommen.
 10. **Platzhalter:** Keine festgestellt.
 11. **Unklare Zuordnungen:** Das Bild „Screenshot ARIADNE search“ gehört zum Quiz und wurde unmittelbar unter der Frage platziert.
+
+
+
+<!--
+author: Asta v. Schröder (WiNoDa Knowledge Lab)
+email:
+version: 1.0
+language: en
+narrator:
+comment: Converted from H5P Portfolio chapter 2.3.3
+logo:
+license: CC BY 4.0
+-->
+
+# 2.3.3 Scenario 2: Biodiversity
+
+{{1}}
+
+<section>
+
+<!-- question 1: 01_008_0149_Multiple-Choice_1 -->
+<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+
+@SusanH(```https://www.gbif.org
+
+Susan is searching GBIF for dragonfly occurrence records across Europe. She wants to reuse the data in her research.
+
+How can she identify datasets that are openly available and reusable?
+
+(Select all that apply.)```)
+
+![Screenshot GBIF search](images/image-34Ps9T5R.png "Untitled Image")
+
+<!--
+data-randomize
+data-text-solved="Correct. Licence information specifies whether the data can be reused and under which conditions. Correct. Access conditions indicate whether the data are openly available or subject to restrictions. Correct. If data can be downloaded, users can usually access them directly for further analysis and reuse."
+data-text-failed="Use name of data publisher to infer if data might be open: Incorrect. The data publisher can help assess the source of the data, but does not indicate whether the data are openly available or reusable. | Consider number of citations to estimate openness: Incorrect. Citation counts may indicate impact or reuse, but they do not determine whether data are openly accessible. | Check issues and qualities: Incorrect. Information about data quality is important for assessing fitness for use, but it does not indicate whether the data are open or reusable."
+-->
+
+[[X]] Use filters for **licence type or usage rights**
+
+[[X]] Check **access status / open data indicators**
+
+[[X]] Check **download availability for datasets**
+
+[[ ]] Use **name of data publisher** to infer if data might be open
+
+[[ ]] Consider **number of citations** to estimate openness
+
+[[ ]] Check **issues and qualities**
+
+***
+Open data in aggregators such as GBIF is typically identified through licence information, access status, and download options rather than bibliographic metadata. These elements help users determine whether and how data can be reused.
+***
+
+</section>
+
+---
+
+## Bilderverzeichnis
+
+| Dateiname | Alt-Text | Caption | Lizenz |
+|---|---|---|---|
+| `images/file-699885c238ddb.PNG` | Susan standing under a green question mark | Image unbenannt | U |
+| `images/image-34Ps9T5R.png` | Screenshot GBIF search | Untitled Image | U |
+
+## Hinweise und Prüfbedarf
+
+- **Persona-Zuordnung:** Susan wurde als `@SusanH` umgesetzt, da der H5P-Platzhalter den Titel „Susan Quiz“ trägt und das zugehörige Persona-Bild Susan zeigt.
+- **Randomisierung:** `data-randomize` übernommen, da `randomAnswers: true` eingestellt ist.
+- **Feedback:** Die drei richtigen und drei falschen Antwortoptionen besitzen jeweils eigenes Feedback. Die Texte wurden entsprechend zugeordnet.
+- **Korrekturvorschlag:** „Check issues and qualities“ ist sprachlich ungewöhnlich. Möglicherweise ist eine andere Formulierung beabsichtigt. Originaltext unverändert übernommen.
+- **Lizenz:** Die Bildlizenzen sind im Export mit `U` angegeben (unbekannt). Die Quiz-Metadaten nennen CC BY 4.0.
+
+**Kapitel 2.3.3 abgeschlossen.** Ich warte auf das nächste Kapitel.
