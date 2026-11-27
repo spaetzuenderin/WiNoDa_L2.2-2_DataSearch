@@ -2010,7 +2010,7 @@ There may be more than one correct answer per question.
 </div>
 </div>
 
-## 3.2 Scenario 1: Open Archaeology Data
+### 3.2.1 Scenario 1: Open Archaeology Data
 
 <!---
 style
@@ -2041,7 +2041,7 @@ for archaeobotanical datasets that she can reuse in her PhD project.
 </div>
 </div>
 
-<!--- question 1: 01_008_0149_Multiple-Choice_2 | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice --->
+<!--- question: 01_008_0149_Multiple-Choice_2 | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice --->
 
 <div class="persona--anita">
 
@@ -2052,7 +2052,7 @@ for archaeobotanical datasets that she can reuse in her PhD project.
 <!--
 data-randomize
 data-text-solved="Correct. Access information indicates whether data can be viewed, downloaded, or reused. | Correct. Even if there is no licence filter, licence information in the metadata helps determine how data may be reused. | Correct. Following links to the original repository often provides additional information about access and reuse conditions."
-data-text-failed="Use citation counts to decide reuse rights: Incorrect. Citation counts may indicate impact or reuse, but they do not determine whether data are openly accessible. | Check country where the data were created: Incorrect. The location of data creation does not indicate whether a dataset is open or reusable. | Use date of publication to estimate data openness: Incorrect. The publication date may be useful for assessing relevance, but it does not indicate openness."
+data-text-failed="Incorrect. Citation counts, the country where data were created, and the publication date may provide useful context, but none of these determines whether data are openly accessible or reusable. To assess openness, check the data's licence and access conditions."
 -->
 
 [[X]] Check **access conditions in the dataset record**
@@ -2072,31 +2072,49 @@ Open data are not always identified through a dedicated search filter. Portals s
 
 </div>
 
+### 3.2.3 Scenario 2: Biodiversity
 
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
 
-# 2.3.3 Scenario 2: Biodiversity
+<div style="display: flex; align-items: flex-start; gap: 1em;">
 
-{{1}}
+<div style="flex: 0 0 30%; min-width: 0;">
 
-<section>
+![Susan standing under a large question mark](images/Quiz-Susan.PNG)<!--
+width="100%"-->
 
-<!-- question 1: 01_008_0149_Multiple-Choice_1 -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice -->
+</div>
+<div class="persona--Susan">
+<h3>Scenario 2: Biodiversity</h3>
+Susan is searching GBIF for dragonfly occurrence records across Europe. 
 
-@SusanH(```https://www.gbif.org
+She wants to reuse the data in her research.
+>>[https://www.gbif.org](https://www.gbif.org)
 
-Susan is searching GBIF for dragonfly occurrence records across Europe. She wants to reuse the data in her research.
+![Screenshot GBIF search](images/Screenshot_GBIF.png)
 
-How can she identify datasets that are openly available and reusable?
+</div>
+</div>
 
-(Select all that apply.)```)
+<!--- question: 01_008_0149_Multiple-Choice_1 | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Multiple Choice --->
 
-![Screenshot GBIF search](images/image-34Ps9T5R.png "Untitled Image")
+<div class="persona--susan">
+<h3>How can she identify datasets that are openly available and reusable?</h3>
+
+**Select all that apply.**
 
 <!--
 data-randomize
 data-text-solved="Correct. Licence information specifies whether the data can be reused and under which conditions. Correct. Access conditions indicate whether the data are openly available or subject to restrictions. Correct. If data can be downloaded, users can usually access them directly for further analysis and reuse."
-data-text-failed="Use name of data publisher to infer if data might be open: Incorrect. The data publisher can help assess the source of the data, but does not indicate whether the data are openly available or reusable. | Consider number of citations to estimate openness: Incorrect. Citation counts may indicate impact or reuse, but they do not determine whether data are openly accessible. | Check issues and qualities: Incorrect. Information about data quality is important for assessing fitness for use, but it does not indicate whether the data are open or reusable."
+data-text-failed="Incorrect. The data publisher, citation count, and information about data quality can all provide useful context, but none of these indicates whether data are openly accessible and reusable. To assess openness, check the data's licence and access conditions."
 -->
 
 [[X]] Use filters for **licence type or usage rights**
@@ -2109,45 +2127,14 @@ data-text-failed="Use name of data publisher to infer if data might be open: Inc
 
 [[ ]] Consider **number of citations** to estimate openness
 
-[[ ]] Check **issues and qualities**
-
+[[ ]] Check **issues and flags for data quality**
 ***
 Open data in aggregators such as GBIF is typically identified through licence information, access status, and download options rather than bibliographic metadata. These elements help users determine whether and how data can be reused.
 ***
 
-</section>
-
----
-
-## Bilderverzeichnis
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| `images/file-699885c238ddb.PNG` | Susan standing under a green question mark | Image unbenannt | U |
-| `images/image-34Ps9T5R.png` | Screenshot GBIF search | Untitled Image | U |
-
-## Hinweise und Prüfbedarf
-
-- **Persona-Zuordnung:** Susan wurde als `@SusanH` umgesetzt, da der H5P-Platzhalter den Titel „Susan Quiz“ trägt und das zugehörige Persona-Bild Susan zeigt.
-- **Randomisierung:** `data-randomize` übernommen, da `randomAnswers: true` eingestellt ist.
-- **Feedback:** Die drei richtigen und drei falschen Antwortoptionen besitzen jeweils eigenes Feedback. Die Texte wurden entsprechend zugeordnet.
-- **Korrekturvorschlag:** „Check issues and qualities“ ist sprachlich ungewöhnlich. Möglicherweise ist eine andere Formulierung beabsichtigt. Originaltext unverändert übernommen.
-- **Lizenz:** Die Bildlizenzen sind im Export mit `U` angegeben (unbekannt). Die Quiz-Metadaten nennen CC BY 4.0.
-
-**Kapitel 2.3.3 abgeschlossen.** Ich warte auf das nächste Kapitel.
+</div>
 
 
-
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-email:
-version: 1.0
-language: en
-narrator:
-comment: Converted from H5P Portfolio chapter 2.3.4
-logo:
-license: CC BY 4.0
--->
 
 # 2.3.4 Scenario 3: Collection Management
 
