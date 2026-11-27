@@ -1837,8 +1837,77 @@ LLM-based assistants can help formulate search queries, identify relevant resour
 
 
 ## 2.3 Scenario-based Quizzes
+### Scenario 1: Archaeology
 
-<!--- question 1: WiNoDa_04_004_0866b_Drag-the-Words |
+<!---
+style
+.lia-figure {
+  float: none !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+--->
+
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+
+<div style="flex: 0 0 30%; min-width: 0;">
+
+![Anita standing under a large question mark](images/Quiz-Anita.PNG)<!--
+width="100%"-->
+
+</div>
+<div class="persona--anita">
+<h3>Scenario 1: Archaeology</h3>
+<p>
+Anita is a second-year PhD candidate in archaeobotany. For her dissertation, she investigates the use of plants in past societies and is currently gathering archaeological data, literature, and information about relevant collections.
+</p><p>
+As she wants to combine evidence from different archaeological sites, periods, and research projects, she needs to explore a variety of resources. Depending on whether she is looking for archaeological datasets, bibliographic references, cross-disciplinary research outputs, linked information, or digitised cultural heritage collections, she uses different search services.
+</p><p>
+**She needs to identify the most suitable resources for each type of information she is looking for.**
+</p>
+</div>
+</div>
+
+
+<!--- question 1: WiNoDa_04_004_0865a_Drag-the-words | license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the Words --->
+
+<div class="persona--anita">
+<h3>Match each search task with the most suitable resource.</h3>
+**Drag the words into the correct boxes.**
+
+<!-- data-randomize -->
+Anita uses [->[(the ARIADNE Portal)|OpenAIRE|ADS|the NFDI4Objects Knowledge Graph]] to search across many **European archaeological repositories and datasets**. 
+
+<!-- data-randomize -->
+To find **archaeological literature and bibliographic references**, she turns to [->[(Zenon)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+
+<!-- data-randomize -->
+[->[(DataCite Commons)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]] helps her to discover datasets, publications, and software **across disciplines**. 
+
+<!-- data-randomize -->
+To explore **linked information** about archaeological objects, places, and collections **from open sources worldwide** she uses [->[(Wikidata)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+
+<!-- data-randomize -->
+To search digitised **cultural heritage collections held by European institutions**, she starts with [->[(Europeana)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
+***********************************************************************
+**Feedback**
+
+Each of these services provides a different entry point for archaeological research.
+
+- **ARIADNE Portal** helps Anita discover archaeological datasets and resources across European repositories.
+- **Zenon** is particularly useful for finding archaeological literature and bibliographic references.
+- **DataCite Commons** enables her to discover research outputs such as datasets, publications, and software across disciplines.
+- **Wikidata** provides access to linked information about archaeological objects, places, people, and collections.
+- **Europeana** makes digitised cultural heritage collections from European institutions discoverable.
+
+No single service covers all her research needs. Combining different search resources allows Anita to access a broader range of literature, data, and contextual information for her dissertation.
+***********************************************************************
+</div>
+
+### Scenario 2: Biodiversity
+
+<!--- question 2: WiNoDa_04_004_0866b_Drag-the-Words |
 license: CC BY 4.0 | authors: Anna Lisa Schwartz (ORCID: https://orcid.org/0000-0003-0391-3879) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the words --->
 
 <!---
@@ -1860,7 +1929,7 @@ width="100%"-->
 
 </div>
 <div class="persona--susan">
-<h3>Scenario 1: Biodiversity</h3>
+<h3>Scenario 2: Biodiversity</h3>
 <p>
 As part of a project, Susan is investigating the impact of climate change on the beautiful demoiselle (*Calopteryx virgo*) in Germany.
 </p><p>
@@ -1898,130 +1967,6 @@ To search through millions of occurrence records, including historical collectio
 
 
 
-
-
-
-
-## Hinweise und Korrekturvorschläge
-
-### Platzhalter
-- `Work in progress` – Arbeitsstandshinweis.
-- `this needs to be one or several scenario-quizzes` – redaktioneller Arbeitsauftrag.
-- `I have not enough understanding of archaeology` – Hinweis auf noch fehlende fachliche Ausarbeitung.
-- `Anita Quiz` – Platzhalter für eine noch zu erstellende Quizaktivität.
-- `Replace this text with H5P activity / quiz` – expliziter H5P-Platzhalter.
-
-### Korrekturvorschläge (nicht im Kurstext geändert)
-- `mammut teeth` → möglicherweise `mammoth teeth`.
-- `not enough understanding of archaeology` → grammatikalisch möglicherweise `not enough knowledge of archaeology`.
-- `you can feedback every option` → möglicherweise `you can provide feedback on every option`.
-- `sth like that` → informeller Ausdruck; gegebenenfalls `something like that`.
-- `gbif` → Schreibweise des Eigennamens prüfen: `GBIF`.
-- `pangaea` → Schreibweise des Eigennamens prüfen: `PANGAEA`.
-
-### Bilder
-Persona-Bilder werden entsprechend deiner Vorgabe nicht separat eingebunden.
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-699897ee8561b.PNG | Anita standing under a green question mark | Nicht angegeben | U |
-
-### Unklare Zuordnungen
-- `Anita Quiz`: Die Persona-Zuordnung ist aufgrund des H5P-Titels eindeutig. Die eigentliche Quizfrage fehlt jedoch.
-- Die erste Textpassage ist ein interner Arbeitsauftrag und keine fertige Lerninhaltsseite.
-- Keine Quizfragen oder Antwortoptionen vorhanden.
-- Keine Randomisierung erforderlich.
-- LiaScript-Skill-Datei nicht abrufbar; Umsetzung nach den vorgegebenen Regeln.
-
-
-
-<!--
-author: Asta v. Schröder (WiNoDa Knowledge Lab)
-email:
-version: 1.0
-language: en
-narrator:
-comment: 2.2.8 Quiz: Archaeological data sources
-license: CC BY 4.0
--->
-
-# 2.2.8 Quiz: Archaeological data sources
-
-@Winnie_(```**Summary**
-
-I prepared a **table overview of the archaeological data sources** for you to download.
-
-Download
-
-[PLATZHALTER: todo - add link]```)
-
----
-
-<!-- question 1: WiNoDa_04_004_0865a_Drag-the-words -->
-<!-- license: CC BY 4.0 | authors: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab | yearFrom: 2026 | contentType: Drag the Words -->
-
-@WinnieH(```Match each search task with the most suitable resource. Drag the words into the correct boxes```)
-
-<!--
-data-randomize
--->
-
-- To search across many European archaeological repositories and datasets, use [[(ARIADNE Portal)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
-
-- To find archaeological literature and bibliographic references, use [[(Zenon)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
-
-- To discover datasets, publications, and software across disciplines, use [[(DataCite Commons)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
-
-- To explore linked information about archaeological objects, places, and collections from open sources all over the world use [[(Wikidata)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
-
-- To search digitised cultural heritage collections from European institutions, use [[(Europeana)|OpenAIRE|ADS|NFDI4Objects Knowledge Graph]].
-
----
-
-## Hinweise und Korrekturvorschläge
-
-### Platzhalter
-- `todo - add link`: Der Download-Link zur Tabelle mit der Übersicht der archäologischen Datenquellen fehlt.
-- Die Beschriftung `Download` ist vorhanden, aber ohne funktionierenden Link.
-
-### Bilder
-
-| Dateiname | Alt-Text | Caption | Lizenz |
-|---|---|---|---|
-| images/file-6a4bcd1fcc57b.png | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
-| images/file-69989815a8b84.PNG | Winnie standing under a green question mark | Nicht angegeben | U |
-
-### Quiz
-- Ursprünglicher Titel: `WiNoDa_04_004_0865a_Drag-the-words`
-- Inhaltstyp: Drag the Words
-- Lizenz: CC BY 4.0
-- Autorin: Asta v. Schröder (ORCID: https://orcid.org/0009-0007-5852-771X) as part of WiNoDa Knowledge Lab
-- Jahr: 2026
-- Alle fünf richtigen Zuordnungen wurden übernommen.
-- Die drei Distraktoren wurden als falsche Antwortmöglichkeiten berücksichtigt.
-- Randomisierung wurde nicht übernommen: Die fünf Zuordnungen sind jeweils an eine konkrete Suchaufgabe gebunden. Eine zufällige Reihenfolge der Aufgaben ist nicht erforderlich.
-- Keine Tipps oder individuelles Feedback vorhanden.
-- Kein Gesamtfeedbacktext vorhanden.
-
-### Unklare Zuordnungen
-- Die Zusammenfassung wurde aufgrund des H5P-Titels `Winnie Answer / Explanation` dem Makro `@Winnie_` zugeordnet.
-- Die Quiz-Anweisung wurde aufgrund des H5P-Titels `Winnie Quiz` dem Makro `@WinnieH` zugeordnet.
-- Die drei Distraktoren sind im Original nicht einzelnen Aufgaben zugeordnet. Sie wurden deshalb als allgemeine falsche Antwortmöglichkeiten behandelt.
-
-### Korrekturvorschläge
-Keine eindeutigen Rechtschreib- oder Grammatikfehler festgestellt.
-
-
-
-<!--
-author:
-email:
-version: 1.0
-language: en
-narrator:
-comment: 3 - Where to find Open Data
-license: CC BY 4.0
--->
 
 # 3 - Where to find Open Data
 
