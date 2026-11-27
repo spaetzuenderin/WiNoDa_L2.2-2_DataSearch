@@ -2188,3 +2188,93 @@ Folgende mögliche sprachliche Fehler wurden unverändert übernommen:
 - „During her time“: mögliche Unstimmigkeit zwischen dem genannten Namen Birger Neuhaus und dem verwendeten Pronomen „her“.
 - „GeoRef supports searches for literatur“: Schreibfehler im Original.
 
+
+<!--
+version: 1.0
+language: en-GB
+license: CC BY 4.0
+-->
+
+# 2.1.5 Cross-disciplinary research infrastructures
+
+@AnitaH(```Which cross-disciplinary research infrastructures are useful for my data research?```)
+
+@Winnie_(```The following cross-disciplinary research infrastructures provide access to research outputs, datasets, publications and services from different disciplines.```)
+
+<details>
+<summary>DataCite Commons - Discovery, analytics, and reporting tool for research output</summary>
+
+**URL:** https://commons.datacite.org/
+
+**What you can find:** Datasets, publications, software, researchers, organisations, and other research outputs from many disciplines.
+
+**Why is it useful?**
+
+DataCite Commons helps researchers discover connections between different types of research outputs. It is useful when looking beyond disciplinary infrastructures or tracing links between datasets, publications, and contributors.
+
+</details>
+
+<details>
+<summary>EOSC (European Open Science Cloud) Portal/EU Node - Central platform for European Open Science output</summary>
+
+**URL:** https://open-science-cloud.ec.europa.eu/resources/all
+
+**What you can find:** Research services, datasets, repositories, and infrastructures from across Europe.
+
+**Why is it useful?**
+
+The European Open Science Cloud (EOSC) provides access to a broad ecosystem of research services and resources. It is useful for discovering infrastructures and datasets beyond the boundaries of a single discipline.
+
+</details>
+
+<details>
+<summary>Open Archaeology Data (Meta Journal)</summary>
+
+**URL:** https://openarchaeologydata.metajnl.com/
+
+**What you can find:** Open-access archaeological publications and associated scholarly content.
+
+**Why is it useful?**
+
+Open Archaeology Data provides access to peer-reviewed archaeological data papers that are freely available online. It can serve as a starting point for identifying relevant projects, datasets, and research communities.
+
+</details>
+
+<details>
+<summary>OpenAIRE (Open Access Infrastructure for Research in Europe)</summary>
+
+**URL:** https://explore.openaire.eu
+
+**What you can find:** Publications, datasets, software, projects, and other research outputs from many disciplines.
+
+**Why is it useful?**
+
+OpenAIRE supports cross-disciplinary discovery of research outputs and has a strong focus on Open Science. It is particularly useful for identifying openly available resources linked to specific projects or research topics.
+
+</details>
+
+---
+
+## Image inventory
+
+| Filename | Alt-text | Caption | Licence |
+|---|---|---|---|
+| `images/file-699888b3b742a.png` | Anita's head in an orange circle. Anita asks | Anita | U |
+| `images/file-6a4bcd1fcc57b.png` | Winnie's head in a square frame. Winnie answers | Winnie answers | U |
+
+*The persona images are represented by their LiaScript macros and are not embedded separately.*
+
+---
+
+## Hinweisliste
+
+- **Platzhalter:** Keine.
+- **Fehlende Alt-Texte:** Keine.
+- **Unvollständige Texte:** Keine.
+- **Korrekturen:** Keine vorgenommen.
+- **Persona-Zuordnung:** Anita Question → `@AnitaH`; Winnie Answer / Explanation → `@Winnie_`.
+- **Stilzuordnung:** Die vier Einträge wurden als lokale Accordion-Abschnitte mit `<details>` und `<summary>` umgesetzt.
+- **Quizzes:** Keine vorhanden.
+- **Randomisierung:** Nicht zutreffend.
+- **Metadaten:** Autor, E-Mail, Narrator und Logo waren in der Quelle nicht angegeben.
+- **Lizenz:** Kurslizenz gemäss Vorgabe CC BY 4.0; die Bildmetadaten weisen jeweils `U` aus.
